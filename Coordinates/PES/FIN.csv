@@ -1,0 +1,107 @@
+iso3,address,lon,lat
+FIN,"Antinkatu 1, 2. kerros, 00100 Helsinki",24.931658,60.1704439
+FIN,"Ratapihantie 7, 00520 Helsinki",24.9350681,60.1992178
+FIN,"Kauppakeskus Sello, Leppävaarankatu 3-9, 02600 Espoo. Palvelemme kauppakeskuksen 2. kerroksessa rautatieaseman puolella.",24.81394592,60.2159019
+FIN,"Urakankatu 1, 05900 Hyvinkää",24.850425,60.63415
+FIN,"Elina Kurjenkatu 11 A, 10300, Karjaa ",23.656134,60.069268
+FIN,"Mannilantie 28 A, 04400 Järvenpää",25.091779,60.470573
+FIN,"Nummentie 1214, 08100 Lohja",24.07385,60.25185
+FIN,"Mannerheiminkatu 20 D, 06100 Porvoo",25.665691,60.396003
+FIN,"Vernissakatu 1, 01300 Vantaa, 5. kerros",25.04608052,60.29083075
+FIN,"Vareliuksenkatu 2 A, 32200 Loimaa",23.052095,60.85099
+FIN,"Torikatu 4, 24100 Salo",23.130679,60.385037
+FIN,"Itsenäisyydenaukio 2,  20800 Turku",22.262978,60.445132
+FIN,"Rantakatu 25, 23500 Uusikaupunki",21.4126146,60.7994655
+FIN,"Teljänkatu 5, Pori",21.811598,61.477527
+FIN,"Aittakarinkatu 21,Rauma",21.4900729,61.1262407
+FIN,"Harjavallankatu 6, 29200 Harjavalta",22.148201,61.312393
+FIN,"Keskuskatu 42, 38700 Kankaanpää",22.395671,61.801514
+FIN,"Hämeentie 7, 30100 Forssa (Torikeskus Business Center)",23.64400998,60.81976568
+FIN,"Höyrysahanraitti 1D, PL 105, 13200 Hämeenlinna",27.226031,60.569948
+FIN,"Kirkkokatu 12, PL 84, 15140 Lahti",25.66680976,60.98488285
+FIN,"Temppelikatu 2, PL 61, 11100 Riihimäki",24.769129,60.736146
+FIN,"Pirkanmaan TE-toimisto/Kirjaamo, PL 297, 33101 Tampere",23.892276,61.450014
+FIN,"Satamantie 4, 49460 Hamina",27.1607309,60.5438823
+FIN,"Tainionkoskentie 70, 55120 Imatra
+",28.7759936,61.1915319
+FIN,"Laivurinkatu 3 B, 48100 Kotka
+",26.945569,60.468463
+FIN,"Salpausselänkatu 26, 45100 Kouvola
+",26.69873499,60.86751517
+FIN,"Villimiehenkatu 2 B, 53100 Lappeenranta",28.190291,61.057508
+FIN,"Jääkärinkatu 14, 50100 Mikkeli",27.26175979,61.6975662
+FIN,"Savontie 20, 2.krs, 76100 Pieksämäki",27.151037,62.300042
+FIN,"Olavinkatu 24 1.krs, 57130 Savonlinna",28.8927244,61.86649245
+FIN,"Kallanranta 11
+PL 2000, 70101 Kuopio",27.689752,62.8868386
+FIN,"Toritie 12, Siilinjärvi
+PL 2000, 70101 Kuopio",27.6578772,63.0742987
+FIN,"Karjalankatu 3, Iisalmi
+PL 2000, 70101 Kuopio",27.6694555,62.8968156
+FIN,"Wredenkatu 2, Varkaus
+PL 2000, 70101 Kuopio",27.674468,62.893059
+FIN,"Torikatu 36 A (4. krs), 80100 Joensuu",29.768421,62.605635
+FIN,"Soihtulantie 7, 82900 Ilomantsi",30.926368,62.671194
+FIN,"Hovintie 3, 82500 Kitee",30.13475,62.100071
+FIN,"Kainuuntie 5, 81700 Lieksa",30.023409,63.322224
+FIN,"Nurmeksenkatu 25, 75500 Nurmes",29.14306817,63.543157
+FIN,"Vapaudenkatu 58 A, PL 400
+40100 Jyväskylä",25.753969,62.243673
+FIN,"Seppolantie 5
+42100 Jämsä",25.184313,61.862178
+FIN,"Torikatu 6A, 44100 Äänekoski",25.72243951,62.60383754
+FIN,"Länsitie 5, 19650 Joutsa",26.12689602,61.8253884
+FIN,"Kannonkoski
+43300",25.2637374,62.9768822
+FIN,"Valtionkatu 1, 60100 Seinäjoki",22.842735,62.791802
+FIN,"Järvikatu 3, 62900 Alajärvi",23.81860932,63.00277054
+FIN,"Puistotie 50, 61800 Kauhajoki",22.177846,62.43052
+FIN,"Ostolantie 17, 63700 Ähtäri
+puh. (06) 2525 6000",24.067308,62.550477
+FIN,"Torikatu 4, 63300 Alavus",23.61505505,62.58597575
+FIN,"Rasintie 1 A, PL 25, 64700 Teuva",21.728997,62.472825
+FIN,"Kappelintie 13, 69600 Kaustinen",23.6919711,63.5492963
+FIN,"Pitkänsillankatu 15 (kauppakeskus Kallentori, keskusaukio)
+
+67100 Kokkola",23.12622542,63.83620235
+FIN,"Kanavapuistikko 1
+
+68600 Pietarsaari",22.7103418,63.6758641
+FIN,"Närpiöntie 4, 64200 Närpiö",21.37271407,62.27577406
+FIN,"Merikatu 47
+64100 Kristiinankaupunki",21.37848,62.273221
+FIN,"Wolffintie 35 B, VAASA",21.598452,63.105391
+FIN,"Uusikatu 52 (1. kerros), 90100 Oulu",25.469402,65.008299
+FIN,"Uusikatu 52 (1. kerros), 90100 Oulu",25.469402,65.008299
+FIN,"Hallituskatu 36 B, (2. kerros), 90100 Oulu",25.4809799,65.0107348
+FIN,"Puistokatu 39, 85800 Haapajärvi",25.31798,63.750761
+FIN,"Kitkantie 28, 93600 Kuusamo",29.183778,65.968597
+FIN,"Jukolantie 1, 93100 Pudasjärvi",26.994046,65.358521
+FIN,"Fellmanin puistokatu 3, 92100 Raahe",24.4747887,64.6827185
+FIN,"Valtakatu 4, 84100 Ylivieska",24.5323217,64.0717286
+FIN,"Kalliokatu 4
+87100 Kajaani",27.7246432,64.2222864
+FIN,"Koulukatu 12
+88900 Kuhmo",29.52410769,64.12687675
+FIN,"Kauppakatu 20 B (kunnan virastotalo)
+89600 Suomussalmi",28.9145906,64.8847582
+FIN,"Petsamontie 3, 99800 Ivalo
+Asiakaspalvelu palvelee vain ajanvarauksella.",27.5445933,68.6599678
+FIN,"Puistomäentie 1, 99400 Enontekiö
+Asiakaspalvelu palvelee vain ajanvarauksella.",23.640694,68.386949
+FIN,"Valtakatu 28, 94100 Kemi
+Asiakaspalvelu palvelee vain ajanvarauksella.",24.5715917,65.73498
+FIN,"Kirkkokatu 16, 98100 Kemijärvi
+Asiakaspalvelu palvelee vain ajanvarauksella.",27.34642667,66.71436713
+FIN,"Valtatie 60, 99100 Kittilä
+Asiakaspalvelu palvelee vain ajanvarauksella",24.90607,67.659244
+FIN,"Isopalontie 2, 95900 Kolari
+Asiakaspalvelu palvelee vain ajanvarauksella",23.7925519,67.3313525
+FIN,"Lahenrannantie 1, 99300 Muonio
+",23.68345442,67.9559844
+FIN,"Kirkkotie 1, 97900 Posio",28.16857155,66.10973035
+FIN,"Valtakatu 16, 96200 Rovaniemi",25.7334778,66.5023943
+FIN,"Postipolku 3, 98900 Salla",28.67195063,66.8337926
+FIN,"Samperintie 4, 98800 Savukoski",28.156924,67.2924643
+FIN,"Jäämerentie 2, 99600 Sodankylä",26.60227,67.43294
+FIN,"Alkkulanraitti 55, 95600 Ylitornio",23.6753265,66.3248293

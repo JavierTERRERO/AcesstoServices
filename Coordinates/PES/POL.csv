@@ -1,0 +1,356 @@
+iso3,address,lon,lat
+POL,"Armii Krajowej 54, Wrocław, dolnośląskie",17.06124195692186,51.08474879576116
+POL,"Ogrodowa 5b, Wałbrzych, dolnośląskie",16.293621061506514,50.81252683457569
+POL,"Obrońców Helu 10, Bolesławiec, dolnośląskie",15.560911379550078,51.26105160976809
+POL,"Rynek 27, Dzierżoniów, dolnośląskie",16.65096388973805,50.727776741016555
+POL,"Piaskowa 1, Głogów, dolnośląskie",16.098247615666253,51.66216565839116
+POL,"Poznańska 4, Góra, dolnośląskie",16.5415834060598,51.67154366693998
+POL,"Strzegomska 7, Jawor, dolnośląskie",16.198133749979604,51.04868507061559
+POL,"Sienkiewicza 6a, Kamienna Góra, dolnośląskie",16.028457207618487,50.78170515167605
+POL,"Wyspiańskiego 2J, Kłodzko, dolnośląskie",16.660561168873954,50.43317317051495
+POL,"Lwówecka 10, Lubań, dolnośląskie",15.292621736149451,51.11774742384051
+POL,"Jana Kilińskiego 12B, Lubin, dolnośląskie",16.210997708240058,51.40124384379072
+POL,"Budowlanych 1, Lwówek Śląski, dolnośląskie",15.59714123401659,51.10637066937349
+POL,"Wojska Polskiego 40, Milicz, dolnośląskie",17.283687441276243,51.52711329121473
+POL,"Wojska Polskiego 13, Oleśnica, dolnośląskie",17.38937049982573,51.21324257515988
+POL,"3-go Maja 1, Oława, dolnośląskie",17.29570960500078,50.945587242462494
+POL,"Legnicka 15, Polkowice, dolnośląskie",16.070208473163746,51.49833930726086
+POL,"Kamienna 10, Strzelin, dolnośląskie",17.059968662010505,50.77973112965921
+POL,"Wrocławska 4, Środa Śląska, dolnośląskie",16.657322988220187,51.0964614158014
+POL,"Skłodowskiej 5, Świdnica, dolnośląskie",16.465563651391108,50.84229537325086
+POL,"Kościuszki 10, Trzebnica, dolnośląskie",17.0602785409709,51.31075998363585
+POL,"pl. Piastowski 2, Wołów, dolnośląskie",16.64944827400589,51.33532926968081
+POL,"Powstańców Warszawy 7, Ząbkowice Śląskie, dolnośląskie",16.822676480199533,50.5911642502021
+POL,"Pułaskiego 14, Zgorzelec, dolnośląskie",15.007715409159516,51.1519790772125
+POL,"al. Miła 18, Złotoryja, dolnośląskie",15.912461725954188,51.122537893765866
+POL,"Podchorążych 15, Jelenia Góra, dolnośląskie",15.733375323812197,50.919314166959055
+POL,"Andersa 2, Legnica, dolnośląskie",16.154867203978284,51.2030757037937
+POL,"Gliniana 20/22, Wrocław, dolnośląskie",17.035177004074285,51.0938318451372
+POL,"Szosa Chełmińska 30/32, Toruń, kujawsko-pomorskie",18.601467292104587,53.0174306794151
+POL,"Przemysłowa 1, Aleksandrów Kujawski, kujawsko-pomorskie",18.70647845729556,52.86560344177559
+POL,"Żwirki i Wigury 3, Brodnica, kujawsko-pomorskie",19.406737852565357,53.257403142404456
+POL,"Świętojerska 1, Chełmno, kujawsko-pomorskie",18.436701203899787,53.34930258027711
+POL,"Szosa Rypińska 26, Golub-Dobrzyń, kujawsko-pomorskie",19.066738942203443,53.10751375886963
+POL,"Parkowa 22, Grudziądz, kujawsko-pomorskie",18.76507801877571,53.47583960437953
+POL,"Mątewska 17, Inowrocław, kujawsko-pomorskie",18.261291020671507,52.75331091729612
+POL,"Okrzei 7, Lipno, kujawsko-pomorskie",19.189480263362384,52.8404216900656
+POL,"Obrońców Mogilna 1, Mogilno, kujawsko-pomorskie",17.93494480565886,52.660582257742334
+POL,"Dąbrowskiego 46, Nakło nad Notecią, kujawsko-pomorskie",17.593956495446122,53.13712165837043
+POL,"Kościuszki 20/22, Radziejów, kujawsko-pomorskie",18.526814458205735,52.62281113891993
+POL,"Nowy Rynek 14, Rypin, kujawsko-pomorskie",19.413393418962784,53.064910808142685
+POL,"Kościuszki 11, Sępólno Krajeńskie, kujawsko-pomorskie",17.538216923148468,53.45660095729707
+POL,"Wojska Polskiego 195A, Świecie, kujawsko-pomorskie",18.462358293338838,53.414236890810656
+POL,"Polna 115/115A, Toruń, kujawsko-pomorskie",18.64226486470656,53.03849909596076
+POL,"Pl.Wolności 23, Tuchola, kujawsko-pomorskie",17.859840941550146,53.5876860020625
+POL,"Wolności 44, Wąbrzeźno, kujawsko-pomorskie",18.946312870339625,53.2756529344598
+POL,"Składowa 4, Żnin, kujawsko-pomorskie",17.744053750179745,52.84705223648206
+POL,"Toruńska 147, Bydgoszcz, kujawsko-pomorskie",18.082374435887857,53.118787963464285
+POL,"Mazowiecka 49a, Toruń, kujawsko-pomorskie",18.625992656976905,53.04185185723094
+POL,"Kapitulna 24, Włocławek, kujawsko-pomorskie",19.050267161359216,52.655479145541534
+POL,"Obywatelska 4, Lublin, lubelskie",22.57114593990667,51.25866871851434
+POL,"Bohaterów Monte Cassino 38, Biłgoraj, lubelskie",22.717167661859264,50.52815459227568
+POL,"Leśmiana 11, Hrubieszów, lubelskie",23.8911123778164,50.80192666072489
+POL,"Jana Zamoyskiego 70, Janów Lubelski, lubelskie",22.41867157743252,50.70198202072734
+POL,"Mostowa 4, Krasnystaw, lubelskie",23.17471203542067,50.98447390877851
+POL,"Aleja Niepodległości 20, Kraśnik, lubelskie",22.166257268826598,50.96362451136281
+POL,"Klemensa Junoszy Szaniawskiego 64, Lubartów, lubelskie",22.605177975541523,51.464241515595575
+POL,"Mełgiewska 11c, Lublin, lubelskie",22.62211847241136,51.24477143923042
+POL,"Aleja Jana Pawła II 95, Łęczna, lubelskie",22.886840851459112,51.2989180727391
+POL,"Piłsudskiego 14, Łuków, lubelskie",22.378712949519382,51.930424152841056
+POL,"Stary Rynek 14/16, Opole Lubelskie, lubelskie",21.967393766142152,51.14762224776095
+POL,"Bema 2, Parczew, lubelskie",22.89856495470673,51.64116643445621
+POL,"Lubelska 2G, Puławy, lubelskie",21.97180273103146,51.4158814127631
+POL,"Chomiczewskiego 10, Radzyń Podlaski, lubelskie",22.61580631258701,51.7812286651606
+POL,"Rynek Stary 50/55, Ryki, lubelskie",21.935606990910884,51.62640548386909
+POL,"Aleja Lotników Polskich 1, Świdnik, lubelskie",22.700182573264556,51.22695318946006
+POL,"Lwowska 35, Tomaszów Lubelski, lubelskie",23.41868451024345,50.44994276037903
+POL,"Niecała 2, Włodawa, lubelskie",23.557136703076367,51.54528001860962
+POL,"Brzeska 101, Biała Podlaska, lubelskie",23.14527613257303,52.03835372907963
+POL,"Plac Niepodległości 1, Chełm, lubelskie",23.494376113402836,51.133295312120254
+POL,"Niecała 14, Lublin, lubelskie",22.56046764671825,51.25146225153071
+POL,"Plac Wolności 1, Zamość, lubelskie",23.25429937953794,50.71559108827057
+POL,"Wyspiańskiego 15, Zielona Góra, lubuskie",15.519469657689086,51.94515056998708
+POL,"Piastów 10B, Krosno Odrz., lubuskie",15.104001767516138,52.05587924088161
+POL,"Plac Powstańców Wlkp. 1, Międzyrzecz, lubuskie",15.591918805424086,52.444684548510565
+POL,"Staszica 1c, Nowa Sól, lubuskie",15.704276205834134,51.808510628439734
+POL,"Mickiewicza 3, Słubice, lubuskie",14.55818581141446,52.35038092935011
+POL,"Al. Wolności 39, Strzelce Krajeńskie, lubuskie",15.532873326695011,52.8738144379453
+POL,"Lipowa 18b, Sulęcin, lubuskie",15.117136293611082,52.45121539218874
+POL,"Studencka 8, Świebodzin, lubuskie",15.536952882789507,52.24915607937106
+POL,"Dworcowa 9, Żagań, lubuskie",15.314208667405978,51.61611929611121
+POL,"Mieszka I 15, Żary, lubuskie",15.14506974031454,51.63966624142586
+POL,"Łazienna 2a, Wschowa, lubuskie",16.31638220391728,51.80371012674193
+POL,"Walczaka 110, Gorzów Wielkopolski, lubuskie",15.279884270988362,52.766881553813306
+POL,"Batorego 126A, Zielona Góra, lubuskie",15.495875773716648,51.9591874917779
+POL,"Wólczańska 49, Łódź, łódzkie",19.45209274974283,51.76710151218208
+POL,"Bawełniana 3, Bełchatów, łódzkie",19.36986250773532,51.368929218207
+POL,"Wyszyńskiego 11, Kutno, łódzkie",19.367514233741673,52.229794595497566
+POL,"Objazdowa 4, Łask, łódzkie",19.134369501440972,51.59479648880418
+POL,"H. Sienkiewicza 31, Łęczyca, łódzkie",19.204794251921015,52.058498837081004
+POL,"Stanisława Stanisławskiego 28, Łowicz, łódzkie",19.932613596288775,52.10238254261313
+POL,"Częstochowska 40/52, Łódź, łódzkie",19.493998449378324,51.75105981965228
+POL,"Rolna 6, Opoczno, łódzkie",20.287861116364525,51.39110815310437
+POL,"Waryńskiego 11, Pabianice, łódzkie",19.34880532293991,51.6632873665836
+POL,"1 Maja 65, Pajęczno, łódzkie",19.006115151106428,51.15172565037
+POL,"Polna 9, Poddębice, łódzkie",18.955498598029607,51.88832059590533
+POL,"Tysiąclecia 2, Radomsko, łódzkie",19.447806495916012,51.065477710713395
+POL,"1-go Maja 1A, Rawa Mazowiecka, łódzkie",20.24448127150607,51.76535796362854
+POL,"Plac Wojewódzki 3, Sieradz, łódzkie",18.732781120917195,51.59353673066644
+POL,"św. Antoniego 41, Tomaszów Mazowiecki, łódzkie",20.01406566240547,51.52672034759388
+POL,"Sieradzka 56A, Wieluń, łódzkie",18.562298993841893,51.2299555033585
+POL,"Waryńskiego 15, Wieruszów, łódzkie",18.15730613570534,51.29575281464298
+POL,"Getta Żydowskiego 4, Zduńska Wola, łódzkie",18.933001066992517,51.604126301409735
+POL,"Barona 10/10, Zgierz, łódzkie",19.39872961463348,51.85322690841426
+POL,"Sienkiewicza 11, Brzeziny, łódzkie",19.7580681740111,51.79996335031464
+POL,"Milionowa 91, Łódź, łódzkie",19.49575651413562,51.75183131906755
+POL,"Dmowskiego 27, Piotrków Trybunalski, łódzkie",19.67637209784854,51.402393635848966
+POL,"Al. Niepodległości 7, Skierniewice, łódzkie",20.152685828578058,51.95413022858747
+POL,"Plac Na Stawach 1, Kraków, małopolskie",19.921621819921597,50.05496372005669
+POL,"Wojska Polskiego 3, Bochnia, małopolskie",20.431783423028776,49.97573453466208
+POL,"Piłsudskiego 19, Brzesko, małopolskie",20.605758540614403,49.96628205290358
+POL,"Słowackiego 8, Chrzanów, małopolskie",19.400778235588575,50.1420482155597
+POL,"Marsz.Józefa Piłsudskiego 33, Dąbrowa Tarnowska, małopolskie",20.984131563913138,50.16928923324184
+POL,"Michalusa 18, Gorlice, małopolskie",21.17188602740498,49.6685369450918
+POL,"J.Marka 9, Limanowa, małopolskie",20.420114975618247,49.70453998525838
+POL,"Sienkiewicza 27, Miechów, małopolskie",20.022001899789075,50.356554738411944
+POL,"Drogowców 2, Myślenice, małopolskie",19.953565252923198,49.83215550884239
+POL,"Szpitalna 14, Nowy Targ, małopolskie",20.027371346963264,49.48976209829084
+POL,"Minkiewicza 2, Olkusz, małopolskie",19.57612354288628,50.27660093748784
+POL,"Wyspiańskiego 10, Oświęcim, małopolskie",19.239581580851024,50.03019867466307
+POL,"Krakowska 11, Proszowice, małopolskie",20.28833595117942,50.1916911686732
+POL,"Mickiewicza 31, Sucha Beskidzka, małopolskie",19.581368518798314,49.739957800945234
+POL,"Ks. Stolarczyka 14, Zakopane, małopolskie",19.944087415907575,49.293345147414755
+POL,"Mickiewicza 27, Wadowice, małopolskie",19.485606783761455,49.88339261612083
+POL,"Sienkiewicza 13a, Wieliczka, małopolskie",20.064009316295397,49.985334831283126
+POL,"Wąwozowa 34, Kraków, małopolskie",20.05951770584076,50.086317821446016
+POL,"Zielona 55, Nowy Sącz, małopolskie",20.695305429722794,49.603076460586436
+POL,"Pl. Gen. J.Bema 3, Tarnów, małopolskie",20.987138207844325,50.010309100382884
+POL,"Mazowiecka 21, Kraków, małopolskie",19.929564092275484,50.07438928357996
+POL,"Nawojowska 118, Nowy Sącz, małopolskie",20.716889752408918,49.6000527309254
+POL,"Młynarska 16, Warszawa, mazowieckie",20.972836530289072,52.23639245249163
+POL,"Składowa 5, Białobrzegi, mazowieckie",20.935077146131107,51.647566604263886
+POL,"Sygietyńskiego 11, Ciechanów, mazowieckie",20.597252920548073,52.88790286653111
+POL,"Mazowiecka 26, Garwolin, mazowieckie",21.604980389403636,51.899762354744496
+POL,"Płocka 66/68, Gostynin, mazowieckie",19.476539743820467,52.43890836948478
+POL,"Daleka 11A, Grodzisk Mazowiecki, mazowieckie",20.617258260314003,52.09658825867652
+POL,"Laskowa 4a, Grójec, mazowieckie",20.87711134035007,51.865323712986566
+POL,"Zdziczów 1, Kozienice, mazowieckie",21.537330300331746,51.596510462275006
+POL,"Gen.Władysława Sikorskiego 11, Legionowo, mazowieckie",20.939031560411223,52.421858404959494
+POL,"Rynek 29, Lipsko, mazowieckie",21.649602037691324,51.15926357971469
+POL,"Narutowicza 6, Łosice, mazowieckie",22.713662852865497,52.210317650907825
+POL,"Przasnyska 77B, Maków Mazowiecki, mazowieckie",21.096069198612156,52.87483300681916
+POL,"Przemysłowa 4, Mińsk Mazowiecki, mazowieckie",21.581519107139457,52.185114609163776
+POL,"Wyspiańskiego 7, Mława, mazowieckie",20.376334954228412,53.11167378123463
+POL,"Juliusza Słowackiego 6, Nowy Dwór Maz., mazowieckie",20.715025114228496,52.42922978588808
+POL,"3-go Maja 55, Ostrów Mazowiecka, mazowieckie",21.89075760631391,52.799561462737415
+POL,"Górna 11, Otwock, mazowieckie",21.259327047159587,52.11050712136111
+POL,"Czajewicza 2/4, Piaseczno, mazowieckie",21.024844144016896,52.071546107563904
+POL,"Wolności 12, Płońsk, mazowieckie",20.37185289914339,52.62432067777232
+POL,"Drzymały 30, Pruszków, mazowieckie",20.80183975435878,52.163183904328946
+POL,"B.Joselewicza 6, Przasnysz, mazowieckie",20.883761877605593,53.021897227979224
+POL,"Szkolna 7, Przysucha, mazowieckie",20.63339007116545,51.3612989202893
+POL,"Nowy Rynek 3, Pułtusk, mazowieckie",21.08718848837873,52.70111919506505
+POL,"Witosa 2, Sierpc, mazowieckie",19.67570097170571,52.84360140694474
+POL,"Kusocińskiego 11, Sochaczew, mazowieckie",20.25095417175953,52.225724008039435
+POL,"Oleksiaka Wichury 3, Sokołów Podlaski, mazowieckie",22.218857566927966,52.410238027763654
+POL,"Metalowa 7, Szydłowiec, mazowieckie",20.86669045540816,51.235623052919095
+POL,"Grochowska 171b, Warszawa, mazowieckie",21.09449205971066,52.243322526218066
+POL,"Piłsudskiego 23, Węgrów, mazowieckie",22.015223587870224,52.39481494873522
+POL,"Warszawska 5a, Wołomin, mazowieckie",21.235923683846323,52.345122290935876
+POL,"Tadeusza Kościuszki 15, Wyszków, mazowieckie",21.45519075051658,52.592196908123896
+POL,"Ludowa 7, Zwoleń, mazowieckie",21.584034767739496,51.35102077915846
+POL,"Lidzbarska 27a, Żuromin, mazowieckie",19.90200950759558,53.06732475434771
+POL,"Limanowskiego 45, Żyrardów, mazowieckie",20.435170047187796,52.05624280593182
+POL,"11-go Listopada 68, Ostrołęka, mazowieckie",21.588693680981493,53.079068890343905
+POL,"Kostrogaj 1, Płock, mazowieckie",19.699831297481353,52.563462612481544
+POL,"Księdza  Łukasika 3, Radom, mazowieckie",21.130824341033957,51.387822111783464
+POL,"Kazimierza Pułaskiego 19/21, Siedlce, mazowieckie",22.279699287507555,52.167263628061505
+POL,"3 Maja 16, Płock, mazowieckie",19.704231126096204,52.54550807296556
+POL,"Głogowska 25C, Opole, opolskie",17.963917287872235,50.66262598043936
+POL,"Armii Krajowej 32, Brzeg, opolskie",17.46291549758189,50.856785714093974
+POL,"Pocztowa 6, Głubczyce, opolskie",17.827809833841314,50.19735930496705
+POL,"Anny 11, Kędzierzyn-Koźle, opolskie",18.14711952495719,50.33471514486462
+POL,"Sienkiewicza 22b, Kluczbork, opolskie",18.200910556223675,50.97690463111593
+POL,"Kilińskiego 1A, Krapkowice, opolskie",17.95727505369419,50.490490516639724
+POL,"Plac Wolności 1, Namysłów, opolskie",17.722810235676747,51.07554429260807
+POL,"Słowiańska 19, Nysa, opolskie",17.331348535293415,50.48330055572245
+POL,"Dworcowa 4, Olesno, opolskie",18.42147254311547,50.88086972985457
+POL,"Jagiellońska 21, Prudnik, opolskie",17.577963905966293,50.321226633592396
+POL,"Gogolińska 2a, Strzelce Opolskie, opolskie",18.286421558953094,50.51245503617099
+POL,"Hubala 21, Opole, opolskie",17.95059147195451,50.68340600500042
+POL,"Naruszewicza 11, Rzeszów, podkarpackie",22.0093915434598,50.03625459970732
+POL,"Bełska 22, Ustrzyki Dolne, podkarpackie",22.584123137679,49.43090085379356
+POL,"Rynek 9, Brzozów, podkarpackie",22.022195068198357,49.69727337811946
+POL,"Cmentarna 20, Dębica, podkarpackie",21.42388442597533,50.05529224875164
+POL,"Słowackiego 2, Jarosław, podkarpackie",22.677591081092885,50.0156210362984
+POL,"Rynek 18, Jasło, podkarpackie",21.4740634437064,49.74757376580851
+POL,"Piłsudskiego 59A, Kolbuszowa, podkarpackie",21.771712285360195,50.23876037459763
+POL,"Mickiewicza 56, Leżajsk, podkarpackie",22.420295738810808,50.26001310919412
+POL,"Tadeusza Kościuszki 141, Lubaczów, podkarpackie",23.135311474620977,50.15996134847401
+POL,"Piłsudskiego 9, Łańcut, podkarpackie",22.22879590570406,50.06617183334481
+POL,"Chopina 16a, Mielec, podkarpackie",21.444621338250414,50.29450920889829
+POL,"Sandomierska 6a, Nisko, podkarpackie",22.13773532870121,50.52091040672778
+POL,"Jagiellońska 10, Przeworsk, podkarpackie",22.49207433429177,50.05962816535478
+POL,"Najświętszej Marii Panny 2, Ropczyce, podkarpackie",21.61785457358596,50.054326360139214
+POL,"Rymanowska 20A, Sanok, podkarpackie",22.193388399758078,49.56210282610826
+POL,"Dmowskiego 8, Stalowa Wola, podkarpackie",22.05253772533152,50.56770988300801
+POL,"Daszyńskiego 2, Strzyżów, podkarpackie",21.787531535042234,49.86972935957357
+POL,"Moniuszki 6, Lesko, podkarpackie",22.332323641671024,49.4710759862657
+POL,"Bieszczadzka 5, Krosno, podkarpackie",21.776093925245164,49.679358820281635
+POL,"Katedralna 5, Przemyśl, podkarpackie",22.769160858713633,49.78094949842475
+POL,"Partyzantów 1A, Rzeszów, podkarpackie",22.005149546081725,50.04852901680792
+POL,"1 Maja 3, Tarnobrzeg, podkarpackie",21.66587868782966,50.571432537665316
+POL,"Pogodna 22, Białystok, podlaskie",23.133083732394994,53.11473543900752
+POL,"Mickiewicza 2, Augustów, podlaskie",22.977602110699564,53.839267191402286
+POL,"3 Maja 17, Bielsk Podlaski, podlaskie",23.185631308325384,52.770455220141656
+POL,"STRAŻACKA 6A, GRAJEWO, podlaskie",22.4498869583243,53.65058413876713
+POL,"Marszałka Józefa Piłsudskiego 10a, Hajnówka, podlaskie",23.590816782596903,52.735640691935856
+POL,"Wojska Polskiego 46, Kolno, podlaskie",21.922397865877684,53.41253016768607
+POL,"Wyzwolenia 22, Mońki, podlaskie",22.797050970977665,53.406339671186316
+POL,"Łąkowa 26, Sejny, podlaskie",23.3398373719956,54.11170779453204
+POL,"Legionów Piłsudskiego 3, Siemiatycze, podlaskie",22.863090058259246,52.422565921406516
+POL,"Kryńska 40, Sokółka, podlaskie",23.52330055251872,53.39861302329163
+POL,"1 Maja 8, Wysokie Mazowieckie, podlaskie",22.509907671487838,52.91328662210762
+POL,"Fabryczna 3, Zambrów, podlaskie",22.247561729628387,52.97542837586971
+POL,"Pogodna 63/1, Białystok, podlaskie",23.133921503617387,53.11445929720739
+POL,"Nowogrodzka 1, Łomża, podlaskie",22.073264998417926,53.18060927706799
+POL,"Kościuszki 71a, Suwałki, podlaskie",22.92696921291153,54.10324391634356
+POL,"Podwale Przedmiejskie 30, Gdańsk, pomorskie",18.6503730149243,54.34662211423117
+POL,"Wojska Polskiego 6, Bytów, pomorskie",17.48696250723998,54.16747800268581
+POL,"Lichnowska 5, Chojnice, pomorskie",17.576552227873606,53.68684366517087
+POL,"Jerzego z Dąbrowy 1a, Człuchów, pomorskie",17.35468442428609,53.671089500966985
+POL,"Mściwoja II 4, Kartuzy, pomorskie",18.20346904834895,54.33887585268303
+POL,"Tkaczyka 1, Kościerzyna, pomorskie",17.97569275739403,54.12175891181536
+POL,"Grudziądzka 30, Kwidzyn, pomorskie",18.927430957056316,53.72864019299328
+POL,"Gdańska 35, Lębork, pomorskie",17.75864723034141,54.54618194352193
+POL,"Armii Krajowej 70, Malbork, pomorskie",19.01953524864257,54.02739687078977
+POL,"Morska 1, Nowy Dwór Gdański, pomorskie",19.110108920889957,54.21153077120499
+POL,"Elizy Orzeszkowej 7, Puck, pomorskie",18.407519859451583,54.71435213215386
+POL,"Kanałowa 3, Starogard Gdański, pomorskie",18.532566706897967,53.96903120631774
+POL,"Al. Solidarności 14a, Tczew, pomorskie",18.77903514648213,54.09444203470846
+POL,"I Brygady Pancernej WP 32, Wejherowo, pomorskie",18.25059514029284,54.60410440232794
+POL,"Zawadzkiego 11, Dzierzgoń, pomorskie",19.348152304242575,53.91945359829482
+POL,"Lastadia 41, Gdańsk, pomorskie",18.652512747166924,54.345444247287446
+POL,"Kołłątaja 8, Gdynia, pomorskie",18.52490086971079,54.52111837664671
+POL,"Leszczyńskiego 8, Słupsk, pomorskie",17.00781377824387,54.47973838750261
+POL,"Gdańska 69, Węgrów, mazowieckie",22.01197777968457,52.40825344454882
+POL,"Saperów 24, Elbląg, warmińsko-mazurskie",19.427436459542918,54.16179347977126
+POL,"Kościuszki 30, Katowice, śląskie",19.016742817599663,50.25348419335367
+POL,"Ignacego Krasickiego 17A, Będzin, śląskie",19.131834311006514,50.31553735039921
+POL,"Plac Wolności 6, Cieszyn, śląskie",18.635104791557012,49.74677027657012
+POL,"Długosza 114, Kłobuck, śląskie",18.92774628425377,50.9132703956744
+POL,"Sobieskiego 9, Lubliniec, śląskie",18.682202286404646,50.66446533457585
+POL,"Chopina 8, Łaziska Górne, śląskie",18.84016805274419,50.15255698475639
+POL,"Partyzantów 21, Myszków, śląskie",19.358434369488833,50.56451340232255
+POL,"Dworcowa 23, Pszczyna, śląskie",18.949800915527078,49.977787095111694
+POL,"Klasztorna 6, Racibórz, śląskie",18.2151562890837,50.09042633658068
+POL,"Towarowa 1, Tarnowskie Góry, śląskie",18.841289802846177,50.453321463639526
+POL,"Michalskiego 12, Wodzisław Śląski, śląskie",18.46932625326761,50.00302789732956
+POL,"Parkowa 2, Zawiercie, śląskie",19.434459572394587,50.492168232096446
+POL,"Łączna 28, Żywiec, śląskie",19.176540365059168,49.678071611410985
+POL,"Partyzantów 55, Bielsko-Biała, śląskie",19.044857900144933,49.8134095919381
+POL,"Łagiewnicka 15, Bytom, śląskie",18.91863691570174,50.34011883211329
+POL,"Opolska 19, Chorzów, śląskie",18.934735031302438,50.30891137211998
+POL,"Szymanowskiego 15, Częstochowa, śląskie",19.104872326881093,50.81113426518215
+POL,"Sobieskiego 12, Dąbrowa Górnicza, śląskie",19.165776660277402,50.323841259965604
+POL,"Pl. Inwalidów Wojennych 12, Gliwice, śląskie",18.666410864641136,50.294870468925154
+POL,"Pszczyńska 134, Jastrzębie-Zdrój, śląskie",18.59737834827851,49.95899851432023
+POL,"Północna 9b, Jaworzno, śląskie",19.272881708700623,50.20934022972796
+POL,"Pośpiecha 14, Katowice, śląskie",19.0013959719806,50.26223125414094
+POL,"Mikołowska 4a, Mysłowice, śląskie",19.137259078741664,50.240337555408644
+POL,"Ks. Jerzego Popiełuszki 14, Piekary Śląskie, śląskie",18.952439873922827,50.381843736573046
+POL,"Ballestremów 16, Ruda Śląska, śląskie",18.853357061209778,50.31631996869871
+POL,"Jankowicka 1, Rybnik, śląskie",18.54215954362516,50.08976269983211
+POL,"Wyzwolenia 17, Siemianowice Śląskie, śląskie",19.010528977499604,50.32320637270956
+POL,"Rzeźnicza 12, Sosnowiec, śląskie",19.151337574772242,50.275875777134615
+POL,"Plebiscytowa 3/7, Świętochłowice, śląskie",18.93088044548915,50.28242518672832
+POL,"Budowlanych 59, Tychy, śląskie",18.975798813149225,50.12660862418198
+POL,"Pl. Krakowski 9, Zabrze, śląskie",18.78812448065176,50.30187702751806
+POL,"Osińska 48, Żory, śląskie",18.694178601118807,50.03627450672735
+POL,"Witosa 86, Kielce, świętokrzyskie",20.635946467814932,50.900051757181075
+POL,"Różana 2, Busko-Zdrój, świętokrzyskie",20.715108765622176,50.471819401938376
+POL,"Okrzei 49B, Jędrzejów, świętokrzyskie",20.29190940796022,50.64439453214612
+POL,"Partyzantów 29, Kazimierza Wielka, świętokrzyskie",20.483139176146665,50.268353815315464
+POL,"Stanisława Staszica 2, Końskie, świętokrzyskie",20.408145869340814,51.19945317096983
+POL,"Partyzantów 13, Opatów, świętokrzyskie",21.425489392795356,50.79830869603822
+POL,"Al. 3 Maja 36, Ostrowiec Świętokrzyski, świętokrzyskie",21.38518299971949,50.930041494281056
+POL,"Złota 7, Pińczów, świętokrzyskie",20.526191061607648,50.51856489876218
+POL,"Mickiewicza 34, Sandomierz, świętokrzyskie",21.740175877576775,50.68579015353964
+POL,"1-go Maja 105, Skarżysko-Kamienna, świętokrzyskie",20.903837206263006,51.11956432979534
+POL,"Radomska 76, Starachowice, świętokrzyskie",21.070111701763295,51.06666039725144
+POL,"Szkolna 4, Staszów, świętokrzyskie",21.116102953029838,50.521976542902166
+POL,"Strażacka 11, Włoszczowa, świętokrzyskie",19.960419973340095,50.851456332416944
+POL,"Kolberga 4, Kielce, świętokrzyskie",20.606179898887035,50.88331142015909
+POL,"Szymanowskiego 6, Kielce, świętokrzyskie",20.64770493686558,50.863808701217096
+POL,"Głowackiego 28, Olsztyn, warmińsko-mazurskie",20.48836064722021,53.775173141273356
+POL,"Grota Roweckiego 1, Bartoszyce, warmińsko-mazurskie",20.815338809422855,54.25089072168382
+POL,"Kościuszki 118, Braniewo, warmińsko-mazurskie",19.83988694839175,54.38075687008944
+POL,"Chopina 6, Działdowo, warmińsko-mazurskie",20.1683070977071,53.23914132231806
+POL,"Suwalska 38, Ełk, warmińsko-mazurskie",22.371539130048603,53.82921536165719
+POL,"Gdańska 11, Giżycko, warmińsko-mazurskie",21.78277731956112,54.033100588262585
+POL,"1 Maja 8B, Iława, warmińsko-mazurskie",19.56297904232656,53.59057080167838
+POL,"Pocztowa 11, Kętrzyn, warmińsko-mazurskie",21.380541772293185,54.0775866173569
+POL,"Dębowa 8, Lidzbark Warmiński, warmińsko-mazurskie",20.577874128044527,54.125582065491756
+POL,"Kopernika 1, Mrągowo, warmińsko-mazurskie",21.306540212271045,53.86346113582303
+POL,"Traugutta 23, Nidzica, warmińsko-mazurskie",20.418987777279227,53.361506463662494
+POL,"Grunwaldzka 3, Nowe Miasto Lub., warmińsko-mazurskie",19.58820513430433,53.42751659146859
+POL,"Armii Krajowej 30, Olecko, warmińsko-mazurskie",22.500097575830353,54.04128463661357
+POL,"Piłsudskiego 64b, Olsztyn, warmińsko-mazurskie",20.512215243890978,53.76931945503193
+POL,"Jana III Sobieskiego 5, Ostróda, warmińsko-mazurskie",19.962664144096266,53.69472399526029
+POL,"Zagłoby 2, Pisz., warmińsko-mazurskie",21.832793309275417,53.62582651135784
+POL,"Wincentego Pola 4, Szczytno, warmińsko-mazurskie",20.989179984195715,53.55734925417107
+POL,"Żeromskiego 18, Gołdap, warmińsko-mazurskie",22.29832706148659,54.310034771594246
+POL,"Generała Józefa Bema 16A, Węgorzewo, warmińsko-mazurskie",21.749978429521434,54.204058220705036
+POL,"Szyperska 14, Poznań, wielkopolskie",16.94124772070964,52.4114119133034
+POL,"Składowa 3, Chodzież, wielkopolskie",16.91138844793261,52.991089878134005
+POL,"Orłowskiego 1, Czarnków, wielkopolskie",16.571707127882036,52.91015933403287
+POL,"Sobieskiego 20, Gniezno, wielkopolskie",17.604937878253367,52.53407218145861
+POL,"Poznańska 200, Gostyń, wielkopolskie",17.01181429299146,51.883792314624316
+POL,"Poznańska 15, Grodzisk Wielkopolski, wielkopolskie",16.36826140636964,52.22378891996286
+POL,"Zaciszna 2, Jarocin, wielkopolskie",17.48887693392527,51.967159897073714
+POL,"Kępno - Mianowice 2h, Kępno, wielkopolskie",18.00552705209961,51.283949334772274
+POL,"Sienkiewicza 27, Koło, wielkopolskie",18.640227643139752,52.20052121775248
+POL,"Ks.Prymasa Wyszyńskiego 8/, Kościan, wielkopolskie",16.644995471762968,52.08479228060915
+POL,"Rawicka 7b, Krotoszyn, wielkopolskie",17.427067103528913,51.69299312480399
+POL,"17 Stycznia 143, Międzychód, wielkopolskie",15.901706151618498,52.6067548909256
+POL,"Kolejowa 2, Nowy Tomyśl, wielkopolskie",16.1286958009604,52.310460690553526
+POL,"Sądowa 5, Oborniki, wielkopolskie",16.81210673265724,52.64470928006094
+POL,"Wolności 29a, Ostrów Wielkopolski, wielkopolskie",17.81101484681062,51.648372063249525
+POL,"Przemysłowa 7, Ostrzeszów, wielkopolskie",17.93298008755454,51.417328464527316
+POL,"al. Niepodległości 24, Piła, wielkopolskie",16.737345604569356,53.156629532182876
+POL,"Wyspiańskiego 6, Pleszew, wielkopolskie",17.788085815398063,51.89292481722913
+POL,"Kamińskiego 19a, Rawicz, wielkopolskie",16.87349000800097,51.60861510392681
+POL,"Piastów 2, Słupca, wielkopolskie",17.85750348021159,52.29142035930019
+POL,"Wojska Polskiego 1, Szamotuły, wielkopolskie",16.58209054571674,52.60636219876184
+POL,"Kosynierów 46, Środa Wielkopolska, wielkopolskie",17.253225677298957,52.236584565712405
+POL,"Gostyńska 49, Śrem, wielkopolskie",17.029092748197314,52.07918151844254
+POL,"Komunalna 6, Turek, wielkopolskie",18.486183434019893,52.01965114661476
+POL,"Kolejowa 22, Wągrowiec, wielkopolskie",17.2001914480702,52.80865561813519
+POL,"5 Stycznia 5a, Wolsztyn, wielkopolskie",16.10601177257766,52.114474695229205
+POL,"Wojska Polskiego 2, Września, wielkopolskie",17.57674811295081,52.326933686773714
+POL,"Kolejowa 11, Złotów, wielkopolskie",17.05002303097865,53.35679306804985
+POL,"Staszica 47a, Kalisz, wielkopolskie",18.081550410986665,51.75128649536114
+POL,"ZAKŁADOWA 4, Konin, wielkopolskie",18.235993850154813,52.238786868862235
+POL,"Śniadeckich 5, Leszno, wielkopolskie",16.56945926908844,51.84898034289898
+POL,"Czarnieckiego 9, Poznań, wielkopolskie",16.91708537606388,52.392904503453934
+POL,"Mickiewicza 41, Szczecin, zachodniopomorskie",14.532855616199242,53.4365984254687
+POL,"Świdwińska 21A, Białogard, zachodniopomorskie",15.980428818604167,54.002683164553105
+POL,"Drawieńska 15, Choszczno, zachodniopomorskie",15.43063925366414,53.16668634916036
+POL,"Starogrodzka 9, Drawsko Pomorskie, zachodniopomorskie",15.801913140249411,53.52893782943903
+POL,"Zakładowa 3, Goleniów, zachodniopomorskie",14.847553584188006,53.56061744203819
+POL,"Koszarowa 4, Gryfice, zachodniopomorskie",15.197332499175019,53.92150254637073
+POL,"Sprzymierzonych 1, Gryfino, zachodniopomorskie",14.492632203964803,53.254548559549534
+POL,"Topolowa 5, Kamień Pomorski, zachodniopomorskie",14.782285464360513,53.960310758073035
+POL,"Katedralna 46/48, Kołobrzeg, zachodniopomorskie",15.572607068145942,54.175130722194496
+POL,"Północna 15, Myślibórz, zachodniopomorskie",14.861434602579777,52.92748644618666
+POL,"Kościuszki 5, Police, zachodniopomorskie",14.511709750868249,53.65684223531599
+POL,"Dworcowa 23, Pyrzyce, zachodniopomorskie",14.883599372060786,53.1462955256674
+POL,"Sempołowskiej 2a, Sławno, zachodniopomorskie",16.682610435729202,54.36780804505935
+POL,"I Brygady 35, Stargard, zachodniopomorskie",15.024600669287423,53.34215600199167
+POL,"Koszalińska 91, Szczecinek, zachodniopomorskie",16.682750916426414,53.72335666032663
+POL,"Kołobrzeska 3, Świdwin, zachodniopomorskie",15.775064395635894,53.78202004999949
+POL,"Wojska Polskiego 41, Wałcz, zachodniopomorskie",16.479153650104593,53.27512064169866
+POL,"Niepodległości 13, Łobez, zachodniopomorskie",15.619641363443634,53.63725066820032
+POL,"Racławicka 13, Koszalin, zachodniopomorskie",16.192946273923354,54.187970959668974
+POL,"Mickiewicza 39, Szczecin, zachodniopomorskie",14.533678299995927,53.437060226424165
+POL,"Wojska Polskiego 1/2a, Świnoujście, zachodniopomorskie",14.235755370108308,53.91306264042532
