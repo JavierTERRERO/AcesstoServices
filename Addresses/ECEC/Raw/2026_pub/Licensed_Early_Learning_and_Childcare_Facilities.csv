@@ -1,0 +1,930 @@
+Region,District,License-Number,Facility-Name,Facility-Type,Facility-Address-1,Facility-Address-2,Facility-Address-3,Max-Number-of-Children,Max-Number-of-Infants,Max-Number-of-Preschool-Aged-Children,Max-Number-of-School-Age-Children,Language-of-Service,Operator-Id,Designated-Facility
+Region 2 - Saint John,Anglophone South School District,102001,Passamaquoddy Day Care Centre,Full-time Centre,"390 Montague Street, Saint Andrews",NB,E5B 1J8,59,6,34,19,English,96172,1
+Region 2 - Saint John,Anglophone South School District,122000,Grand Manan Early Learning Centre,Full-time Centre,"1021 776 Route, Grand Manan",NB,E5G 4E5,52,0,29,23,English,236644,1
+Region 2 - Saint John,Anglophone South School District,203027,Quispamsis After School Program,Part-time Centre,"290 Hampton Road, Quispamsis",NB,E2E 4N1,36,0,0,36,English,96058,0
+Region 2 - Saint John,Anglophone South School District,205042,Janie's Kid Zone,Full-time Centre,"301 Hampton Road, Quispamsis",NB,E2E 4N1,60,6,54,0,English,96058,1
+Region 2 - Saint John,Anglophone South School District,207021,Little Angels Daycare,Full-time Centre,"815 Loch Lomond Road, Saint John",NB,E2J 1Y9,59,6,38,17,English,236894,1
+Region 2 - Saint John,Anglophone South School District,215034,Origins NLC 215,Full-time Centre,"567 Millidge Avenue, Saint John",NB,E2K 2N5,9,9,0,0,English,236706,1
+Region 2 - Saint John,Anglophone South School District,218001,Centenary Queen Square Daycare Centre,Full-time Centre,"310 Princess Street, Saint John",NB,E2L 1L5,24,0,24,0,English,236660,1
+Region 2 - Saint John,Anglophone South School District,226018,Inspire Early Learning Centre 6,Full-time Centre,"21 Pettingill Road, Quispamsis",NB,E2E 6B1,55,9,46,10,English,288981,1
+Region 2 - Saint John,Anglophone South School District,226019,Inspire Early Learning Centre 7,Full-time Centre,"21 Pettingill Road, Quispamsis",NB,E2E 6B1,55,0,30,55,English,288981,0
+Region 1 - Moncton,Anglophone South School District,227028,Sussex Early Learning Centre,Full-time Centre,"126 Maple Avenue, Sussex",NB,E4E 2N3,38,0,38,0,English,236629,1
+Region 2 - Saint John,Anglophone South School District,229053,Millidge Avenue Tot Spot Childcare,Full-time Centre,"312 Millidge Avenue, Saint John",NB,E2K 2N1,24,0,24,0,English,236752,1
+Region 2 - Saint John,Anglophone South School District,229058,Janie's Afterschool Program,Part-time Centre,"372 Hampton Road, Quispamsis",NB,E2E 4T8,52,0,0,52,English,96058,0
+Region 2 - Saint John,Anglophone South School District,232000,South End Day Care Centre,Full-time Centre,"310 Prince William Street, Saint John",NB,E2L 2C2,26,0,26,0,English,96239,1
+Region 2 - Saint John,Anglophone South School District,245000,Somerset Preschool Centre,Full-time Centre,"50 Newport Crescent, Saint John",NB,E2K 1Y5,53,0,53,0,English,96237,1
+Region 2 - Saint John,Anglophone South School District,245035,Courtenay Avenue Daycare 2018,Full-time Centre,"133 Courtenay Avenue, Saint John",NB,E2J 1N4,24,0,9,15,English,236725,1
+Region 2 - Saint John,Anglophone South School District,255017,Tender Tots Childcare Facility,Full-time Centre,"114 Hampton Road, Rothesay",NB,E2E 2P8,60,18,42,0,English,236734,1
+Region 2 - Saint John,Anglophone South School District,256001,West Side Co-Op Preschool,Part-time Centre,"50 Dexter Drive, Saint John",NB,E2M 4M4,40,6,34,0,English,236831,1
+Region 2 - Saint John,Anglophone South School District,256011,Tender Tots Childcare Downstairs,Full-time Centre,"114 Hampton Road, Rothesay",NB,E2E 2P8,60,0,33,45,English,236734,1
+Region 2 - Saint John,Anglophone South School District,258008,The Boys & Girls Club of Saint John After School,Part-time Centre,"1 Paul Harris Street, Saint John",NB,E2L 3V9,60,0,0,60,English,236690,0
+Region 2 - Saint John,Anglophone South School District,258020,The Boys & Girls Club of Saint John Funday After School,Part-time Centre,"1 Paul Harris Street, Saint John",NB,E2L 3V9,60,0,0,60,English,236690,0
+Region 2 - Saint John,Anglophone South School District,263049,COCHRAN'S HOME AWAY FROM HOME DAYCARE,Full-time Centre,"1433 Loch Lomond Road, Saint John",NB,E2J 1Z8,44,0,44,15,English,236668,1
+Region 2 - Saint John,Anglophone South School District,269030,Living Waters Child Development Centre,Full-time Centre,"36 Mountain Road, Saint John",NB,E2J 2X1,40,9,31,0,English,236762,1
+Region 2 - Saint John,Anglophone South School District,275013,Rothesay Nursery School,Part-time Centre,"7 Gondola Point Road, Rothesay",NB,E2E 5J6,24,0,24,0,English,236849,1
+Region 2 - Saint John,Anglophone South School District,279025,Angels 'R' Wee,Full-time Centre,"327 Prince Street, Saint John",NB,E2M 1P6,52,6,41,5,English,236894,1
+Region 1 - Moncton,Anglophone South School District,279029,CLASS: Creative Learning After School Solutions,Part-time Centre,"25 Duke Street, Sussex",NB,E4E 1P8,60,0,0,60,English,236642,0
+Region 2 - Saint John,Anglophone South School District,283001,YMCA - Regional - PS and ASP,Full-time Centre,"191 Churchill Boulevard, Saint John",NB,E2K 3E2,53,0,19,53,English,202715,1
+Region 2 - Saint John,Anglophone South School District,283002,YMCA - Rothesay - ASP,Part-time Centre,"230 Eriskay Drive, Rothesay",NB,E2E 5G7,45,0,0,45,English,202715,0
+Region 2 - Saint John,Anglophone South School District,283003,YMCA - QPlex ASP - Downstairs,Part-time Centre,"20 Randy Jones Way, Quispamsis",NB,E2E 0P1,29,0,0,29,English,202715,0
+Region 2 - Saint John,Anglophone South School District,283004,YMCA - Regional - Childcare,Full-time Centre,"191 Churchill Boulevard, Saint John",NB,E2K 3E2,53,0,53,0,English,202715,1
+Region 2 - Saint John,Anglophone South School District,283038,YMCA - St. Mark's - ASP 1,Part-time Centre,"50 Dexter Drive, Saint John",NB,E2M 4M4,53,0,0,53,English,202715,0
+Region 2 - Saint John,Anglophone South School District,283053,YMCA - Lakewood Heights - ASP,Part-time Centre,"56 Lensdale Crescent, Saint John",NB,E2J 3P3,45,0,0,45,English,202715,0
+Region 2 - Saint John,Anglophone South School District,283054,YMCA - Forest Glen ASP,Part-time Centre,"651 Westmorland Road, Saint John",NB,E2J 2H3,60,0,0,60,English,202715,0
+Region 1 - Moncton,District scolaire francophone Sud,301016,Garderie Beauséjour,Part-time Centre,"810 Ohio Chemin, Shediac",NB,E4P 2K1,60,0,0,60,French,236933,0
+Region 1 - Moncton,District scolaire francophone Sud,318000,Le Jougardi,Part-time Centre,"210 Erinvale Drive, Moncton",NB,E1A 9T4,56,0,0,56,French,216627,0
+Region 1 - Moncton,District scolaire francophone Sud,318001,Le garde amis,Part-time Centre,"401 Melanson Chemin, Dieppe",NB,E1A 1A5,60,0,0,60,French,237049,0
+Region 1 - Moncton,District scolaire francophone Sud,318023,Club Anna-Malenfant,Part-time Centre,"500 Centrale Rue, Dieppe",NB,E1A 6V7,54,0,0,54,French,237049,0
+Region 1 - Moncton,Anglophone East School District,322001,Unicorn Children's Center,Full-time Centre,"500 CLEVELAND Avenue, Riverview",NB,E1B 1Y2,55,0,55,15,English,39094,1
+Region 1 - Moncton,Anglophone East School District,322012,Unicorn Too,Part-time Centre,"404 Cleveland Avenue, Riverview",NB,E1B 1Y2,56,0,0,56,English,39094,0
+Region 1 - Moncton,Anglophone East School District,327006,Little Treasures Child Care,Full-time Centre,"15 Everett Street, Moncton",NB,E1C 3Z6,60,0,60,0,English,28532,1
+Region 1 - Moncton,District scolaire francophone Sud,327033,Centre Parascolaire nos Petits Camarades,Part-time Centre,"386 Amirault Rue, Dieppe",NB,E1A 1G3,40,0,0,40,French,236782,0
+Region 1 - Moncton,Anglophone East School District,333028,bgc Dieppe 2,Full-time Centre,"76 Emmanuel Rue, Dieppe",NB,E1A 2J5,50,0,20,30,English,28794,1
+Region 1 - Moncton,Anglophone East School District,334015,Miracles at First Child Care Centre,Full-time Centre,"157 Queen Street, Moncton",NB,E1C 1K9,60,15,45,0,English,236721,1
+Region 1 - Moncton,Anglophone East School District,334017,Playschool,Full-time Centre,"223 Main Street, Sackville",NB,E4L 3A7,25,0,25,0,English,237229,1
+Region 1 - Moncton,Anglophone East School District,336006,Afterschool Adventure Camp,Part-time Centre,"50 Runneymeade Road, Riverview",NB,E1B 4M7,60,0,0,60,English,158183,0
+Region 1 - Moncton,Anglophone East School District,336022,Teddy Bear Day Care,Home,", Riverview",NB,,6,2,3,1,English,237146,1
+Region 1 - Moncton,Anglophone East School District,339014,Home with a Heart Day Care,Full-time Centre,"2051 Mountain Road, Moncton",NB,E1G 1B1,40,9,31,0,English,236766,1
+Region 1 - Moncton,Anglophone East School District,339030,Kidzone,Full-time Centre,"2051 Mountain Road, Moncton",NB,E1G 1B1,30,0,20,30,English,236766,1
+Region 1 - Moncton,District scolaire francophone Sud,340000,Le Garoussi,Part-time Centre,"101 Gross Avenue, Moncton",NB,E1C 7H3,44,0,0,44,French,171245,0
+Region 1 - Moncton,Anglophone East School District,350001,York Street Children's Centre Inc.,Full-time Centre,"40 York Street, Sackville",NB,E4L 4R4,48,6,19,23,English,96266,1
+Region 1 - Moncton,District scolaire francophone Sud,350023,Le centre parascolaire la gardérisson,Part-time Centre,"421 Melanson Chemin, Dieppe",NB,E1A 1A5,58,0,0,58,French,236669,0
+Region 1 - Moncton,District scolaire francophone Sud,354020,Le Château des Bouts Choux,Full-time Centre,"469 Main Street, Shediac",NB,E4P 2C2,18,0,8,15,French,237317,1
+Region 1 - Moncton,Anglophone East School District,360022,The Magic Tree Daycare,Full-time Centre,"19 Charlotte Street, Sackville",NB,E4L 3T2,25,3,22,0,English,96255,1
+Region 1 - Moncton,District scolaire francophone Sud,366007,Club 6-12,Part-time Centre,"140 Botsford Street, Moncton",NB,E1C 4X5,60,0,0,60,French,203094,0
+Region 1 - Moncton,District scolaire francophone Sud,366031,Club 6-12 plus,Part-time Centre,"140 Botsford Street, Moncton",NB,E1C 4X5,40,0,0,40,French,203094,0
+Region 1 - Moncton,Anglophone East School District,368001,YMCA Childcare,Full-time Centre,"30 War Veterans Avenue, Moncton",NB,E1C 0B3,60,0,60,0,English,236908,1
+Region 1 - Moncton,Anglophone East School District,368027,YMCA Afterschool - Moncton,Part-time Centre,"30 War Veterans Avenue, Moncton",NB,E1C 0B3,60,0,0,60,English,236908,0
+Region 1 - Moncton,District scolaire francophone Sud,374000,Centre de jour l'eveil,Full-time Centre,"9 Sainte-Croix Rue, Moncton",NB,E1A 3E9,47,0,47,0,French,236868,1
+Region 1 - Moncton,Anglophone East School District,380031,Rainbows and Stars Day Care,Home,", Moncton",NB,,6,2,3,0,English,237406,1
+Region 1 - Moncton,Anglophone East School District,383006,The Salvation Army Small Blessings Early Childhood Development Centre 1,Full-time Centre,"20 Centennial Drive, Moncton",NB,E1E 4E4,60,0,45,30,English,236895,1
+Region 1 - Moncton,Anglophone East School District,383025,The Salvation Army Small Blessings Too Early Childhood Development Centre,Part-time Centre,"20 Centennial Drive, Moncton",NB,E1E 4E4,30,0,0,30,English,236895,0
+Region 1 - Moncton,Anglophone East School District,383027,Country Kids Day Care,Part-time Centre,"148 Hillsborough Road, Riverview",NB,E1B 1R6,32,0,0,32,English,236910,0
+Region 1 - Moncton,Anglophone East School District,394034,BGC Three Rivers Early Learning Centre,Full-time Centre,"45 Corey Avenue, Petitcodiac",NB,E4Z 4G3,44,6,23,15,English,114739,1
+Region 1 - Moncton,District scolaire francophone Sud,412021,Le coin des petites souris,Full-time Centre,"9573 Main Rue, Richibucto",NB,E4W 4C3,24,0,15,17,French,96090,1
+Region 3 - Fredericton,Anglophone West School District,500004,NBMFRC Child Care Service,Full-time Centre,"45 St Lawrence Avenue, Oromocto",NB,E2V 4J5,60,18,42,0,English,236646,1
+Region 3 - Fredericton,Anglophone West School District,500082,Back Yard Treasures,Home,"61 MacDonald Avenue, Oromocto",NB,E2V 1A3,9,0,5,9,English,237412,1
+Region 3 - Fredericton,Anglophone West School District,504001,YMCA Early Learning Centre,Full-time Centre,"570 York Street, Fredericton",NB,E3B 3R2,46,0,46,0,English,155621,1
+Region 3 - Fredericton,Anglophone West School District,504009,YMCA Jones/Exp ASP,Part-time Centre,"570 York Street, Fredericton",NB,E3B 3R2,40,0,0,40,English,155621,0
+Region 3 - Fredericton,Anglophone West School District,505075,NBMFRC After School Program,Part-time Centre,"45 St Lawrence Avenue, Oromocto",NB,E2V 4J5,60,0,20,60,English,236646,1
+Region 3 - Fredericton,Anglophone West School District,508114,The Preschool Centre on Clark Street,Full-time Centre,"125 Clark Street, Fredericton",NB,E3A 2W8,60,15,45,0,English,96210,1
+Region 3 - Fredericton,Anglophone West School District,509045,Jilly Beans Day Care,Full-time Centre,"37 Michael Avenue, Hanwell",NB,E3C 2A5,49,0,32,30,English,236896,1
+Region 3 - Fredericton,Anglophone West School District,510048,Victoria Street Adventureland Day Care,Full-time Centre,"210 Victoria Street, Fredericton",NB,E3B 1W4,30,0,22,8,English,96263,1
+Region 3 - Fredericton,Anglophone West School District,511082,Dunn Learning Academy I am Special Daycare,Part-time Centre,"162 Bradshaw Drive, New Maryland",NB,E3C 1H3,15,0,0,15,English,236898,0
+Region 3 - Fredericton,Anglophone West School District,511086,Henry Park Recreation Centre After School Program,Part-time Centre,"248 Medley Street, Fredericton",NB,E3A 3B3,60,0,0,60,English,236722,0
+Region 3 - Fredericton,Anglophone West School District,511088,Skyline Acres Recreation After School Program,Full-time Centre,"499 Canterbury Drive, Fredericton",NB,E3B 4M4,60,0,31,60,English,236722,1
+Region 3 - Fredericton,Anglophone West School District,514011,Lincoln Day Care Centre,Full-time Centre,"5 Maple Leaf Drive, Lincoln",NB,E3B 7G9,56,9,30,17,English,96114,1
+Region 3 - Fredericton,Anglophone West School District,514058,Creative Childcare Early Learning Centre of Excellence,Full-time Centre,"1691 Lincoln Road, Fredericton",NB,E3B 8J7,60,3,52,15,English,236948,1
+Region 3 - Fredericton,Anglophone West School District,518003,The Preschool Centre,Full-time Centre,"717 Windsor Street, Fredericton",NB,E3B 4G3,126,6,90,30,English,96210,1
+Region 3 - Fredericton,Anglophone West School District,518031,College Hill Early Learning Cooperative Ltd.,Full-time Centre,"850 Montgomery Street, Fredericton",NB,E3B 2X9,50,6,44,0,English,236666,1
+Region 3 - Fredericton,Anglophone West School District,520069,Union Street Preschool Centre,Part-time Centre,"579 Union Street, Fredericton",NB,E3A 3N5,42,0,0,42,English,96210,0
+Region 3 - Fredericton,Anglophone West School District,522088,Northside Daycare Center,Full-time Centre,"262 Saint Marys Street, Fredericton",NB,E3A 2S4,79,12,27,40,English,96156,1
+Region 3 - Fredericton,Anglophone West School District,524095,Fredericton Early Learning Centre,Full-time Centre,"351 Aberdeen Street, Fredericton",NB,E3B 1R8,41,0,41,0,English,98938,1
+Region 3 - Fredericton,Anglophone West School District,525076,Kinderland Daycare Centre,Full-time Centre,"170 Canada Street, Fredericton",NB,E3A 3Z8,40,0,28,12,English,96080,1
+Region 3 - Fredericton,District scolaire francophone Sud,526001,Franco I,Full-time Centre,"715 Priestman Street, Fredericton",NB,E3B 5W7,60,0,43,17,French,236832,1
+Region 3 - Fredericton,District scolaire francophone Sud,526028,Franco II,Part-time Centre,"715 Priestman Street, Fredericton",NB,E3B 5W7,60,0,0,60,French,236832,0
+Region 3 - Fredericton,District scolaire francophone Sud,526036,Les 30 Watts,Part-time Centre,"715 Priestman Street, Fredericton",NB,E3B 5W7,60,0,0,60,French,236832,0
+Region 3 - Fredericton,Anglophone West School District,526070,Geary Headstart Program Inc.,Part-time Centre,"16 Lauvina Bye Road, Geary",NB,E2V 3Y1,30,0,20,30,English,236949,0
+Region 3 - Fredericton,Anglophone West School District,529102,Smiling Flowers Childcare,Part-time Centre,"11 Wilfred Avenue, Fredericton",NB,E3B 9R9,14,0,0,14,English,237492,0
+Region 3 - Fredericton,Anglophone West School District,601014,Nackawic Childcare,Full-time Centre,"8 McLaren Crescent, Nackawic",NB,E6G 1C7,52,6,16,30,English,236951,1
+Region 3 - Fredericton,Anglophone West School District,615041,JOY Preschool,Part-time Centre,"349 Main Street, Hartland",NB,E7P 2N1,20,0,20,0,English,237413,0
+Region 3 - Fredericton,Anglophone West School District,636001,Woodstock Child Care,Full-time Centre,"145 Connell Park Road, Woodstock",NB,E7M 1M5,41,6,35,0,English,96265,1
+Region 3 - Fredericton,Anglophone West School District,636003,Woodstock After School Program,Part-time Centre,"145 Connell Park Road, Woodstock",NB,E7M 1M5,43,0,0,43,English,96265,0
+Region 3 - Fredericton,Anglophone West School District,653016,Centreville Child Care,Full-time Centre,"20 Burtt Street, Centreville",NB,E7K 0A8,57,6,51,0,English,236869,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,731007,Halte scolaire nature ludique - École Notre-Dame,Part-time Centre,"99 Martin Rue, Edmundston",NB,E3V 2M7,60,0,0,60,French,236850,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,744005,Garderie Mont Ste-Marie Inc.,Full-time Centre,"641 St-François Rue, Edmundston",NB,E3V 1H6,60,15,45,0,French,236625,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,744015,Garderie Mont Ste-Marie Inc. préscolaire & après-classe,Full-time Centre,"641 St-François Rue, Edmundston",NB,E3V 1H6,43,0,13,30,French,236625,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,764010,Halte scolaire St-Basile,Part-time Centre,"247 Principale Rue, Saint-Basile",NB,E7C 1H7,60,0,0,60,French,236627,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,764012,Halte scolaire Carrefour de la jeunesse,Part-time Centre,"54 21 Ième Avenue, Edmundston",NB,E3V 2B9,60,0,0,60,French,236627,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,815003,Garderie les Débrouillards(es) Inc.,Full-time Centre,"1 Ecole Rue, Val-d'Amour",NB,E3N 5E1,60,9,51,0,French,236635,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,828038,L'Énergicentre,Full-time Centre,"1 Ecole Rue, Val-d'Amour",NB,E3N 5E1,60,0,10,50,French,236635,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,837019,Garderie Doux Câlins,Home,"43 Lepage Street, Balmoral",NB,E8E 1J1,6,2,3,1,French,95925,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,843031,Garderie Au Pays Des Enfants Inc.,Full-time Centre,"272 Notre Dame Rue, Atholville",NB,E3N 3Z9,52,0,26,26,French,236767,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,855002,Garderie L'Enfant Magique Inc.,Full-time Centre,"47 Village Avenue, Campbellton",NB,E3N 5W8,43,6,22,15,French,236817,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,909002,Halte des Grands lutins,Part-time Centre,"385 Principale Rue, Nigadoo",NB,E8K 3R6,35,0,0,35,French,236796,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,910000,Garderie Bimbo Daycare Inc.,Full-time Centre,"644 University Drive, Bathurst",NB,E2A 2W6,123,21,102,15,French,95890,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,910030,Halte scolaire Bimbo,Part-time Centre,"1300 St. Joseph Rue, Bathurst",NB,E2A 3R5,60,0,0,60,French,95890,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1011018,Halte Scolaire La Découverte,Part-time Centre,"3120 Principale Rue, Tracadie-Sheila",NB,E1X 1A2,27,0,0,27,French,86843,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1023019,Garderie Les Frimousses,Home,"634 De L'Église Rue, Tracadie-Sheila",NB,E1X 1B1,6,2,3,1,French,237093,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1029008,Halte scolaire L'Univers des Petits,Part-time Centre,"1191 des Fondateurs Rue, Paquetville",NB,E8R 1A9,60,0,0,60,French,95934,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1030001,Garderie Communautaire Les Schtroumpfs Inc,Full-time Centre,"203 Loudun Avenue, Shippagan",NB,E8S 1R6,49,9,25,15,French,95918,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1036005,Garderie les petits trésors I.H. Ltée,Full-time Centre,"5 De La Forge Rue, Caraquet",NB,E1W 1A2,37,0,33,0,French,236716,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1049001,Garderie La Découverte centre de Développement de l'Enfant,Full-time Centre,"3120 Principale Rue, Tracadie-Sheila",NB,E1X 1A2,60,0,60,0,French,86843,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1064008,Garderie Tina Mallet,Full-time Centre,"140 des Huitres Chemin, Haut-Shippagan",NB,E8S 2N6,57,6,25,26,French,102160,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,1081020,Garderie l'Univers des Petits,Full-time Centre,"1890 Bellechasse Rue, Paquetville",NB,E8R 1M8,21,0,21,0,French,95934,1
+Region 4 - Bathurst,Anglophone North School District,1101000,Just Kids Daycare Centre,Full-time Centre,"296 Radio Street, Miramichi",NB,E1V 2W5,40,0,40,0,English,96065,1
+Region 4 - Bathurst,Anglophone North School District,1124024,Kindertots Children's Centre,Full-time Centre,"122 Hutchison Drive, Miramichi",NB,E1V 6B2,60,18,42,0,English,96082,1
+Region 4 - Bathurst,Anglophone North School District,1132000,Chatham Day Care Center,Full-time Centre,"80 University Avenue, Miramichi",NB,E1N 0C6,60,6,54,15,English,236870,1
+Region 4 - Bathurst,District scolaire francophone Sud,1158000,Les Beaux Soleils,Full-time Centre,"300 Beaverbrook Road, Miramichi",NB,E1V 1A1,50,6,44,0,French,236667,1
+Region 4 - Bathurst,District scolaire francophone Sud,1158016,Les Mini-Michis,Full-time Centre,"300 Beaverbrook Road, Miramichi",NB,E1V 1A1,50,12,38,0,French,236667,1
+Region 3 - Fredericton,District scolaire francophone Sud,2000112,Garderie au Bourgeonnet,Full-time Centre,"67 Ragged Point Road, Saint John",NB,E2K 5C3,48,24,24,0,French,236614,1
+Region 1 - Moncton,District scolaire francophone Sud,2000324,La garderie chez Martine,Full-time Centre,"78 Mathilde Rue, Dieppe",NB,E1A 7V2,15,3,10,2,French,237243,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2000379,Garderie Mini-Sol Inc.,Part-time Centre,"63 Laplante Rue, Petit-Rocher",NB,E8J 1H4,50,0,0,50,French,236979,0
+Region 3 - Fredericton,Anglophone West School District,2000671,Sunbury West Headstart,Part-time Centre,"5 Pride's Landing Road, Fredericton Junction",NB,E5L 1Y1,20,0,20,0,English,236874,0
+Region 2 - Saint John,Anglophone South School District,2000695,YMCA - MCC - Child Care and ASP,Full-time Centre,"99 Daniel Avenue, Saint John",NB,E2K 4P3,60,0,30,30,English,202715,1
+Region 1 - Moncton,Anglophone East School District,2001445,Moncton Headstart Early Family Intervention,Full-time Centre,"1111 Mountain Road, Moncton",NB,E1C 2S9,36,0,36,0,English,27904,1
+Region 3 - Fredericton,Anglophone West School District,2001487,YMCA Eps/ch PS and ASP,Part-time Centre,"570 York Street, Fredericton",NB,E3B 3R2,38,0,14,38,English,155621,1
+Region 1 - Moncton,Anglophone East School District,2001883,Mama's Tree House Day Care,Full-time Centre,"182 Purdy Avenue, Moncton",NB,E1C 7W4,33,0,15,18,English,236800,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2001910,Halte scolaire la Ribambelle en Folie Ltée,Part-time Centre,"40 De L'École Rue, Saint-Léonard",NB,E7E 1Y6,60,0,0,60,French,236875,0
+Region 4 - Bathurst,Anglophone North School District,2002001,Clark's Afterschool Adventures,Home,"11 Golden Hawk Drive, Miramichi",NB,E1N 3J1,9,0,0,9,English,237494,0
+Region 3 - Fredericton,Anglophone West School District,2002085,Crafty Corner Childcare Centre,Full-time Centre,"9160 Main Street, Florenceville-Bristol",NB,E7L 2A6,58,6,22,30,English,236820,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2002145,Centre éducatif nature ludique,Full-time Centre,"88 Martin Rue, Edmundston",NB,E3V 0B7,47,0,20,27,French,236850,0
+Region 3 - Fredericton,Anglophone West School District,2002159,Kidz K'nect Afterschool,Part-time Centre,"101 George Street, Fredericton",NB,E3B 1J2,30,0,0,30,English,236856,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2002238,Garderie des Apprentis-Sages,Full-time Centre,"8 Boucher Street, Campbellton",NB,E3N 2P1,36,6,15,15,French,236854,1
+Region 2 - Saint John,Anglophone South School District,2002335,Tiny Tots Daycare,Full-time Centre,"26 Park Avenue, Blacks Harbour",NB,E5H 1E4,39,0,30,9,English,236980,1
+Region 2 - Saint John,Anglophone South School District,2002393,YMCA - QPlex ASP - Upstairs,Part-time Centre,"20 Randy Jones Way, Quispamsis",NB,E2E 0P1,50,0,0,50,English,202715,0
+Region 2 - Saint John,Anglophone South School District,2002893,Kings Valley Early Education Centre I,Full-time Centre,"332 Hampton Road, Quispamsis",NB,E2E 4S9,56,9,47,0,English,236738,1
+Region 1 - Moncton,District scolaire francophone Sud,2002980,Garderie Arlequin II Daycare,Full-time Centre,"444 Mclaughlin Drive, Moncton",NB,E1A 4R4,52,0,30,27,French,237567,1
+Region 3 - Fredericton,Anglophone West School District,2003103,Oromocto Day Care Centre,Full-time Centre,"855 Waasis Road, Oromocto",NB,E2V 2N5,52,6,46,0,English,236615,1
+Region 3 - Fredericton,Anglophone West School District,2003105,Oromocto West Child Care Centre,Part-time Centre,"855 Waasis Road, Oromocto",NB,E2V 2N5,53,0,0,53,English,236615,0
+Region 3 - Fredericton,Anglophone West School District,2003169,FRFRC After School Care,Part-time Centre,"60 Veterans Drive, Fredericton",NB,E3A 4C3,30,0,16,30,English,236639,1
+Region 4 - Bathurst,Anglophone North School District,2003337,Garderie Peek-A-Boo Daycare,Full-time Centre,"447 King George Highway, Miramichi",NB,E1V 1L8,24,0,14,10,English,237245,1
+Region 1 - Moncton,District scolaire francophone Sud,2003363,Le centre préscolaire la gardérisson inc.,Full-time Centre,"705 Melanson Chemin, Dieppe",NB,E1A 7N8,60,0,44,16,French,236669,1
+Region 1 - Moncton,Anglophone East School District,2003428,Kingswood Academy 1,Full-time Centre,"1535 Ryan Street, Moncton",NB,E1G 2V4,31,0,31,0,English,237320,1
+Region 1 - Moncton,District scolaire francophone Sud,2003613,Garderie l'Étoile Filante,Full-time Centre,"4630 Principale Rue, Saint-Antoine",NB,E4V 1R5,48,9,23,16,French,237322,1
+Region 1 - Moncton,District scolaire francophone Sud,2003732,Le Club Ste Thérèse,Part-time Centre,"500 Notre-Dame Rue, Dieppe",NB,E1A 5C2,54,0,0,54,French,237049,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2003892,Centre de la Petite enfance Acamie,Full-time Centre,"295 St-Pierre Boulevard, Caraquet",NB,E1W 1B7,48,6,30,12,French,96046,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2003898,Garderie des P'tits Amis,Full-time Centre,"27 Laboissonniere Avenue, Edmundston",NB,E3V 3S7,51,12,39,0,French,237246,1
+Region 1 - Moncton,Anglophone East School District,2004035,Kreative Kids,Full-time Centre,"2041 Mountain Road, Moncton",NB,E1G 1B1,38,0,8,30,English,236766,1
+Region 3 - Fredericton,Anglophone West School District,2004149,Under One Sky,Full-time Centre,"7 Leverman Street, Fredericton",NB,E3A 3M1,9,0,9,0,English,236691,1
+Region 3 - Fredericton,Anglophone West School District,2004245,A 2 Z Learning & Care Centre,Full-time Centre,"7 Theater Street, Minto",NB,E4B 3M9,36,0,24,12,English,243568,1
+Region 1 - Moncton,Anglophone South School District,2004450,Lisa's Playhouse,Full-time Centre,"14 Ballymaginthy Way, Roachville",NB,E4G 2X1,60,6,54,9,English,236632,1
+Region 1 - Moncton,Anglophone East School District,2004542,Bell Air Day Care,Home,"29 Larsen Lane, Salisbury",NB,E4J 3L2,6,1,4,1,English,237325,1
+Region 1 - Moncton,District scolaire francophone Sud,2004639,La garderie je joue et j'apprends,Full-time Centre,"172 Main Street, Shediac",NB,E4P 2C9,57,0,27,30,French,149347,1
+Region 1 - Moncton,District scolaire francophone Sud,2004698,Les ami(e)s à Nanette,Home,"5337 134 Route, Cocagne",NB,E4R 2Z1,6,1,4,1,French,237419,1
+Region 4 - Bathurst,Anglophone North School District,2005220,Garderie Happy Little Faces Daycare Inc.,Full-time Centre,"1119 Principale Rue, Beresford",NB,E8K 1E4,30,9,21,0,English,236682,1
+Region 3 - Fredericton,Anglophone West School District,2005262,New Maryland Children's Centre,Full-time Centre,"328 New Maryland Highway, New Maryland",NB,E3C 2H4,60,0,59,10,English,236739,1
+Region 3 - Fredericton,Anglophone West School District,2005561,Liddle Skiddle's Club,Full-time Centre,"116 Connell Park Road, Woodstock",NB,E7M 1M4,15,0,15,0,English,237098,1
+Region 1 - Moncton,Anglophone East School District,2005614,Bridge Street Children's Academy,Full-time Centre,"146 Bridge Street, Sackville",NB,E4L 3P7,55,18,37,0,English,236718,1
+Region 2 - Saint John,Anglophone South School District,2005624,Grand Bay Tiny Treasures Learning Centre,Full-time Centre,"77 Woolastook Drive, Grand Bay-Westfield",NB,E5K 1S3,34,0,34,0,English,236826,1
+Region 3 - Fredericton,Anglophone West School District,2005628,Fit Kids,Part-time Centre,"688 Prospect Street, Fredericton",NB,E3B 6G9,60,0,0,60,English,236899,0
+Region 2 - Saint John,Anglophone South School District,2005645,St. Joseph's Community Preschool and Afterschool Program,Part-time Centre,"4347 Loch Lomond Road, Saint John",NB,E2N 1C8,60,0,18,42,English,237031,1
+Region 3 - Fredericton,Anglophone West School District,2005777,Montgomery Street Afterschool,Part-time Centre,"860 Grandame Street, Fredericton",NB,E3B 3Z8,38,0,0,38,English,96210,0
+Region 3 - Fredericton,Anglophone West School District,2005855,Ready For School FRFRC,Full-time Centre,"60 Veterans Drive, Fredericton",NB,E3A 4C3,46,0,46,18,English,236639,1
+Region 1 - Moncton,District scolaire francophone Sud,2005966,Service de garde Chez Tiago Childcare Services,Full-time Centre,"47 Drummond Street, Moncton",NB,E1A 2Z3,45,8,25,12,French,236616,1
+Region 1 - Moncton,District scolaire francophone Sud,2006009,La p'tite garderie de Ste. Anne,Full-time Centre,"7554 134 Route, Sainte-Anne-de-Kent",NB,E4S 1H2,28,3,25,0,French,237328,1
+Region 1 - Moncton,District scolaire francophone Sud,2006018,Halte de la Passerelle,Part-time Centre,"432 Centrale Rue, Memramcook",NB,E4K 3S5,45,0,0,45,French,237329,0
+Region 1 - Moncton,Anglophone East School District,2006036,Country Kids Preschool,Full-time Centre,"142 Hillsborough Road, Riverview",NB,E1B 1R6,58,13,32,13,English,236910,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2006136,Halte scolaire La Girouette,Part-time Centre,"3953 Des Fondateurs Boulevard, Saint-Isidore",NB,E8M 1C1,30,0,0,30,French,236982,0
+Region 1 - Moncton,Anglophone East School District,2006392,St.Martin's Day Care and After School Kids Klub,Full-time Centre,"3400 134 Route, Shediac Cape",NB,E4P 3J2,31,0,10,21,English,236636,0
+Region 2 - Saint John,Anglophone South School District,2006415,BGCCC After School Program,Part-time Centre,"54 Disher Lane, Dufferin Charlotte Co",NB,E3L 3H7,45,0,0,45,English,246089,0
+Region 1 - Moncton,District scolaire francophone Sud,2006540,Le Club Anna Malenfant 2,Part-time Centre,"500 Centrale Rue, Dieppe",NB,E1A 6V7,30,0,0,30,French,237049,0
+Region 1 - Moncton,District scolaire francophone Sud,2006542,La garderie des Petits Pêcheurs 2,Full-time Centre,"36 Brun Rue, Cap-Pelé",NB,E4N 1N4,41,12,29,0,French,236998,1
+Region 1 - Moncton,Anglophone East School District,2006855,Bridge Street After School Academy,Full-time Centre,"148 Bridge Street, Sackville",NB,E4L 3P7,45,0,45,0,English,236718,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2006862,Garderie Le p'tit monde des enfants,Full-time Centre,"695 Principale Rue, Clair",NB,E7A 2H3,25,6,13,9,French,237427,1
+Region 1 - Moncton,Anglophone East School District,2006893,Kingswood Academy 2,Part-time Centre,"1535 Ryan Street, Moncton",NB,E1G 2V4,60,0,10,60,English,237320,1
+Region 3 - Fredericton,Anglophone West School District,2007005,Eastwood Play and Learn,Home,"111 Eastwood Drive, Woodstock",NB,E7M 1P5,6,2,3,1,English,237059,1
+Region 1 - Moncton,District scolaire francophone Sud,2007047,Garderies les petits sourires,Home,"3060 132 Route, Scoudouc",NB,E4P 3S4,6,2,3,1,French,236719,1
+Region 1 - Moncton,District scolaire francophone Sud,2007100,Garderie Anne-Marie 2,Full-time Centre,"4572 Principale Rue, Saint-Antoine",NB,E4V 1R4,60,9,36,15,French,144093,1
+Region 2 - Saint John,Anglophone South School District,2007101,BGCCC Early Learning Centre,Full-time Centre,"54 Disher Lane, Dufferin Charlotte Co",NB,E3L 3H7,54,15,39,0,English,246089,1
+Region 4 - Bathurst,Anglophone North School District,2007104,Kindertots After School Program,Part-time Centre,"24 Nordin Lane, Miramichi",NB,E1V 5N2,60,0,0,60,English,96082,0
+Region 2 - Saint John,Anglophone South School District,2007121,YMCA - MCC - ASP,Part-time Centre,"99 Daniel Avenue, Saint John",NB,E2K 4P3,60,0,0,60,English,202715,0
+Region 1 - Moncton,Anglophone East School District,2007277,JD Tae Kwon Do,Part-time Centre,"445 Elmwood Drive, Moncton",NB,E1A 2X2,60,0,0,60,English,237157,0
+Region 3 - Fredericton,Anglophone West School District,2007294,The Preschool Centre on Main St 1,Full-time Centre,"115 Main Street, Fredericton",NB,E3A 1C6,25,25,0,0,English,96210,1
+Region 3 - Fredericton,Anglophone West School District,2007296,The Preschool Centre on Main St 2,Full-time Centre,"115 Main Street, Fredericton",NB,E3A 1C6,47,0,47,0,English,96210,1
+Region 4 - Bathurst,Anglophone North School District,2007333,Building Blocks Early Education Center,Full-time Centre,"34 King Street, Campbellton",NB,E3N 1C6,22,0,14,8,English,236662,1
+Region 1 - Moncton,District scolaire francophone Sud,2007506,Garderie La Floraison,Full-time Centre,"1-140 Botsford Street, Moncton",NB,E1C 4X5,60,8,52,0,French,246934,1
+Region 1 - Moncton,Anglophone East School District,2007561,Hands On Learning Center Riverview,Part-time Centre,"330 Pine Glen Road, Riverview",NB,E1B 1V6,49,0,0,49,English,236628,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2007695,Garderie des P'tits Amis 1,Full-time Centre,"27 Laboissonniere Avenue, Edmundston",NB,E3V 3S7,44,12,8,24,French,237246,1
+Region 3 - Fredericton,Anglophone West School District,2007750,New Maryland Kidz Klub,Part-time Centre,"525 New Maryland Highway, New Maryland",NB,E3C 1K1,60,0,0,60,English,236739,0
+Region 1 - Moncton,Anglophone East School District,2007762,Little Treasures Future Leaders,Full-time Centre,"15 Everett Street, Moncton",NB,E1C 3Z6,31,12,19,0,English,28532,1
+Region 1 - Moncton,District scolaire francophone Sud,2007892,Service de garde du Phare familial,Full-time Centre,"46 Upton Rue, Moncton",NB,E1E 3Z1,50,0,20,30,French,237032,1
+Region 1 - Moncton,District scolaire francophone Sud,2007944,Safari Social,Full-time Centre,"55 Englehart Rue, Dieppe",NB,E1A 8K2,46,0,46,0,French,237061,1
+Region 3 - Fredericton,Anglophone West School District,2008191,Sunny Day's and Nights Children's Center,Full-time Centre,"520 Brookside Drive, Fredericton",NB,E3A 8V2,30,15,15,0,English,236655,1
+Region 1 - Moncton,Anglophone North School District,2008237,Elsipogtog Day Care,Full-time Centre,"208 MAIN Street, Elsipogtog First Nation",NB,E4W 2X9,25,0,10,15,English,236961,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2008306,Garderie La Villa des Amis Ltée,Full-time Centre,"6830 11 Route, Tracadie Beach",NB,E1X 4P4,56,0,36,20,French,236900,1
+Region 2 - Saint John,Anglophone South School District,2008332,Sandbox Memories Childcare,Home,"110 Doncaster Drive, Quispamsis",NB,E2E 1R2,6,1,3,2,English,237502,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2008425,À petit pas dans mon école,Full-time Centre,"1341 Robertville Chemin, Robertville",NB,E8K 2V9,56,9,47,0,French,236693,1
+Region 4 - Bathurst,Anglophone North School District,2008427,Kindertots After School Too,Full-time Centre,"12 Howard Street, Miramichi",NB,E1N 0C4,40,0,10,30,English,96082,1
+Region 2 - Saint John,Anglophone South School District,2008433,St Paul's After School Program,Part-time Centre,"4 Church Avenue, Rothesay",NB,E2E 5G4,60,0,0,60,English,236803,0
+Region 3 - Fredericton,Anglophone West School District,2008438,Step Ahead - Bath Family Learning Center,Full-time Centre,"112 School Street, Bath",NB,E7J 1C4,60,0,30,30,English,236685,1
+Region 4 - Bathurst,Anglophone North School District,2008457,Chatham Day Care Center Too,Full-time Centre,"21 Hotel Dieu Street, Miramichi",NB,E1N 0A5,45,9,36,0,English,236870,1
+Region 2 - Saint John,Anglophone South School District,2008459,Kid Zone Too!,Full-time Centre,"15 Sugarmaple Lane, Quispamsis",NB,E2E 4N2,47,0,30,47,English,96058,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2008598,Garderie La Rivière,Full-time Centre,"1050 350 Route, Landry Office",NB,E8P 2K9,19,0,14,5,French,237033,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2008626,Garderie l'Univers des Petits Papillons,Home,"4255 Des Fondateurs Boulevard, Saint-Isidore",NB,E8M 1G7,6,2,3,1,French,237163,1
+Region 2 - Saint John,Anglophone South School District,2008692,Hamilton Homestyle Daycare,Full-time Centre,"70 Gault Road, Saint John",NB,E2M 5H2,54,24,30,0,English,236804,1
+Region 2 - Saint John,Anglophone South School District,2008986,HALL Playtime Early Learners Preschool,Part-time Centre,"82 School Street, Hampton",NB,E5N 6B2,15,0,15,0,English,143107,1
+Region 1 - Moncton,Anglophone East School District,2009022,BGC Three Rivers Afterschool Program,Part-time Centre,"45 Corey Avenue, Petitcodiac",NB,E4Z 4G3,36,0,0,36,English,114739,0
+Region 2 - Saint John,Anglophone South School District,2009104,Origins NLC 104,Full-time Centre,"99 Burpee Avenue, Saint John",NB,E2K 3V9,60,0,60,0,English,236706,1
+Region 2 - Saint John,Anglophone South School District,2009156,Share a Smile Preschool and Afterschool,Home,"105 Mealey Road, Pennfield",NB,E5H 0A9,9,0,5,9,English,236695,1
+Region 2 - Saint John,Anglophone South School District,2009184,Origins NLC 184,Full-time Centre,"99 Burpee Avenue, Saint John",NB,E2K 3V9,60,6,54,0,English,236706,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2009206,CPE la Ribambelle en Folie Ltée,Full-time Centre,"11782 144 Route, Saint-Léonard",NB,E7E 2M1,49,9,40,0,French,236875,1
+Region 1 - Moncton,Anglophone East School District,2009214,Here We Grow Early Learning & Childcare Center,Full-time Centre,"13 Chad Crescent, Salisbury",NB,E4J 3N4,25,0,25,0,English,236631,1
+Region 2 - Saint John,Anglophone South School District,2009253,Touchstone Academy,Full-time Centre,"68 Hampton Road, Rothesay",NB,E2E 5L5,60,0,30,30,English,236983,0
+Region 2 - Saint John,Anglophone South School District,2009261,Island View School Community Centre,Part-time Centre,"496 Ridge Row, Saint John",NB,E2M 4A1,51,0,0,51,English,236657,0
+Region 1 - Moncton,Anglophone East School District,2009280,Daley Day Care 2,Full-time Centre,"99 Highlandview Road, Moncton",NB,E1A 2L1,37,0,22,15,English,237141,1
+Region 2 - Saint John,Anglophone South School District,2009428,YMCA - South Hub - Child Care,Full-time Centre,"223 St. James Street, Saint John",NB,E2L 1W3,54,9,48,0,English,202715,1
+Region 3 - Fredericton,District scolaire francophone Sud,2009459,SERVICE APRES-CLASSE DE LA MAISON DES JEUNES L'ACADO,Part-time Centre,"715 Priestman Street, Fredericton",NB,E3B 5W7,60,0,0,60,French,236756,0
+Region 1 - Moncton,District scolaire francophone Sud,2009508,La garderie des Petits Pêcheurs 3,Full-time Centre,"12 Robichaud Chemin, Cap-Pelé",NB,E4N 1Y8,45,0,10,35,French,236998,1
+Region 1 - Moncton,Anglophone East School District,2009607,Earthlings Childcare,Full-time Centre,"144 Oak Ridge Drive, Moncton",NB,E1G 0M2,15,0,15,0,English,237335,1
+Region 3 - Fredericton,Anglophone West School District,2009631,Sunny Days Crew,Full-time Centre,"520 Brookside Drive, Fredericton",NB,E3A 8V2,36,0,36,0,English,236655,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2009714,Passe-Port 5-12,Part-time Centre,"10 De L'École-Saint-Jacques Avenue, Saint-Jacques",NB,E7B 1E7,60,0,0,60,French,237258,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2009717,Halte Garderie École St-Jacques 4,Full-time Centre,"10 De L'École-Saint-Jacques Avenue, Saint-Jacques",NB,E7B 1E7,60,0,25,35,French,237258,1
+Region 1 - Moncton,District scolaire francophone Sud,2009804,Causerie Amicale,Full-time Centre,"176 Cormier Cross Chemin, Cocagne",NB,E4R 2J5,53,3,20,30,French,231791,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2009805,Halte scolaire élémentaire Mgr-Lang,Part-time Centre,"1365 Tobique Chemin, Drummond",NB,E3Y 2P4,24,0,0,24,French,236851,0
+Region 4 - Bathurst,District scolaire francophone Sud,2009832,Les Flots,Part-time Centre,"300 Beaverbrook Road, Miramichi",NB,E1V 1A1,45,0,20,45,French,236667,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2009905,Halte scolaire de l'École l'Envolée Inc.,Part-time Centre,"135 de l'École Rue, Shippagan",NB,E8S 1V5,25,0,0,25,French,236737,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2009908,Halte Scolaire ESSA Inc.,Part-time Centre,"65 De L'École Rue, Lamèque",NB,E8T 1B7,60,0,22,60,French,237037,1
+Region 1 - Moncton,Anglophone South School District,2009994,The Apohaqui Village Clubhouse After School Program,Part-time Centre,"23 Foster Avenue, Apohaqui",NB,E5P 3M9,30,0,0,30,English,236632,0
+Region 1 - Moncton,District scolaire francophone Sud,2010018,La Boussole I,Full-time Centre,"45 Morgan Rue, Richibucto",NB,E4W 4E8,20,0,20,20,French,172787,1
+Region 3 - Fredericton,Anglophone West School District,2010019,Go-Go After School Park Street,Part-time Centre,"111 Park Street, Fredericton",NB,E3A 2J6,45,0,0,45,English,237166,0
+Region 2 - Saint John,Anglophone South School District,2010072,Seeds After School Centre,Part-time Centre,"776 Main Street, Hampton",NB,E5N 6E1,55,0,0,55,English,129659,0
+Region 1 - Moncton,District scolaire francophone Sud,2010080,Roche Papier Ciseaux,Full-time Centre,"85 Bonaccord Street, Moncton",NB,E1C 5K8,54,18,36,0,French,236917,1
+Region 3 - Fredericton,Anglophone West School District,2010207,Start Smart Family Learning Centre,Full-time Centre,"20 617 Route, Burtts Corner",NB,E6L 2X3,50,0,20,30,English,236696,1
+Region 4 - Bathurst,Anglophone North School District,2010252,Letourneau's Early Learning Centre,Home,"31 Prince William Street, Campbellton",NB,E3N 1X5,6,2,3,1,English,237058,1
+Region 1 - Moncton,District scolaire francophone Sud,2010270,Garderie des P'tits Mollusques,Full-time Centre,"78 Mclaughlin Rue, Bouctouche",NB,E4S 3R2,42,6,36,0,French,235183,1
+Region 1 - Moncton,District scolaire francophone Sud,2010280,Garderie Mon Doudou - Jeux de Lettres,Full-time Centre,"2175 Mountain Road, Moncton",NB,E1G 1B5,30,0,15,15,French,236938,1
+Region 2 - Saint John,Anglophone South School District,2010297,Sprouts Early Education Centre,Full-time Centre,"26 Gorham Road, Quispamsis",NB,E2E 4V8,15,0,15,5,English,236825,1
+Region 1 - Moncton,Anglophone East School District,2010406,Country Kids Learning Center,Full-time Centre,"142 Hillsborough Road, Riverview",NB,E1B 1R6,42,0,28,14,English,236910,1
+Region 1 - Moncton,District scolaire francophone Sud,2010435,Club Ste-Thérèse 2,Part-time Centre,"500 Notre-Dame Rue, Dieppe",NB,E1A 5C2,30,0,0,30,French,237049,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2010522,Les amis à Julie,Home,"2567 Sainte-Anne Road, Sainte-Anne Gloucester Co",NB,E2A 6Z5,6,1,4,1,French,237169,1
+Region 1 - Moncton,Anglophone East School District,2010660,Little Steps Child Care,Full-time Centre,"85 Renfrew Street, Petitcodiac",NB,E4Z 4S6,29,3,15,13,English,237535,1
+Region 1 - Moncton,Anglophone North School District,2010759,Elsipogtog Headstart,Full-time Centre,"361 Big Cove Road, Elsipogtog First Nation",NB,E4W 2S3,35,0,35,0,English,236961,0
+Region 1 - Moncton,Anglophone East School District,2010870,Love and Learn Child Care Center,Full-time Centre,"85 Old Coach Road, Riverview",NB,E1B 1N9,60,0,23,37,English,236720,1
+Region 1 - Moncton,Anglophone East School District,2011006,Hands On Learning Academy,Full-time Centre,"120 Trites Road, Riverview",NB,E1B 2V7,44,7,37,0,English,236628,1
+Region 1 - Moncton,District scolaire francophone Sud,2011027,Garderie ABC Trois,Full-time Centre,"210 Mill Road, Moncton",NB,E1A 4B1,32,0,32,12,French,237345,1
+Region 1 - Moncton,Anglophone East School District,2011068,I-Play Athletics,Part-time Centre,"77 Hildegard Drive, Moncton",NB,E1G 0Z6,60,0,0,60,English,237003,0
+Region 4 - Bathurst,District scolaire francophone Sud,2011072,Garderie Coopérative de Rogersville,Part-time Centre,"50 De L'École Rue, Rogersville",NB,E4Y 1V7,49,0,0,49,French,236619,0
+Region 2 - Saint John,Anglophone South School District,2011078,Hamilton Homestyle Clubhouse,Full-time Centre,"70 Gault Road, Saint John",NB,E2M 5H2,24,0,24,14,English,236804,1
+Region 3 - Fredericton,Anglophone West School District,2011083,Katie Bee's Children's Center,Full-time Centre,"18 616 Route, Keswick Ridge",NB,E6L 1R6,35,4,31,0,English,236748,1
+Region 3 - Fredericton,Anglophone West School District,2011099,The Gagetown Eagle's Nest,Part-time Centre,"6 Loomcroft Lane, Gagetown",NB,E5M 1H2,15,0,0,15,English,157316,0
+Region 3 - Fredericton,Anglophone West School District,2011101,Tiny Bubbles Early Learning Center of Excellence,Full-time Centre,"1290 Hanwell Road, Fredericton",NB,E3C 1A7,60,9,51,0,English,169846,1
+Region 3 - Fredericton,Anglophone West School District,2011154,Birchwood Preschool,Home,"23 Lloyd Street, Hanwell",NB,E3C 1M4,6,2,3,1,English,237177,1
+Region 3 - Fredericton,Anglophone West School District,2011275,Future Footprints Family Centre,Full-time Centre,"9 School Street, Perth-Andover",NB,E7H 4T4,60,0,30,30,English,236805,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2011320,Garderie Les P'tites Tornades,Home,"64 Arlequin Rue, Sainte-Marie-Saint-Raphaël",NB,E8T 1N4,6,2,3,1,French,237265,1
+Region 1 - Moncton,District scolaire francophone Sud,2011331,La p'tite garderie d'en haut,Part-time Centre,"7554 134 Route, Sainte-Anne-de-Kent",NB,E4S 1H2,28,0,0,28,French,237328,0
+Region 3 - Fredericton,Anglophone West School District,2011403,Little Geniuses Day Care Centre,Full-time Centre,"41 Royal Parkway, Fredericton",NB,E3G 0J9,59,3,56,15,English,236731,1
+Region 2 - Saint John,Anglophone South School District,2011644,Bright Horizons,Full-time Centre,"914 Dever Road, Saint John",NB,E2M 4J3,20,6,14,0,English,236857,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2011763,Club Des Amis Halte Scolaire,Full-time Centre,"980 Vanier Boulevard, Bathurst",NB,E2A 3N2,12,0,12,0,French,236774,1
+Region 4 - Bathurst,Anglophone North School District,2011764,Club Des Amis 2,Part-time Centre,"1125 Highland Avenue, Bathurst",NB,E2A 4P7,60,0,0,60,English,236774,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2011765,Club Des Amis 3,Part-time Centre,"840 Grandview Street, Bathurst",NB,E2A 3R7,27,0,0,27,French,236774,0
+Region 4 - Bathurst,Anglophone North School District,2011766,Club Des Amis 4,Full-time Centre,"1410 Miramichi Avenue, Bathurst",NB,E2A 1Y2,60,6,54,15,English,236774,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2011772,Club Des Amis 6,Full-time Centre,"980 Vanier Boulevard, Bathurst",NB,E2A 3N2,53,0,23,30,French,236774,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2011773,Club Des Amis 7,Full-time Centre,"980 Vanier Boulevard, Bathurst",NB,E2A 3N2,53,18,35,0,French,236774,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2011794,Garderie les Zamibulles Inc.,Full-time Centre,"629 Victoria Rue, Edmundston",NB,E3V 3M8,60,15,45,0,French,231797,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2011795,Garderie chez Tetelle,Full-time Centre,"151 Haut-Lamèque Chemin, Haut-Lamèque",NB,E8T 3M8,20,0,16,4,French,237148,1
+Region 3 - Fredericton,Anglophone West School District,2011917,Serious Fun Childcare,Full-time Centre,"98 New Maryland Highway, New Maryland",NB,E3C 1H6,54,0,26,28,English,236903,1
+Region 3 - Fredericton,Anglophone West School District,2011919,Shooting Stars Daycare,Full-time Centre,"281 Restigouche Road, Oromocto",NB,E2V 2H2,53,0,28,25,English,236893,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2011947,Garderie l'Arc-en-ciel d'amis,Home,", Edmundston",NB,,6,2,3,1,French,237542,1
+Region 2 - Saint John,Anglophone South School District,2012115,Family Ties Playcare Centre,Full-time Centre,"166 Tower Street, Saint John",NB,E2M 1Z2,60,9,51,0,English,236919,1
+Region 2 - Saint John,Anglophone South School District,2012117,Family Ties After School Program,Part-time Centre,"166 Tower Street, Saint John",NB,E2M 1Z2,49,0,0,49,English,236919,0
+Region 1 - Moncton,Anglophone East School District,2012184,bgc Dieppe,Part-time Centre,"76 Emmanuel Rue, Dieppe",NB,E1A 2J5,60,0,0,60,Bilingual,28794,0
+Region 1 - Moncton,District scolaire francophone Sud,2012206,Garderie chez Lise,Part-time Centre,"23 Murielle Croissant, Dieppe",NB,E1A 7R3,15,0,0,15,French,237066,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2012208,Halte Scolaire le Templin,Part-time Centre,"520 De L'Église Rue, Tracadie-Sheila",NB,E1X 1B1,60,0,0,60,French,96844,0
+Region 3 - Fredericton,Anglophone West School District,2012229,Amanda's House,Home,"150 Jessica Street, Richibucto Road",NB,E3A 6S5,6,2,3,1,English,237110,1
+Region 1 - Moncton,District scolaire francophone Sud,2012240,Garderie La Cartine Daycare,Full-time Centre,"1766 Amirault Rue, Dieppe",NB,E1A 7K2,54,18,0,36,French,198229,1
+Region 1 - Moncton,District scolaire francophone Sud,2012241,Garderie La Cartine Daycare 2,Full-time Centre,"1766 Amirault Rue, Dieppe",NB,E1A 7K2,57,0,45,12,French,198229,1
+Region 3 - Fredericton,Anglophone West School District,2012260,Go-Go After School UNB Main,Part-time Centre,"2 Peter Kelly Drive, Fredericton",NB,E3B 5A3,56,0,0,56,English,237166,0
+Region 2 - Saint John,Anglophone South School District,2012275,GO-GO After School Fairvale Elementary,Part-time Centre,"11 School Avenue, Rothesay",NB,E2E 1Z9,60,0,0,60,English,237166,0
+Region 2 - Saint John,Anglophone South School District,2012276,Go-Go After School Island View School,Part-time Centre,"496 Ridge Row, Saint John",NB,E2M 4A1,44,0,0,44,English,237166,0
+Region 2 - Saint John,Anglophone South School District,2012316,Little Harvard Early Learning Centre,Full-time Centre,"531 Dunn Avenue, Saint John",NB,E2M 2W6,45,6,39,0,English,236686,1
+Region 4 - Bathurst,Anglophone North School District,2012348,Stacey's Play and Learn Preschool,Home,"127 Douglasfield Road, Miramichi",NB,E1N 4S2,9,1,2,3,English,237181,0
+Region 1 - Moncton,Anglophone East School District,2012365,SportsDome Academy,Part-time Centre,"125 Russ Howard Drive, Moncton",NB,E1C 0L7,60,0,0,60,English,236743,0
+Region 3 - Fredericton,Anglophone West School District,2012414,Centreville Preschool,Full-time Centre,"751 Central Street, Centreville",NB,E7K 2M6,20,0,20,10,English,236869,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2012465,Garderie Chez Steph,Home,"267 Paquet Rue, Caraquet",NB,E1W 1A4,6,2,3,1,French,237113,1
+Region 2 - Saint John,Anglophone South School District,2012474,Benoit Childcare,Home,"20 Leaman Court, Saint John",NB,E2J 1B6,6,1,4,1,English,237007,1
+Region 1 - Moncton,Anglophone East School District,2012480,Hands On Learning Center Moncton School Age,Part-time Centre,"2181 Mountain Road, Moncton",NB,E1G 1B6,43,0,0,43,English,236628,0
+Region 1 - Moncton,District scolaire francophone Sud,2012515,Once Upon a Time Daycare/Garderie Il était une fois,Full-time Centre,"177 La Vallee Route, Memramcook",NB,E4K 3E5,48,3,23,22,French,236617,1
+Region 3 - Fredericton,Anglophone West School District,2012520,YMCA RBC/JDI ASP,Part-time Centre,"570 York Street, Fredericton",NB,E3B 3R2,40,0,0,40,English,155621,0
+Region 4 - Bathurst,Anglophone North School District,2012571,Garderie Tic Tac Toe Daycare Inc.,Full-time Centre,"357 Grey Street, Dalhousie",NB,E8C 1W6,37,9,28,0,English,236790,1
+Region 1 - Moncton,Anglophone East School District,2012577,Greater Moncton School Of Discovery,Full-time Centre,"135 MacBeath Avenue, Moncton",NB,E1C 6Z8,53,17,36,0,English,236939,1
+Region 1 - Moncton,Anglophone East School District,2012578,Greater Moncton School Of Discovery Preschool,Full-time Centre,"135 MacBeath Avenue, Moncton",NB,E1C 6Z8,20,0,20,0,English,236939,1
+Region 1 - Moncton,Anglophone East School District,2012579,Greater Moncton School Of Discovery Afterschool,Part-time Centre,"172 West Lane, Moncton",NB,E1C 6V2,45,0,0,45,English,236939,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2012591,Garderie Jade,Full-time Centre,"225 Pointe-Brulée Rue, Pointe-Brûlée",NB,E8S 2V9,43,6,37,0,French,237067,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2012592,Halte scolaire Jade,Part-time Centre,"225 Pointe-Brulée Rue, Pointe-Brûlée",NB,E8S 2V9,25,0,0,25,French,237067,0
+Region 1 - Moncton,District scolaire francophone Sud,2012597,Garderie ABC Daycare,Full-time Centre,"210 Mill Road, Moncton",NB,E1A 4B1,44,0,44,0,French,237345,1
+Region 1 - Moncton,District scolaire francophone Sud,2012598,ABC Plus,Part-time Centre,"210 Mill Road, Moncton",NB,E1A 4B1,58,0,0,58,French,237345,0
+Region 1 - Moncton,District scolaire francophone Sud,2012600,Garderie ABC Deux,Part-time Centre,"82 Drummond Street, Moncton",NB,E1A 2Z2,18,0,0,18,French,237345,0
+Region 4 - Bathurst,Anglophone West School District,2012637,Madi's Friends 2 (2022),Part-time Centre,"335 Chapel Rue, Grand-Sault/Grand Falls",NB,E3Z 2M5,51,0,0,51,English,236902,0
+Region 2 - Saint John,Anglophone South School District,2012758,Grand Bay Treasured Adventures,Part-time Centre,"77 Woolastook Drive, Grand Bay-Westfield",NB,E5K 1S3,60,0,0,60,English,236826,0
+Region 2 - Saint John,Anglophone South School District,2012840,Polka Dots The Kids Spot,Full-time Centre,"15 Marr Road, Rothesay",NB,E2E 2R5,60,9,51,0,English,236858,1
+Region 2 - Saint John,Anglophone South School District,2012841,Polka Dots The Kids Spot Preschool and Afterschool,Full-time Centre,"15 Marr Road, Rothesay",NB,E2E 2R5,60,0,30,60,English,236858,1
+Region 1 - Moncton,Anglophone East School District,2013016,Wee College Corner,Full-time Centre,"10 Evergreen Drive, Moncton",NB,E1G 1N1,60,9,51,0,English,236880,1
+Region 1 - Moncton,Anglophone East School District,2013017,Wee College Corner Youth,Part-time Centre,"10 Evergreen Drive, Moncton",NB,E1G 1N1,24,0,0,24,English,236880,0
+Region 1 - Moncton,District scolaire francophone Sud,2013055,Le Pavillon du Sommet,Part-time Centre,"701 Ryan Street, Moncton",NB,E1G 5R2,60,0,0,60,French,171245,0
+Region 1 - Moncton,District scolaire francophone Sud,2013056,Roche Papier Stylo - Moncton,Full-time Centre,"85 Bonaccord Street, Moncton",NB,E1C 5K8,49,0,35,14,French,236917,1
+Region 2 - Saint John,Anglophone South School District,2013132,Origins NLC 132,Full-time Centre,"99 Burpee Avenue, Saint John",NB,E2K 3V9,60,0,40,20,English,236706,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2013177,Garderie d'Allardville,Full-time Centre,"4572 134 Route, Allardville",NB,E8L 1E4,45,0,22,23,French,236698,1
+Region 1 - Moncton,District scolaire francophone Sud,2013194,Le Pavillon du Sommet 2,Part-time Centre,"701 Ryan Street, Moncton",NB,E1G 5R2,30,0,0,30,French,171245,0
+Region 3 - Fredericton,Anglophone West School District,2013211,Twila's Tots,Home,"106 Jarvis Street, Plaster Rock",NB,E7G 1W1,6,2,3,1,English,237189,1
+Region 1 - Moncton,Anglophone East School District,2013223,East Coast Kids Child Care & Learning Center,Full-time Centre,"31 School Lane, Hillsborough",NB,E4H 3B8,57,0,19,38,English,237352,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2013228,Garderie chez Cyn,Home,"114 Rang 7 & 8 Chemin, Kedgwick",NB,E8B 1W1,6,2,3,1,French,237069,1
+Region 4 - Bathurst,Anglophone North School District,2013229,Kacie's Early Learning Childcare Centre Inc.,Full-time Centre,"4 Chipman Street, Miramichi",NB,E1V 7M6,54,15,39,0,English,236671,1
+Region 1 - Moncton,District scolaire francophone Sud,2013257,La Garderie la Sagouine et ses p'tits acadien Inc.,Full-time Centre,"73 Mclaughlin Rue, Bouctouche",NB,E4S 3P3,36,4,15,17,French,236700,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2013348,Les p'tits trésors de Steph,Full-time Centre,"160 Desjardins Chemin, DSL de Drummond",NB,E3Y 1V3,60,9,36,15,French,237008,1
+Region 2 - Saint John,Anglophone South School District,2013364,Origins NLC 364,Full-time Centre,"99 Burpee Avenue, Saint John",NB,E2K 3V9,60,60,0,0,English,236706,1
+Region 2 - Saint John,Anglophone South School District,2013382,Divine Mercy Early Learning Center,Full-time Centre,"30 Douglas Street, Saint John",NB,E2K 0G5,45,0,17,28,English,96815,1
+Region 1 - Moncton,Anglophone East School District,2013607,Here We Grow Youth Center,Part-time Centre,"55 Douglas Street, Salisbury",NB,E4J 2B4,60,0,0,60,English,236631,0
+Region 1 - Moncton,Anglophone East School District,2013609,Northend Learning Center,Full-time Centre,"96 Gorge Road, Moncton",NB,E1G 1E6,55,9,46,0,English,236841,1
+Region 1 - Moncton,Anglophone East School District,2013610,Northend Learning Center 2,Full-time Centre,"96 Gorge Road, Moncton",NB,E1G 1E6,15,0,15,0,English,236841,1
+Region 1 - Moncton,Anglophone East School District,2013611,Northend Learning Center 3,Part-time Centre,"96 Gorge Road, Moncton",NB,E1G 1E6,40,0,0,40,English,236841,0
+Region 3 - Fredericton,Anglophone West School District,2013626,Get Active After School,Part-time Centre,"180 Main Street, Fredericton",NB,E3A 1C8,60,0,0,60,English,236859,0
+Region 1 - Moncton,Anglophone East School District,2013651,Magnetic Hill Academy,Home,"777 Front Mountain Road, Moncton",NB,E1G 3H2,6,2,3,1,English,236989,1
+Region 1 - Moncton,District scolaire francophone Sud,2013744,La Boussole II,Full-time Centre,"49 du Collège Rue, Saint-Louis-De-Kent",NB,E4X 1C2,40,0,40,20,French,172787,1
+Region 1 - Moncton,District scolaire francophone Sud,2013745,La Boussole III,Full-time Centre,"52 High Rue, Richibucto",NB,E4W 5M8,16,9,7,0,French,172787,1
+Region 3 - Fredericton,Anglophone West School District,2013754,Angie's Little Peeps Early Learning and Childcare,Full-time Centre,"115 Maxwell Street, Woodstock",NB,E7M 0B6,60,6,29,25,English,237514,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2013772,L'Écolo-Halte,Part-time Centre,"261 Acadie Rue, Grande-Anse",NB,E8N 1B1,60,0,0,60,French,237455,0
+Region 3 - Fredericton,Anglophone West School District,2013785,Gibson-Neill Memorial After School Program,Part-time Centre,"67 Wyngate Drive, Fredericton",NB,E3A 6G1,30,0,0,30,English,236722,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2013791,Garderie Les Petits Anges,Full-time Centre,"94 Martin Rue, Néguac",NB,E9G 1K9,22,0,20,2,French,237116,1
+Region 1 - Moncton,District scolaire francophone Sud,2013875,Montessori Dieppe,Full-time Centre,"299 Champlain Rue, Dieppe",NB,E1A 1P2,56,0,56,0,French,236991,1
+Region 3 - Fredericton,Anglophone West School District,2013940,Smiling Faces,Home,"9 Spiro Drive, Fredericton",NB,E3B 9N4,6,2,3,1,English,237193,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2013953,Garderie Les P'tits Chatons,Full-time Centre,"424 Principale Rue, Saint-Basile",NB,E7C 1J4,60,15,30,15,French,236884,1
+Region 1 - Moncton,District scolaire francophone Sud,2013973,Garderie des P'tits Marins,Full-time Centre,"12 Job Chemin, Grand-Barachois",NB,E4P 7P7,60,6,29,25,French,236808,1
+Region 3 - Fredericton,Anglophone West School District,2013978,Riverside Montessori Learning Centre,Full-time Centre,"717 Woodstock Road, Fredericton",NB,E3B 5N8,40,0,35,5,English,236689,1
+Region 1 - Moncton,Anglophone East School District,2014015,I-Play Athletic 2,Part-time Centre,"77 Hildegard Drive, Moncton",NB,E1G 0Z6,15,0,0,15,English,237003,0
+Region 1 - Moncton,District scolaire francophone Sud,2014016,Centre éducatif l'envol de Dieppe,Full-time Centre,"11 David Ruelle, Dieppe",NB,E1A 0J7,9,0,9,9,French,237197,1
+Region 4 - Bathurst,Anglophone North School District,2014027,L'il Critters Early Learning and Care,Full-time Centre,"227 Wellington Street, Miramichi",NB,E1N 1N1,34,0,24,15,English,237198,1
+Region 4 - Bathurst,Anglophone North School District,2014043,The Sky is the Limit Early Learning,Home,"34 Warren Avenue, Miramichi",NB,E1N 2J5,6,2,3,1,English,237515,1
+Region 4 - Bathurst,Anglophone North School District,2014047,Little Bits Early Learning and Care 2,Full-time Centre,"195 King Street, Miramichi",NB,E1N 2P1,28,0,15,28,English,237106,0
+Region 1 - Moncton,Anglophone East School District,2014128,Karen's Learning Center,Home,"91 Queen Mary Road, Moncton",NB,E1A 3P4,9,0,0,9,Bilingual,237024,0
+Region 1 - Moncton,Anglophone East School District,2014130,Wee College Trites,Full-time Centre,"1 Trites Road, Riverview",NB,E1B 2V5,36,18,18,0,English,236923,1
+Region 1 - Moncton,Anglophone East School District,2014131,Wee College Trites Too,Full-time Centre,"1 Trites Road, Riverview",NB,E1B 2V5,59,0,59,0,English,236923,1
+Region 1 - Moncton,Anglophone North School District,2014135,Creating Wonders,Full-time Centre,"203 Main Street, Rexton",NB,E4W 2A9,60,3,35,22,English,237009,1
+Region 1 - Moncton,Anglophone South School District,2014152,SCS Shine After School Care,Part-time Centre,"45 Chapman Drive, Sussex",NB,E4E 1M4,58,0,0,58,English,236663,0
+Region 1 - Moncton,Anglophone East School District,2014176,The Salvation Army Small Blessings 3 Early Childhood Development Center,Full-time Centre,"20 Centennial Drive, Moncton",NB,E1E 4E4,60,18,42,0,English,236895,1
+Region 1 - Moncton,Anglophone East School District,2014177,Wiggles and Giggles Early Learning Center,Full-time Centre,"55 King Street, Sackville",NB,E4L 3G4,43,9,34,0,English,236658,1
+Region 3 - Fredericton,Anglophone West School District,2014182,Cindy's Childcare Centre,Home,"1125 655 Route, Waasis",NB,E3B 9A4,6,1,3,2,English,237280,1
+Region 1 - Moncton,District scolaire francophone Sud,2014244,Garderie chez Kri Kri,Full-time Centre,"14 Dominique Rue, Grande-Digue",NB,E4R 0B9,20,0,15,5,French,236905,1
+Region 2 - Saint John,Anglophone South School District,2014313,Kings Valley Early Education Centre II,Part-time Centre,"332 Hampton Road, Quispamsis",NB,E2E 4S9,60,0,37,60,English,236738,1
+Region 1 - Moncton,District scolaire francophone Sud,2014360,Garderie Power Play Daycare,Part-time Centre,"257 des Erables Rue, Dieppe",NB,E1A 9B1,60,0,0,60,French,236791,0
+Region 3 - Fredericton,Anglophone West School District,2014470,Get Active Kids,Part-time Centre,"180 Main Street, Fredericton",NB,E3A 1C8,60,0,0,60,English,236859,0
+Region 4 - Bathurst,District scolaire francophone Sud,2014604,Les Voyageurs,Part-time Centre,"300 Beaverbrook Road, Miramichi",NB,E1V 1A1,47,0,0,47,French,236667,0
+Region 1 - Moncton,Anglophone East School District,2014605,Annette's Early Childhood Care And Development Centre,Home,"28 Christopher Crescent, Moncton",NB,E1G 0A5,6,1,4,1,English,237366,1
+Region 1 - Moncton,Anglophone East School District,2014609,Hands On Learning Center Moncton Preschool,Full-time Centre,"2181 Mountain Road, Moncton",NB,E1G 1B6,39,9,30,5,English,236628,1
+Region 1 - Moncton,Anglophone East School District,2014624,Building Futures Early Learning Child Care Center,Full-time Centre,"178 Albert Street, Moncton",NB,E1C 1B2,60,27,33,0,English,237367,1
+Region 1 - Moncton,Anglophone East School District,2014627,Building Futures Afterschool Adventure,Full-time Centre,"178 Albert Street, Moncton",NB,E1C 1B2,49,0,30,15,English,237367,1
+Region 3 - Fredericton,Anglophone West School District,2014640,NBMFRC Casual Child Care Program,Full-time Centre,"45 St Lawrence Avenue, Oromocto",NB,E2V 4J5,28,6,22,0,English,236646,1
+Region 1 - Moncton,Anglophone East School District,2014718,Sunny Smiles Childcare Center Inc.,Full-time Centre,"382 Harold Rue, Dieppe",NB,E1A 1Z1,46,0,29,17,English,193154,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2014736,Garderie du Domaine Inc.,Full-time Centre,"100 Fraser Avenue, Edmundston",NB,E3V 1Z8,56,12,44,0,French,236941,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2014748,Garderie Dragon Day Care,Part-time Centre,"105 Notre Dame Rue, Atholville",NB,E3N 4T1,60,0,0,60,French,237324,0
+Region 3 - Fredericton,Anglophone West School District,2014755,Serious Fun Infant and Toddler,Full-time Centre,"96 New Maryland Highway, New Maryland",NB,E3C 1H6,22,12,10,0,English,236903,1
+Region 3 - Fredericton,Anglophone West School District,2014814,The Preschool Centre on Main St 3,Part-time Centre,"115 Main Street, Fredericton",NB,E3A 1C6,24,0,0,24,English,96210,0
+Region 3 - Fredericton,Anglophone West School District,2014855,Crilley Connections Child Care,Full-time Centre,"281 Restigouche Road, Oromocto",NB,E2V 2H2,60,9,25,26,English,236828,1
+Region 1 - Moncton,Anglophone East School District,2014904,SportsDome Academy 2,Full-time Centre,"125 Russ Howard Drive, Moncton",NB,E1C 0L7,60,0,20,40,English,236743,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2014947,Garderie les p'tits amis de Amy,Home,"7 Harry Rue, DSL de Grand-Sault/Falls",NB,E3Z 0A4,6,1,4,1,French,237520,1
+Region 4 - Bathurst,Anglophone North School District,2014961,Garderie Tic Tac Toe Daycare Inc. (2),Part-time Centre,"357 Grey Street, Dalhousie",NB,E8C 1W6,60,0,0,60,English,236790,0
+Region 3 - Fredericton,Anglophone West School District,2014962,Forever Young Home Childcare Centre,Home,"175 Diamond Street, Fredericton",NB,E3G 7T9,6,2,3,1,English,237371,1
+Region 3 - Fredericton,Anglophone West School District,2014976,Go-Go Preschool & After School Hanwell,Full-time Centre,"1717 640 Route, Hanwell",NB,E3C 2B9,50,0,20,30,English,237166,1
+Region 1 - Moncton,District scolaire francophone Sud,2014984,Garderie Myrabel,Home,"5418 134 Route, Cocagne",NB,E4R 3P1,6,2,3,1,French,237202,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2015015,Halte de l'Étincelle,Part-time Centre,"70 De L'Église Rue, Sainte-Marie-Saint-Raphaël",NB,E8T 1N8,21,0,0,21,French,237463,0
+Region 3 - Fredericton,Anglophone West School District,2015019,Evergreen Acres Childcare,Home,"15 Debbie Lane, Richibucto Road",NB,E3A 6T6,6,2,3,1,English,237203,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2015025,Garderie Tourbillon de Soleil Inc.,Full-time Centre,"464 Des Pionniers Avenue, Balmoral",NB,E8E 1E2,60,6,26,28,French,236760,1
+Region 3 - Fredericton,Anglophone West School District,2015032,Fredericton Christian Academy Early Childhood Learning Centre,Full-time Centre,"778 MacLaren Avenue, Fredericton",NB,E3A 3L7,20,0,20,0,English,192810,1
+Region 3 - Fredericton,Anglophone West School District,2015033,Fredericton Christian Academy Children's Centre,Part-time Centre,"778 MacLaren Avenue, Fredericton",NB,E3A 3L7,60,0,10,60,English,192810,0
+Region 2 - Saint John,Anglophone South School District,2015076,YMCA - St. George - ASP,Part-time Centre,"118 Brunswick Street, St George",NB,E5C 1A9,17,0,0,17,English,202715,0
+Region 1 - Moncton,Anglophone East School District,2015092,Riverview Riddles and Rhymes Childcare,Full-time Centre,"567 Coverdale Road, Riverview",NB,E1B 3K7,60,6,54,0,English,237204,1
+Region 1 - Moncton,Anglophone East School District,2015093,Riverview Youth Connection,Full-time Centre,"567 Coverdale Road, Riverview",NB,E1B 3K7,60,0,12,48,English,237204,0
+Region 1 - Moncton,Anglophone East School District,2015094,Youth Discovery Center,Part-time Centre,"150 Trites Road, Riverview",NB,E1B 3L9,45,0,0,45,English,237204,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2015168,École de la Petite Enfance,Full-time Centre,"4138 Principale Rue, Tracadie-Sheila",NB,E1X 1B8,52,0,52,0,French,237373,1
+Region 2 - Saint John,Anglophone South School District,2015190,Waddle In Daycare,Full-time Centre,"1022 845 Route, Kingston",NB,E5N 1K4,23,3,20,10,English,237072,1
+Region 1 - Moncton,District scolaire francophone Sud,2015202,Nos Petits Camarades,Full-time Centre,"386 Amirault Rue, Dieppe",NB,E1A 1G3,30,0,30,0,French,236782,1
+Region 3 - Fredericton,District scolaire francophone Sud,2015222,Chez Gisèle,Home,"144 Goodine Street, Fredericton",NB,E3B 9H5,6,2,3,1,French,237374,0
+Region 1 - Moncton,District scolaire francophone Sud,2015336,Garderie la Mélodie (2014) Inc.,Full-time Centre,"309 Fox-Creek Chemin, Dieppe",NB,E1A 7M5,39,0,24,15,French,236812,1
+Region 1 - Moncton,District scolaire francophone Sud,2015338,Garderie La Mélodie 2 (2014),Full-time Centre,"345 Bras-D'Or Avenue, Dieppe",NB,E1A 2B6,49,6,29,14,French,236812,1
+Region 1 - Moncton,District scolaire francophone Sud,2015373,Garderie au P'tit Caroussel,Home,"76 Mathias Rue, Dieppe",NB,E1A 9H6,6,2,3,1,French,237206,1
+Region 1 - Moncton,District scolaire francophone Sud,2015400,Club ABC,Part-time Centre,"83 Drummond Street, Moncton",NB,E1A 2Z2,15,0,0,15,French,245477,0
+Region 1 - Moncton,District scolaire francophone Sud,2015401,Centre éducatif le platinum (2015) inc.,Full-time Centre,"355 Amirault Rue, Dieppe",NB,E1A 1G1,60,0,25,40,French,236701,1
+Region 1 - Moncton,Anglophone East School District,2015575,Kingswood Academy 4,Part-time Centre,"1530 Ryan Street, Moncton",NB,E1G 2V3,60,0,0,60,English,237320,0
+Region 1 - Moncton,Anglophone East School District,2015578,Kingswood Academy 3,Full-time Centre,"1535 Ryan Street, Moncton",NB,E1G 2V4,50,9,41,0,English,237320,1
+Region 1 - Moncton,Anglophone East School District,2015579,Kingswood Academy 5,Full-time Centre,"1535 Ryan Street, Moncton",NB,E1G 2V4,52,0,52,0,English,237320,1
+Region 1 - Moncton,District scolaire francophone Sud,2015624,Garderie les P'tits Cœurs Daycare groupe 2,Full-time Centre,"275 Amirault Rue, Dieppe",NB,E1A 1G1,60,0,44,22,French,236703,1
+Region 1 - Moncton,District scolaire francophone Sud,2015625,Garderie les P'tits Cœurs Daycare,Full-time Centre,"275 Amirault Rue, Dieppe",NB,E1A 1G1,45,9,36,0,French,236703,1
+Region 2 - Saint John,Anglophone South School District,2015635,Origins NLC 635,Full-time Centre,"4 Landing Court, Quispamsis",NB,E2E 4R2,60,24,36,0,English,236706,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2015647,Garderie chez Ginette,Home,"1741 315 Route, Dunlop",NB,E8K 2K7,6,2,1,3,French,237127,1
+Region 3 - Fredericton,Anglophone West School District,2015665,Go-Go After School Nashwaaksis,Part-time Centre,"104 Edgewood Drive, Fredericton",NB,E3A 1T3,60,0,0,60,English,237166,0
+Region 1 - Moncton,District scolaire francophone Sud,2015685,Garderie des P'tits Marins 2,Full-time Centre,"12 Job Chemin, Grand-Barachois",NB,E4P 7P7,30,8,22,0,French,236808,1
+Region 2 - Saint John,Anglophone South School District,2015712,Origins NLC 712,Full-time Centre,"4 Landing Court, Quispamsis",NB,E2E 4R2,60,0,60,0,English,236706,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2015725,Halte scolaire Les Amis de la Passerelle,Part-time Centre,"5067 160 Route, Pont-Landry",NB,E1X 2V5,30,0,0,30,French,237467,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2015734,Garderie au coin des petits,Full-time Centre,"3 Notre Dame Rue, Kedgwick",NB,E8B 1H2,27,0,17,17,French,237468,1
+Region 3 - Fredericton,Anglophone West School District,2015756,Totally Kids Early Learning and Child Care,Full-time Centre,"136 Main Street, Hartland",NB,E7P 2M5,40,0,25,15,English,236925,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2015781,Garderie la petite famille,Full-time Centre,"2366 Commerciale Rue, Saint-François-de-Madawaska",NB,E7A 1B6,36,0,20,16,French,237469,1
+Region 1 - Moncton,District scolaire francophone Sud,2015788,Garderie chez Isa,Home,", Dieppe",NB,,6,2,3,1,French,237361,1
+Region 1 - Moncton,District scolaire francophone Sud,2015812,Garderie Chez Nadi,Home,"55 Madawaska Promenade, Dieppe",NB,E1A 5C8,6,2,3,1,French,237360,1
+Region 3 - Fredericton,Anglophone West School District,2015870,Go-Go After School High Point Plaza,Part-time Centre,"283 New Maryland Highway, New Maryland",NB,E3C 2H3,45,0,0,45,English,237166,0
+Region 1 - Moncton,District scolaire francophone Sud,2015886,Garderie la Marelle Daycare,Full-time Centre,"1060 Melanson Chemin, Dieppe",NB,E1A 7P2,46,0,33,0,French,237378,1
+Region 1 - Moncton,District scolaire francophone Sud,2015888,Centre éducatif la Marelle Educational Center,Part-time Centre,"1060 Melanson Chemin, Dieppe",NB,E1A 7P2,60,0,0,60,French,237378,0
+Region 1 - Moncton,District scolaire francophone Sud,2015890,Garderie la Coccinelle,Home,"50 Gilbert-Finn Rue, Dieppe",NB,E1A 8L4,6,2,1,3,French,237380,1
+Region 3 - Fredericton,Anglophone West School District,2015891,Dragonfly Daycare and Afterschool Club,Home,"25 Libra Lane, Hanwell",NB,E3C 1M9,6,2,3,1,English,237470,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2015893,Garderie chez Julie,Home,"7692 17 Route, Kedgwick",NB,E8B 1W5,6,2,3,1,French,237286,1
+Region 1 - Moncton,Anglophone East School District,2015906,Wee College Hildegard Campus 1,Full-time Centre,"31 Hildegard Drive, Moncton",NB,E1G 2G5,34,9,25,0,English,236880,1
+Region 4 - Bathurst,Anglophone North School District,2015921,Garderie Chateau Magique 2015,Full-time Centre,"40 Robin Rue, Néguac",NB,E9G 0B1,58,6,24,28,English,236842,1
+Region 1 - Moncton,District scolaire francophone Sud,2015958,Garderie chez Sylvie,Home,"366 Beaumont Rue, Dieppe",NB,E1A 1A8,6,2,3,1,French,237287,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2015978,Garderie chez Nini,Home,"6395 17 Route, Saint-Quentin",NB,E8A 2J8,6,1,3,2,French,237383,1
+Region 3 - Fredericton,Anglophone West School District,2015983,Afterschool Skiddle Club,Part-time Centre,"116 Connell Park Road, Woodstock",NB,E7M 1M4,30,0,0,30,English,237098,0
+Region 3 - Fredericton,Anglophone West School District,2015987,Katie Bee's Children's Center II,Full-time Centre,"18 616 Route, Keswick Ridge",NB,E6L 1R6,45,0,15,45,English,236748,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2016074,Halte scolaire À petit pas dans mon école,Part-time Centre,"1341 Robertville Chemin, Robertville",NB,E8K 2V9,45,0,0,45,French,236693,0
+Region 3 - Fredericton,District scolaire francophone Sud,2016075,Garderie Les Hiboux,Full-time Centre,"160 Eco Terra Drive, Fredericton",NB,E3A 9M1,60,0,0,60,French,236814,0
+Region 3 - Fredericton,District scolaire francophone Sud,2016076,Garderie Les Hirondelles,Full-time Centre,"160 Eco Terra Drive, Fredericton",NB,E3A 9M1,60,0,30,30,French,236814,1
+Region 3 - Fredericton,District scolaire francophone Sud,2016077,Garderie Les Lumignons,Part-time Centre,"160 Eco Terra Drive, Fredericton",NB,E3A 9M1,60,0,0,60,French,236814,0
+Region 3 - Fredericton,District scolaire francophone Sud,2016078,Garderie Les Perroquets,Full-time Centre,"160 Eco Terra Drive, Fredericton",NB,E3A 9M1,60,0,60,0,French,236814,1
+Region 3 - Fredericton,District scolaire francophone Sud,2016079,Garderie Les P'tits Poussins,Full-time Centre,"160 Eco Terra Drive, Fredericton",NB,E3A 9M1,39,18,30,0,French,236814,1
+Region 3 - Fredericton,Anglophone West School District,2016086,Go-Go After School Two Nations Crossing,Part-time Centre,"80 Two Nations Crossing, Fredericton",NB,E3A 0H2,58,0,0,58,English,237166,0
+Region 2 - Saint John,Anglophone South School District,2016102,YMCA - Regional - Infant and Toddler,Full-time Centre,"191 Churchill Boulevard, Saint John",NB,E2K 3E2,37,9,28,0,English,202715,1
+Region 1 - Moncton,District scolaire francophone Sud,2016107,Garderie des P'tits Marins 3,Part-time Centre,"12 Job Chemin, Grand-Barachois",NB,E4P 7P7,45,0,0,45,French,236808,0
+Region 2 - Saint John,Anglophone South School District,2016108,Go-Go After School - Hampton Elementary School,Part-time Centre,"82 School Street, Hampton",NB,E5N 6B2,30,0,0,30,English,237166,0
+Region 1 - Moncton,District scolaire francophone Sud,2016119,Apres-classe Montessori Dieppe After School,Full-time Centre,"3-299 Champlain Rue, Dieppe",NB,E1A 1P2,59,0,17,42,French,236991,1
+Region 1 - Moncton,Anglophone East School District,2016120,Wee College Hildegard Campus 2,Full-time Centre,"31 Hildegard Drive, Moncton",NB,E1G 2G5,42,0,42,0,English,236880,1
+Region 1 - Moncton,Anglophone East School District,2016123,Wee College Bessborough 1,Part-time Centre,"110 Athlone Avenue, Moncton",NB,E1E 1S5,58,0,0,58,English,202811,0
+Region 3 - Fredericton,Anglophone West School District,2016140,Sunny Days Family Centre Afterschool Program,Part-time Centre,"520 Brookside Drive, Fredericton",NB,E3A 8V2,38,0,0,38,English,236655,0
+Region 3 - Fredericton,Anglophone West School District,2016190,Runts N' Rascals,Full-time Centre,"429 New Maryland Highway, New Maryland",NB,E3C 2H6,59,9,26,24,English,237013,1
+Region 2 - Saint John,Anglophone South School District,2016195,Kid Zone 3,Part-time Centre,"187 Pettingill Road, Quispamsis",NB,E2E 3S8,55,0,0,55,English,96058,0
+Region 1 - Moncton,District scolaire francophone Sud,2016314,Garderie des P'tits Mollusques 2,Part-time Centre,"26 du Parc Rue, Bouctouche",NB,E4S 3C5,34,0,0,34,French,235183,0
+Region 3 - Fredericton,District scolaire francophone Sud,2016320,Garderie Les Lucioles,Part-time Centre,"160 Eco Terra Drive, Fredericton",NB,E3A 9M1,60,0,0,60,French,236814,0
+Region 2 - Saint John,Anglophone South School District,2016400,YMCA - North Hub - PreK,Part-time Centre,"538 Sandy Point Road, Saint John",NB,E2K 3S2,18,0,18,0,English,202715,1
+Region 3 - Fredericton,Anglophone West School District,2016472,Happy Faces Home Childcare,Home,"282 Rainsford Lane, Fredericton",NB,E3B 7T2,6,2,3,1,English,237386,1
+Region 1 - Moncton,Anglophone East School District,2016549,Reaching for Rainbows Child Development Centre,Full-time Centre,"145 Lakeside Drive, Riverview",NB,E1B 4K7,54,12,42,0,English,237388,1
+Region 1 - Moncton,District scolaire francophone Sud,2016577,Garderie Chez Smarties,Home,"2175 133 Route, Grand-Barachois",NB,E4P 8E8,6,2,3,1,French,237292,1
+Region 3 - Fredericton,Anglophone West School District,2016648,Go-Go After School Canterbury,Part-time Centre,"523 Canterbury Drive, Fredericton",NB,E3B 4M4,60,0,0,60,English,237166,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2016663,Garderie de l'imaginaire,Home,", Saint-Basile",NB,,6,1,4,1,French,237214,1
+Region 1 - Moncton,District scolaire francophone Sud,2016694,Académie Powerplay Academy,Full-time Centre,"257 des Erables Rue, Dieppe",NB,E1A 9B1,54,0,54,0,French,236791,1
+Region 2 - Saint John,Anglophone South School District,2016714,Little Leaders,Home,"75 Crown Hill Crescent, Saint John",NB,E2K 2H2,6,1,3,2,English,237390,1
+Region 1 - Moncton,Anglophone East School District,2016745,Next to Home Early Learning and Afterschool Center,Full-time Centre,"234 Reade Street, Moncton",NB,E1C 6S8,31,0,21,10,English,236889,1
+Region 3 - Fredericton,Anglophone West School District,2016758,Learn With Me Childcare,Home,"257 Sunbury Drive, Fredericton Junction",NB,E5L 1S3,6,1,3,2,English,237076,1
+Region 3 - Fredericton,Anglophone West School District,2016842,Spring Roots Early Learning & Childcare Centre,Full-time Centre,"143 Douglas Avenue, Fredericton",NB,E3A 2N8,60,9,51,0,English,236626,1
+Region 1 - Moncton,Anglophone East School District,2016850,Little Hummingbirds Daycare,Part-time Centre,"287 Storey Road, Moncton",NB,E1A 7P4,15,0,0,15,English,237215,0
+Region 1 - Moncton,District scolaire francophone Sud,2016861,Roche Papier Stylo 2,Full-time Centre,"85 Bonaccord Street, Moncton",NB,E1C 5K8,10,0,10,0,French,236917,1
+Region 4 - Bathurst,Anglophone North School District,2016875,Karlie's After School Club,Full-time Centre,"285 Campbell Street, Miramichi",NB,E1V 1R4,60,0,48,30,English,236671,1
+Region 2 - Saint John,Anglophone South School District,2016892,YMCA - South Hub - PreK and ASP,Part-time Centre,"223 St. James Street, Saint John",NB,E2L 1W3,34,0,19,15,English,202715,1
+Region 2 - Saint John,Anglophone South School District,2016908,Learning Ladder Early Education Centre,Full-time Centre,"361 William Bell Drive, Hampton",NB,E5N 6B4,59,6,34,19,English,237391,1
+Region 3 - Fredericton,Anglophone West School District,2016956,Little Geniuses Afterschool Program,Part-time Centre,"25 Main Street, Fredericton",NB,E3A 1B7,30,0,0,30,English,236731,0
+Region 1 - Moncton,Anglophone East School District,2016983,Wee College Bessborough 2,Part-time Centre,"110 Athlone Avenue, Moncton",NB,E1E 1S5,48,0,0,48,English,202811,0
+Region 1 - Moncton,District scolaire francophone Sud,2017031,Le jardin du soleil 2016,Full-time Centre,"3894 134 Route, Shediac Bridge",NB,E4R 1T7,60,0,30,45,French,236843,1
+Region 1 - Moncton,District scolaire francophone Sud,2017049,Mon Ecole My School Child Care,Full-time Centre,"3800 115 Route, Notre-Dame",NB,E4V 2H9,40,12,28,0,French,236749,1
+Region 1 - Moncton,District scolaire francophone Sud,2017090,Garderie Le Royaume,Full-time Centre,"392 Amirault Rue, Dieppe",NB,E1A 1G3,48,7,27,14,French,236943,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2017145,Garderie Chez Tante Rosi,Full-time Centre,"5 Gauvin Chemin, Petite-Lamèque",NB,E8T 2M9,59,3,41,15,French,236844,1
+Region 3 - Fredericton,Anglophone West School District,2017154,Lincoln Curious Kids Child Care,Full-time Centre,"2475 Lincoln Road, Lincoln",NB,E3B 7E6,48,0,20,38,English,236777,1
+Region 3 - Fredericton,Anglophone West School District,2017155,Townsview Curious Kids Child Care,Full-time Centre,"122 Lewis P. Fisher Lane, Woodstock",NB,E7M 0G6,24,0,20,24,English,236777,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2017193,CSE Les Petites Abeilles,Full-time Centre,"338 Broadway Boulevard, Grand-Sault/Grand Falls",NB,E3Z 2K4,60,12,38,10,French,236892,1
+Region 1 - Moncton,Anglophone East School District,2017200,The School of Atlantic Ballet Arts After School Program 2,Part-time Centre,"68 Highfield Street, Moncton",NB,E1C 5N3,60,0,0,60,English,236713,0
+Region 3 - Fredericton,Anglophone West School District,2017204,Dunn Learning Academy - Montesorri/Afterschool Program,Full-time Centre,"572 New Maryland Highway, New Maryland",NB,E3C 1K1,60,6,40,30,English,236898,1
+Region 1 - Moncton,District scolaire francophone Sud,2017220,Les Petites Sauterelles,Home,", Dieppe",NB,,6,2,3,1,French,237133,1
+Region 1 - Moncton,District scolaire francophone Sud,2017237,Académie Powerplay Academy 2,Full-time Centre,"257 des Erables Rue, Dieppe",NB,E1A 9B1,49,12,15,22,French,236791,1
+Region 2 - Saint John,Anglophone South School District,2017238,Living Waters After School Program,Part-time Centre,"36 Mountain Road, Saint John",NB,E2J 2X1,30,0,0,30,English,236762,0
+Region 2 - Saint John,Anglophone South School District,2017239,Kid Zone Lakefield After School Program,Part-time Centre,"9 Kensington Avenue, Quispamsis",NB,E2E 2T8,42,0,0,42,English,96058,0
+Region 2 - Saint John,Anglophone South School District,2017241,Kid Zone K-Park After School Program,Part-time Centre,"10 Broadway Street, Rothesay",NB,E2H 1B2,45,0,0,45,English,96058,0
+Region 3 - Fredericton,Anglophone West School District,2017321,Lincoln After School Program,Part-time Centre,"5 Maple Leaf Drive, Lincoln",NB,E3B 7G9,19,0,0,19,English,96114,0
+Region 2 - Saint John,Anglophone South School District,2017521,Cheryl's Home Away from Home Daycare,Full-time Centre,"79 Edith Avenue, Saint John",NB,E2J 4H3,45,9,25,11,English,236678,1
+Region 1 - Moncton,Anglophone East School District,2017525,YW Margie's Early Learning Centre,Full-time Centre,"135 Kendra Street, Moncton",NB,E1C 9V9,60,18,42,0,English,236624,1
+Region 4 - Bathurst,Anglophone West School District,2017528,C.S.E Little Hands-Little Feet C.E.C Inc. 2,Full-time Centre,"3034 108 Route, New Denmark",NB,E7G 2T2,24,0,20,4,English,236659,1
+Region 3 - Fredericton,Anglophone West School District,2017529,Go-Go After School Main Street,Part-time Centre,"87 Main Street, Fredericton",NB,E3A 1C2,60,0,20,60,English,237166,0
+Region 1 - Moncton,Anglophone East School District,2017641,Reaching for Rainbows After School Program,Part-time Centre,"600 Coverdale Road, Riverview",NB,E1B 3K6,45,0,0,45,English,237388,0
+Region 1 - Moncton,District scolaire francophone Sud,2017649,Garderie Champlain Daycare,Full-time Centre,"66 Newcombe Promenade, Moncton",NB,E1A 9V4,44,9,35,0,French,236815,1
+Region 1 - Moncton,District scolaire francophone Sud,2017650,Garderie Champlain Daycare 2,Part-time Centre,"66 Newcombe Promenade, Moncton",NB,E1A 9V4,40,0,0,40,French,236815,0
+Region 1 - Moncton,Anglophone East School District,2017660,Wee College Youth Connection,Part-time Centre,"153 Canusa Drive, Riverview",NB,E1B 2W6,45,0,0,45,English,236923,0
+Region 1 - Moncton,Anglophone East School District,2017661,Wee College Youth Connection Too,Part-time Centre,"153 Canusa Drive, Riverview",NB,E1B 2W6,45,0,0,45,English,236923,0
+Region 3 - Fredericton,Anglophone West School District,2017673,Best Beginnings Preschool and Afterschool Centre,Part-time Centre,"2 Robison Crescent, Harvey Station",NB,E6K 0C9,30,0,20,30,English,237395,1
+Region 1 - Moncton,Anglophone East School District,2017681,Hands On Learning Enrichment Centre,Full-time Centre,"2282 Mountain Road, Moncton",NB,E1G 1B4,54,6,48,0,English,236628,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2017786,Garderie École de la Petite Enfance 2,Part-time Centre,"4138 Principale Rue, Tracadie-Sheila",NB,E1X 1B8,45,0,20,25,French,237373,0
+Region 3 - Fredericton,Anglophone West School District,2017792,Woodstock Christian Academy,Full-time Centre,"192 Broadway Street, Woodstock",NB,E7M 6B3,36,6,20,10,English,165636,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2017876,Garderie du Domaine 2 Inc.,Full-time Centre,"100 Fraser Avenue, Edmundston",NB,E3V 1Z8,35,0,13,22,French,236941,1
+Region 1 - Moncton,Anglophone East School District,2017899,YW/Academie des Amis / Friends Academy,Part-time Centre,"135 Kendra Street, Moncton",NB,E1C 9V9,35,0,0,35,English,236624,0
+Region 3 - Fredericton,Anglophone West School District,2017916,Little Munchkins Preschool Center 2017,Full-time Centre,"2288 640 Route, Hanwell",NB,E3E 2E8,40,6,34,0,English,220880,1
+Region 2 - Saint John,Anglophone South School District,2017973,Little Harvard After School Havelock Campus,Part-time Centre,"576 Havelock Street, Saint John",NB,E2M 2Y2,60,0,0,60,English,236686,0
+Region 1 - Moncton,District scolaire francophone Sud,2017989,Safari Social 2,Full-time Centre,"55 Englehart Rue, Dieppe",NB,E1A 8K2,56,0,56,0,French,237061,1
+Region 3 - Fredericton,Anglophone West School District,2017993,Munchkins Clubhouse 2017,Part-time Centre,"2288 640 Route, Hanwell",NB,E3E 2E8,30,0,20,30,English,220880,1
+Region 3 - Fredericton,District scolaire francophone Sud,2018000,LA P'TITE ECOLE,Home,"102 Confederation Avenue, New Maryland",NB,E3C 1E5,6,1,4,1,French,237481,1
+Region 3 - Fredericton,Anglophone West School District,2018032,Kinderland Infant Care,Full-time Centre,"168 Canada Street, Fredericton",NB,E3A 3Z8,9,9,0,0,English,96080,1
+Region 1 - Moncton,Anglophone East School District,2018078,East Coast Kids Riverside-Albert,Full-time Centre,"90 Water Street, Riverside-Albert",NB,E4H 3Z7,24,0,15,9,English,237352,1
+Region 2 - Saint John,Anglophone South School District,2018097,Butterflies & Bumblebees  Daycare,Full-time Centre,"309 Lowell Street, Saint John",NB,E2M 2H6,60,12,48,0,English,237523,1
+Region 3 - Fredericton,Anglophone West School District,2018194,Bluebell Montessori,Full-time Centre,"177 Argyle Street, Fredericton",NB,E3B 1T6,27,0,17,10,English,237524,0
+Region 4 - Bathurst,Anglophone North School District,2018282,Club Des Amis Terry Fox,Part-time Centre,"155 Basin Street, Bathurst",NB,E2A 6N1,60,0,0,60,English,236774,0
+Region 3 - Fredericton,Anglophone West School District,2018285,Little Dreamers Childcare,Home,", Oromocto",NB,,6,2,3,1,English,237547,1
+Region 3 - Fredericton,Anglophone West School District,2018289,Rugrats Childcare Centre,Full-time Centre,"1666 Lincoln Road, Fredericton",NB,E3B 8J6,23,0,23,0,English,236945,1
+Region 2 - Saint John,Anglophone South School District,2018312,Grand Bay Blossoms,Full-time Centre,"749 River Valley Drive, Grand Bay-Westfield",NB,E5K 1B6,60,6,54,15,English,236971,1
+Region 2 - Saint John,Anglophone South School District,2018314,Porter Street Preschool and After School Program,Part-time Centre,"197 Porter Street, Saint John",NB,E2M 0A4,15,0,15,15,English,237548,1
+Region 3 - Fredericton,Anglophone West School District,2018335,Kids Korral Day Care,Full-time Centre,"55 Corbett Avenue, Fredericton",NB,E3A 3X3,49,11,38,0,English,236792,1
+Region 3 - Fredericton,Anglophone West School District,2018338,Kids Korral Day Care After School Club,Part-time Centre,"55 Corbett Avenue, Fredericton",NB,E3A 3X3,47,0,0,47,English,236792,0
+Region 3 - Fredericton,Anglophone West School District,2018340,PSC Afterschoolers on Main,Part-time Centre,"121 Main Street, Fredericton",NB,E3A 1C6,30,0,0,30,English,96210,0
+Region 3 - Fredericton,Anglophone West School District,2018342,Little Land Learning Centre,Full-time Centre,"435 Brookside Drive, Fredericton",NB,E3A 8V4,45,12,33,0,English,236793,1
+Region 3 - Fredericton,Anglophone West School District,2018343,Shooting Stars Afterschool Program,Part-time Centre,"281 Restigouche Road, Oromocto",NB,E2V 2H2,28,0,0,28,English,236893,0
+Region 1 - Moncton,District scolaire francophone Sud,2018346,Service de garde du Phare familial 2,Part-time Centre,"46 Upton Rue, Moncton",NB,E1E 3Z1,30,0,0,30,French,237032,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2018347,Garderie centre éducatif les petits pas 2,Part-time Centre,"210 Mgr Martin Est Rue, Saint-Quentin",NB,E8A 1V4,60,0,0,60,French,236702,0
+Region 1 - Moncton,Anglophone East School District,2018413,Jumpin Jax Daycare,Home,"160 Shannon Drive, Moncton",NB,E1G 2G6,9,0,3,9,English,237044,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2018470,Les Étoiles de Marguerite-Bourgeoys,Part-time Centre,"238 Marguerite-Bourgeoys Rue, Caraquet",NB,E1W 1B7,60,0,0,60,French,237045,0
+Region 3 - Fredericton,Anglophone West School District,2018562,Creative Childcare on Killarney,Full-time Centre,"258 148 Route, Killarney Road",NB,E3G 9E2,57,12,45,0,English,236846,1
+Region 1 - Moncton,District scolaire francophone Sud,2018570,La Boussole IV,Part-time Centre,"148 Saint-Ignace Chemin, Saint-Louis",NB,E4X 1X2,40,0,0,40,French,172787,0
+Region 2 - Saint John,Anglophone South School District,2018607,Cheryl's Home Away from Home-Villa,Full-time Centre,"185 Loch Lomond Road, Saint John",NB,E2J 3Z6,17,0,17,0,English,236678,1
+Region 3 - Fredericton,Anglophone West School District,2018616,Little Tater Tots Daycare,Home,"129 Debec Road, Debec",NB,E7N 2B9,6,2,3,1,English,237027,1
+Region 1 - Moncton,District scolaire francophone Sud,2018642,Chez Cathy,Home,"447 Avant-Garde Rue, Dieppe",NB,E1A 5E6,9,0,0,9,French,237556,0
+Region 1 - Moncton,Anglophone East School District,2018799,Little Steps Havelock,Full-time Centre,"13 Cross Street, Havelock",NB,E4Z 5E8,38,3,19,16,English,237535,1
+Region 3 - Fredericton,Anglophone West School District,2018829,Preschool in the Park,Full-time Centre,"30 Knowledge Park Drive, Fredericton",NB,E3C 2R2,57,9,48,0,English,236741,1
+Region 1 - Moncton,Anglophone East School District,2018846,Daycare of Memories,Home,"217 Sumner Avenue, Moncton",NB,E1C 8A6,6,2,3,1,English,237302,1
+Region 2 - Saint John,Anglophone South School District,2018857,Boys and Girls Club of Charlotte County-Milltown,Full-time Centre,"434 Milltown Boulevard, St. Stephen",NB,E3L 1J8,58,0,21,37,English,246089,1
+Region 1 - Moncton,District scolaire francophone Sud,2018963,Garderie les petits amis de Cathy,Home,"241 Bédard Rue, Dieppe",NB,E1A 0H1,6,1,3,2,French,237487,1
+Region 3 - Fredericton,Anglophone West School District,2019197,Tiny Stars,Home,"13 Morning Gate Drive, Fredericton",NB,E3B 0G5,6,2,3,1,English,237224,1
+Region 1 - Moncton,District scolaire francophone Sud,2019201,Roche Papier Studio 1,Part-time Centre,"98 Bonaccord Street, Moncton",NB,E1C 5L1,60,0,0,60,French,236794,0
+Region 1 - Moncton,District scolaire francophone Sud,2019203,Roche Papier Studio 2,Part-time Centre,"98 Bonaccord Street, Moncton",NB,E1C 5L1,18,0,0,18,French,236794,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019283,Garderie chez Sabrina,Full-time Centre,"190 Principale Rue, Sainte-Anne-de-Madawaska",NB,E7E 1B8,21,3,18,0,French,237138,1
+Region 3 - Fredericton,Anglophone West School District,2019314,Children's Playhouse,Home,"1466 Woodstock Road, Fredericton",NB,E3C 1P3,6,2,3,1,English,237227,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019381,Garderie chez Nadine,Home,"845 Canada Chemin, Edmundston",NB,E3V 3X1,6,2,3,1,French,237140,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019388,Garderie Au Royaume En Chant T,Full-time Centre,"5 Des Sapins Rue, Kedgwick",NB,E8B 2B3,27,5,12,10,French,237223,1
+Region 1 - Moncton,Anglophone East School District,2019453,Young Explorers Learning Center,Full-time Centre,"122 McClelan Avenue, Riverview",NB,E1B 1X2,46,0,32,23,English,237305,1
+Region 4 - Bathurst,District scolaire francophone Sud,2019460,Garderie Coopérative de Rogersville II,Full-time Centre,"50 De L'École Rue, Rogersville",NB,E4Y 1V7,39,0,39,0,French,236619,1
+Region 1 - Moncton,District scolaire francophone Sud,2019485,Garderie chez Alinou,Home,"16 Paul Street, Grand-Barachois",NB,E4P 7Y5,6,2,3,1,French,237405,1
+Region 1 - Moncton,Anglophone East School District,2003952,GBC Early Learning Centre,Full-time Centre,"160 Old Coach Road, Riverview",NB,E1B 1N8,59,0,43,30,English,27678,1
+Region 3 - Fredericton,Anglophone West School District,2019489,Forest Park Childcare,Home,"14 Butternut Lane, Noonan",NB,E3A 0Z3,6,2,3,1,English,237743,1
+Region 2 - Saint John,Anglophone South School District,2019490,Seaside Park After School Care,Part-time Centre,"627 Havelock Street, Saint John",NB,E2M 2V4,60,0,0,60,English,236690,0
+Region 3 - Fredericton,Anglophone West School District,2019492,Small Blessings Childcare,Home,", Riverbank, Carleton Co",NB,,6,2,3,1,English,237797,1
+Region 1 - Moncton,District scolaire francophone Sud,2019493,Academie Power Play Academy Moncton Campus 3,Full-time Centre,"1240 Ryan Street, Moncton",NB,E1G 2V6,60,0,60,0,French,237805,1
+Region 1 - Moncton,District scolaire francophone Sud,2019494,La Garde'rire-Centre Éducatif de Cocagne,Full-time Centre,"4783 134 Route, Cocagne",NB,E4R 2Y2,52,9,28,15,French,237872,1
+Region 3 - Fredericton,Anglophone West School District,2019495,Dawson Day Home,Home,", Oromocto",NB,,6,2,3,1,English,237894,1
+Region 2 - Saint John,Anglophone South School District,2019496,Treasured Beginnings,Full-time Centre,"77 Woolastook Drive, Grand Bay-Westfield",NB,E5K 1S3,6,6,0,0,English,236826,1
+Region 1 - Moncton,District scolaire francophone Sud,2019498,Academie Power Play Academy Moncton Campus 1,Part-time Centre,"1240 Ryan Street, Moncton",NB,E1G 2V6,60,0,0,60,French,237805,0
+Region 3 - Fredericton,Anglophone West School District,2019499,Go-Go After School Connaught Street,Part-time Centre,"536 Northumberland Street, Fredericton",NB,E3E 1P1,60,0,0,60,English,237166,0
+Region 3 - Fredericton,Anglophone West School District,2019500,Go-Go After School Silverwood,Part-time Centre,"2385 Woodstock Road, Fredericton",NB,E3C 1P6,30,0,0,30,English,237166,0
+Region 1 - Moncton,District scolaire francophone Sud,2019504,Centre récréatif 'A' Safari Social,Part-time Centre,"55 Englehart Rue, Dieppe",NB,E1A 8K2,40,0,0,40,French,237061,0
+Region 1 - Moncton,District scolaire francophone Sud,2019505,"""Centre récréatif """"B"""" Safari Social""",Part-time Centre,"55 Englehart Rue, Dieppe",NB,E1A 8K2,60,0,0,60,French,237061,0
+Region 1 - Moncton,District scolaire francophone Sud,2019506,Garderie des Petits Pêcheurs,Full-time Centre,"2474 Acadie Chemin, Cap-Pelé",NB,E4N 1C9,60,6,29,25,French,238516,1
+Region 1 - Moncton,District scolaire francophone Sud,2019507,Garderie Les Chatounets,Home,"6565 495 Route, Sainte-Marie-de-Kent",NB,E4S 4Z6,6,2,3,1,French,241598,1
+Region 1 - Moncton,District scolaire francophone Sud,2019511,Academie Power Play Academy Moncton Campus 2,Full-time Centre,"1240 Ryan Street, Moncton",NB,E1G 2V6,57,12,0,45,French,237805,1
+Region 1 - Moncton,District scolaire francophone Sud,2019513,Garderie univers d'enfants 1,Full-time Centre,"329 Ryan Rue, Moncton",NB,E1G 2W2,31,6,25,0,French,239629,1
+Region 1 - Moncton,District scolaire francophone Sud,2019514,Garderie univers d'enfants 2,Full-time Centre,"329 Ryan Rue, Moncton",NB,E1G 2W2,51,11,40,0,French,239629,1
+Region 2 - Saint John,Anglophone South School District,2019515,Learning Ladder Afterschoolers,Part-time Centre,"361 William Bell Drive, Hampton",NB,E5N 6B4,21,0,0,21,English,237391,0
+Region 1 - Moncton,District scolaire francophone Sud,2019516,Garderie Champlain Daycare 4,Part-time Centre,"80 Newcombe Promenade, Moncton",NB,E1A 9V4,43,0,0,43,French,238978,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019517,Garderie Mélubulles 1 Inc.,Full-time Centre,"45 31 ième Avenue, Edmundston",NB,E3V 2R6,60,0,30,30,French,239006,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019518,Garderie Mélubulles 2 Inc.,Full-time Centre,"45 31 ième Avenue, Edmundston",NB,E3V 2R6,57,18,39,0,French,239006,1
+Region 1 - Moncton,District scolaire francophone Sud,2019519,Garderie Champlain Daycare 3,Full-time Centre,"80 Newcombe Promenade, Moncton",NB,E1A 9V4,41,6,35,0,French,238978,1
+Region 1 - Moncton,District scolaire francophone Sud,2019520,Club Le Marais,Part-time Centre,"1620 Dieppe Boulevard, Dieppe",NB,E1A 8P5,60,0,0,60,French,237049,0
+Region 3 - Fredericton,Anglophone West School District,2019521,Go-Go Preschool- Canterbury Drive,Full-time Centre,"523 Canterbury Drive, Fredericton",NB,E3B 4M4,57,0,28,29,English,237166,1
+Region 3 - Fredericton,Anglophone West School District,2019522,Go-Go Preschool and Afterschool Main St. 2,Full-time Centre,"87 Main Street, Fredericton",NB,E3A 1C2,35,0,35,0,English,237166,1
+Region 2 - Saint John,Anglophone South School District,2019532,YMCA - Field House - Child Care,Full-time Centre,"129 McAllister Drive, Saint John",NB,E2J 2S6,59,0,59,0,English,202715,1
+Region 2 - Saint John,Anglophone South School District,2019533,YMCA - Field House - Child Care and ASP,Full-time Centre,"129 McAllister Drive, Saint John",NB,E2J 2S6,57,12,15,30,English,202715,1
+Region 1 - Moncton,Anglophone East School District,2019538,Wee College Downtown Early Learning Campus 1,Full-time Centre,"465 Main Street, Moncton",NB,E1C 1C2,38,6,32,0,English,240156,1
+Region 1 - Moncton,Anglophone East School District,2019539,Wee College Downtown Early Learning Campus 2,Full-time Centre,"465 Main Street, Moncton",NB,E1C 1C2,51,12,39,0,English,240156,1
+Region 3 - Fredericton,Anglophone West School District,2019542,Laura's Learning Garden,Home,"5 Meadow Green Court, Fredericton",NB,E3B 5L8,6,2,3,1,English,240393,1
+Region 1 - Moncton,District scolaire francophone Sud,2019545,Garderie des P'tits Mollusques 3,Full-time Centre,"2114 515 Route, Sainte-Marie-de-Kent",NB,E4S 2E1,46,6,24,16,French,235183,1
+Region 1 - Moncton,Anglophone East School District,2019547,Pitter Patter Daycare,Home,", Riverview",NB,,6,2,3,1,English,240879,1
+Region 2 - Saint John,Anglophone South School District,2019549,Grand Bay Blossoms Afterschool Care,Part-time Centre,"45 Ridge Way, Grand Bay-Westfield",NB,E5K 1Y9,45,0,0,45,English,236971,0
+Region 1 - Moncton,District scolaire francophone Sud,2019550,Garderie Jeunes Amigos Inc.,Part-time Centre,"83 Old Shediac Road, Memramcook",NB,E4K 1V1,15,0,0,15,French,250161,0
+Region 1 - Moncton,Anglophone East School District,2019557,Little Caterpillars Daycare,Home,", Dieppe",NB,,6,2,3,1,English,242084,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2019562,École de la Petite enfance 3,Full-time Centre,"4138 Principale Rue, Tracadie-Sheila",NB,E1X 1B8,41,18,23,0,French,237373,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2019563,Halte le Monde des Super Héros,Part-time Centre,"1295 Principale Rue, Le Goulet",NB,E8S 2E9,15,0,0,15,French,242379,0
+Region 2 - Saint John,Anglophone South School District,2019564,Touchstone Academy Preschool,Full-time Centre,"68 Hampton Road, Rothesay",NB,E2E 5L5,25,0,25,0,English,236983,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019568,Madi's Friends Daycare Ltd.,Full-time Centre,"714 Everard H Daigle Boulevard, Grand-Sault/Grand Falls",NB,E3Z 3C6,39,0,10,29,French,242839,1
+Region 1 - Moncton,Anglophone North School District,2019572,Creating Lil' Wonders Daycare,Full-time Centre,"205 Main Street, Rexton",NB,E4W 2A9,16,9,7,0,English,237009,1
+Region 1 - Moncton,District scolaire francophone Sud,2019573,Au pays des merveilles,Full-time Centre,"162 Cormier Village Chemin, Grand-Barachois",NB,E4P 7A4,60,6,24,30,French,244225,1
+Region 1 - Moncton,District scolaire francophone Sud,2019574,Garderie au pays des merveilles 2,Part-time Centre,"162 Cormier Village Chemin, Grand-Barachois",NB,E4P 7A4,15,0,0,15,French,244225,0
+Region 3 - Fredericton,Anglophone West School District,2019580,Acorn to Oak Academy,Full-time Centre,"62 Miramichi Road, Oromocto",NB,E2V 1S2,26,0,19,7,English,244742,0
+Region 2 - Saint John,Anglophone South School District,2019581,Seawood Early Childcare Centre,Full-time Centre,"859 Sand Cove Road, Saint John",NB,E2M 3E5,50,30,20,0,English,236804,1
+Region 2 - Saint John,Anglophone East School District,2019584,Rising Stars Daycare,Full-time Centre,"6 Kay Street, Petitcodiac",NB,E4Z 4K6,36,6,30,30,English,245014,1
+Region 3 - Fredericton,Anglophone West School District,2019586,Rita's Fun Place 2B,Home,"440 555 Route, Bedell",NB,E7M 4R2,9,0,0,9,English,237295,0
+Region 3 - Fredericton,Anglophone West School District,2019587,Fredericton Montessori Academy - Casa,Full-time Centre,"131 Duncan Lane, Fredericton",NB,E3B 7S2,36,0,20,16,English,236763,0
+Region 2 - Saint John,Anglophone South School District,2019590,Seawood Early Childcare Centre #2,Full-time Centre,"859 Sand Cove Road, Saint John",NB,E2M 3E5,55,0,55,0,English,236804,1
+Region 2 - Saint John,Anglophone South School District,2019591,Little Harvard Early Learning Centre-Gondola Point Campus,Full-time Centre,"259 Gondola Point Road, Rothesay",NB,E2E 1Z9,28,6,22,0,English,236686,1
+Region 3 - Fredericton,Anglophone West School District,2019594,Go-Go Preschool and After School Maple Street,Full-time Centre,"318 Maple Street, Fredericton",NB,E3A 3R4,60,0,30,30,English,237166,1
+Region 1 - Moncton,Anglophone East School District,2019596,FitCamp90 After-School,Part-time Centre,"274 Halifax Street, Moncton",NB,E1C 9S3,24,0,0,24,Bilingual,245677,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019604,Garderie Mon autre maison,Home,"4 Jonathan Rue, Saint-Quentin",NB,E8A 2C8,9,0,0,9,French,245970,0
+Region 2 - Saint John,Anglophone South School District,2019607,YMCA - Loch Lomond - ASP,Part-time Centre,"25 Evergreen Avenue, Saint John",NB,E2N 1H3,29,0,0,29,English,202715,0
+Region 2 - Saint John,Anglophone South School District,2019608,Boys and Girls Club of Charlotte County-Club ASP,Part-time Centre,"54 Disher Lane, Dufferin Charlotte Co",NB,E3L 3H7,30,0,0,30,English,246089,0
+Region 1 - Moncton,Anglophone East School District,2019609,Wee College Salisbury,Full-time Centre,"3118 Main Street, Salisbury",NB,E4J 2L6,60,18,42,0,English,246187,1
+Region 1 - Moncton,Anglophone East School District,2019612,Here We Grow Little Learners,Full-time Centre,"57 Boyd Street, Salisbury",NB,E4J 2A6,22,6,16,0,English,246354,1
+Region 3 - Fredericton,Anglophone West School District,2019614,Cedar Brook Early Learning Center of Excellence,Full-time Centre,"3532 Woodstock Road, Fredericton",NB,E3E 1C9,52,6,46,0,English,246634,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2019616,Garderie Les Petits Passereaux Inc,Full-time Centre,"5067 160 Route, Pont-Landry",NB,E1X 2V5,60,0,45,15,French,247422,1
+Region 4 - Bathurst,District scolaire francophone Sud,2019617,Les P'tits Baie Marins,Full-time Centre,"5362 117 Route, Baie-Sainte-Anne",NB,E9A 1V9,56,6,31,19,French,247959,1
+Region 3 - Fredericton,Anglophone West School District,2019620,The Children's Academy Two Nations Crossing 2019,Full-time Centre,"570 Two Nations Crossing, Fredericton",NB,E3A 5V9,58,6,37,15,English,247069,1
+Region 3 - Fredericton,Anglophone West School District,2019621,The Children's Academy 2019,Full-time Centre,"440 Kimble Drive, Fredericton",NB,E3B 7G6,49,9,40,0,English,247069,1
+Region 2 - Saint John,Anglophone South School District,2019626,Silver Birch Montessori,Home,"60 Elizabeth Parkway, Rothesay",NB,E2H 1E9,6,0,5,1,English,247368,0
+Region 2 - Saint John,Anglophone South School District,2019627,Origins NLC 627,Full-time Centre,"4 Landing Court, Quispamsis",NB,E2E 4R2,10,0,10,0,English,236706,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2019629,Garderie Carrefour des amis,Full-time Centre,"806 École Rue, Beresford",NB,E8K 1V5,60,6,39,15,French,248046,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2019633,Ami  Bee #2,Home,"866 Robertville Chemin, Dunlop",NB,E8K 2K5,6,2,3,1,French,248352,1
+Region 1 - Moncton,Anglophone East School District,2019634,Mud Pies & Butterflies Family Childcare,Full-time Centre,"24 Remi Court, Dieppe",NB,E1A 6V7,15,0,12,8,English,253054,1
+Region 2 - Saint John,Anglophone South School District,2019639,Mel's Toddler Town,Full-time Centre,"42 Craig Crescent, Saint John",NB,E2K 4J4,15,0,15,2,English,249045,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2019642,Halte Carrefour des amis,Part-time Centre,"795 École Rue, Beresford",NB,E8K 1V4,60,0,0,60,French,248046,0
+Region 3 - Fredericton,Anglophone West School District,2019646,Tippy Toes,Home,"2488 640 Route, Hanwell",NB,E3E 2C2,6,2,3,1,English,249394,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2019650,CPE Les Poussins,Full-time Centre,"523 Principale Rue, Clair",NB,E7A 2G8,43,10,22,14,French,249773,1
+Region 2 - Saint John,Anglophone South School District,2019660,Waddle In After School Learning Centre,Part-time Centre,"3946 845 Route, Kingston",NB,E5N 1E9,30,0,0,30,English,237072,0
+Region 1 - Moncton,Anglophone East School District,2019665,Dufferin Street Afterschool Academy,Part-time Centre,"10 Dufferin Street, Sackville",NB,E4L 3W3,60,0,0,60,English,236718,0
+Region 1 - Moncton,District scolaire francophone Sud,2019669,La Boussole V,Full-time Centre,"50 High Street, Richibucto",NB,E4W 5M8,59,0,15,44,French,172787,1
+Region 1 - Moncton,Anglophone East School District,2019670,Wee College Homestead,Full-time Centre,"47529 Homestead Road, Steeves Mountain",NB,E1G 4P6,55,12,28,15,English,256292,1
+Region 1 - Moncton,Anglophone East School District,2019672,Wee College Pine Glen,Part-time Centre,"213 Pine Glen Road, Riverview",NB,E1B 4V1,36,0,0,36,English,236923,0
+Region 1 - Moncton,Anglophone East School District,2019674,Wee College Pine Glen Too,Part-time Centre,"213 Pine Glen Road, Riverview",NB,E1B 4V1,56,0,0,56,English,236923,0
+Region 1 - Moncton,Anglophone East School District,2019678,Powerplay Academy Moncton 4,Part-time Centre,"1220 Ryan Street, Moncton",NB,E1G 2V6,60,0,0,60,English,237805,0
+Region 1 - Moncton,Anglophone East School District,2019680,Powerplay Academy Moncton 5,Full-time Centre,"1220 Ryan Street, Moncton",NB,E1G 2V6,53,24,20,9,English,237805,1
+Region 1 - Moncton,Anglophone East School District,2019683,Powerplay Academy Moncton 6,Full-time Centre,"1220 Ryan Street, Moncton",NB,E1G 2V6,60,0,60,0,English,237805,1
+Region 1 - Moncton,District scolaire francophone Sud,2019687,Garderie La Mélodie 3 (2014) Inc.,Full-time Centre,"48 Ohio Chemin, Shediac",NB,E4P 2J9,60,3,30,27,French,236812,1
+Region 3 - Fredericton,Anglophone West School District,2019690,School Street Child Care,Full-time Centre,"201 School Street, Woodstock",NB,E7M 0G7,51,6,45,0,English,253268,1
+Region 1 - Moncton,District scolaire francophone Sud,2019694,Centre educatif les p'tits crayons Inc.,Full-time Centre,"313 Centrale Rue, Memramcook",NB,E4K 1Z9,60,9,36,15,French,253723,1
+Region 3 - Fredericton,District scolaire francophone Sud,2019696,Garderie Les Petits Ours,Home,"42 Watling Crescent, Oromocto",NB,E2V 4M8,6,2,3,1,French,253805,1
+Region 3 - Fredericton,Anglophone West School District,2019698,Runts 'n' Rascals Daycare,Full-time Centre,"429 New Maryland Highway, New Maryland",NB,E3C 2H6,56,0,34,22,English,237013,1
+Region 1 - Moncton,Anglophone East School District,2019699,Owls and Friends Learning Tree,Full-time Centre,"357 Collishaw Street, Moncton",NB,E1C 9R2,41,3,23,15,English,254114,1
+Region 4 - Bathurst,Anglophone West School District,2020001,Little Feathers Early Learning Centre,Full-time Centre,"14 Okisu Trail, Madawaska Maliseet First Nation",NB,E7C 0C6,60,6,39,15,English,254543,1
+Region 3 - Fredericton,Anglophone West School District,2020002,The Children's Academy Pepper Creek,Full-time Centre,"336 10 Route, Richibucto Road",NB,E3A 7E1,60,12,32,16,English,247069,1
+Region 1 - Moncton,Anglophone East School District,2020005,YMCA of Greater Moncton - North End,Part-time Centre,"70 Twin Oaks Drive, Moncton",NB,E1G 0A1,60,0,20,60,English,236908,1
+Region 1 - Moncton,Anglophone East School District,2020006,Willow Bend Early Learning Centre,Full-time Centre,"1097 Salisbury Road, Moncton",NB,E1E 3V9,31,12,19,0,English,254709,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2020009,Garderie Manège Enchanté 2020 inc.,Full-time Centre,"1190 Principale Rue, Beresford",NB,E8K 2J1,55,6,31,18,French,254999,1
+Region 4 - Bathurst,Anglophone North School District,2020015,Wee Care Daycare,Full-time Centre,"11 Aberdeen Street, Campbellton",NB,E3N 2J3,53,0,38,15,English,255147,1
+Region 3 - Fredericton,District scolaire francophone Sud,2020016,Les petits trésors,Full-time Centre,"30A Beaufort Street, Oromocto",NB,E2V 0M6,39,18,21,0,French,255167,1
+Region 3 - Fredericton,District scolaire francophone Sud,2020017,Les marins,Part-time Centre,"30A Beaufort Street, Oromocto",NB,E2V 0M6,60,0,0,60,French,255167,0
+Region 3 - Fredericton,District scolaire francophone Sud,2020018,Les moussaillons,Full-time Centre,"30A Beaufort Street, Oromocto",NB,E2V 0M6,51,0,51,0,French,255167,1
+Region 1 - Moncton,Anglophone East School District,2020020,Our Happy Place,Home,", Dieppe",NB,,9,2,3,9,English,255472,1
+Region 1 - Moncton,District scolaire francophone Sud,2020027,Centre educatif les p'tits crayons 2,Full-time Centre,"520 Amirault Rue, Dieppe",NB,E1A 1C8,34,9,23,2,French,256273,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2020032,Garderie la Forêt des Découvertes Inc.,Full-time Centre,"70 des Pionniers Avenue, Balmoral",NB,E8E 1E1,32,6,26,5,French,261280,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2020033,Garderie la Forêt des Découvertes 2,Full-time Centre,"70 des Pionniers Avenue, Balmoral",NB,E8E 1E1,38,6,32,5,French,261280,1
+Region 2 - Saint John,Anglophone South School District,2020034,The Woods 034,Part-time Centre,"193 Pettingill Road, Quispamsis",NB,E2E 4R2,30,0,0,30,English,261880,0
+Region 3 - Fredericton,Anglophone West School District,2020039,Bright Minds Early Learning Centre,Full-time Centre,"15 Harold Doherty Court, Fredericton",NB,E3A 5P2,35,6,29,0,English,262270,1
+Region 2 - Saint John,Anglophone South School District,2020040,The Woods 040,Full-time Centre,"193 Pettingill Road, Quispamsis",NB,E2E 4R2,60,21,39,0,English,261880,1
+Region 2 - Saint John,Anglophone South School District,2020041,The Woods 041,Full-time Centre,"193 Pettingill Road, Quispamsis",NB,E2E 4R2,60,0,20,40,English,261880,1
+Region 3 - Fredericton,Anglophone West School District,2020043,Go-Go Preschool High Point Plaza,Full-time Centre,"283 New Maryland Highway, New Maryland",NB,E3C 2H3,24,0,24,0,English,237166,1
+Region 4 - Bathurst,Anglophone West School District,2020045,Garderie les amis de Madi,Full-time Centre,"255 Main Rue, Grand-Sault/Grand Falls",NB,E3Z 2W1,47,12,35,0,English,242839,1
+Region 3 - Fredericton,Anglophone West School District,2020047,Go-Go After School & Preschool Two Nations,Full-time Centre,"80 Two Nations Crossing, Fredericton",NB,E3A 0H2,40,0,40,10,English,237166,1
+Region 3 - Fredericton,Anglophone West School District,2020048,Go-Go Preschool Maple Street,Full-time Centre,"318 Maple Street, Fredericton",NB,E3A 3R4,60,0,30,30,English,237166,1
+Region 2 - Saint John,Anglophone South School District,2020053,Go-Go After School Saint Rose School,Part-time Centre,"700 Manawagonish Road, Saint John",NB,E2M 3W5,30,0,0,30,English,237166,0
+Region 3 - Fredericton,Anglophone West School District,2020054,Go-Go After School Woodstock Road,Part-time Centre,"861 Woodstock Road, Fredericton",NB,E3B 7R7,29,0,0,60,English,237166,0
+Region 3 - Fredericton,Anglophone West School District,2020055,Go-Go Preschool and After School Woodstock Road,Full-time Centre,"861 Woodstock Road, Fredericton",NB,E3B 7R7,60,0,30,0,English,237166,1
+Region 3 - Fredericton,Anglophone West School District,2020056,Miss Tina's Little Treasures Childcare,Full-time Centre,"541 East Riverside Drive, Perth-Andover",NB,E7H 1Y4,57,6,41,10,English,255544,1
+Region 1 - Moncton,Anglophone East School District,2020058,Wee College Amirault 1,Part-time Centre,"281 Amirault Street, Dieppe",NB,E1A 1G1,60,0,0,60,English,240156,0
+Region 3 - Fredericton,Anglophone West School District,2020060,Play With Purpose Childcare,Home,"87 Burnham Court, Fredericton",NB,E3B 5T8,6,2,3,1,English,267968,1
+Region 3 - Fredericton,Anglophone West School District,2020076,Rainbow of Cultures Childcare Centre,Full-time Centre,"28 Saunders Street, Fredericton",NB,E3B 1N1,58,0,46,32,English,268743,1
+Region 1 - Moncton,District scolaire francophone Sud,2020077,Le Centre éducatif des aventuriers limitée,Full-time Centre,"531 La Montain Chemin, Memramcook",NB,E4K 1H1,33,6,27,0,French,268955,1
+Region 1 - Moncton,Anglophone South School District,2020078,Belleisle After School Program Saint John Boys & Girls Club,Part-time Centre,"1775 124 Route, Springfield,Kings County",NB,E5T 2K1,21,0,0,21,English,236690,0
+Region 3 - Fredericton,Anglophone West School District,2020082,Tobique First Nation Headstart,Full-time Centre,"13104 105 Route, Tobique First Nation",NB,E7H 3Y2,32,0,32,0,English,269730,1
+Region 3 - Fredericton,Anglophone West School District,2020083,Harvey's Little Explorers Daycare,Full-time Centre,"2306 3 Route, Harvey",NB,E6K 2P2,14,0,14,0,English,270214,1
+Region 3 - Fredericton,Anglophone West School District,2020084,Cedar Brook Forest School,Full-time Centre,"3532 Woodstock Road, Fredericton",NB,E3E 1C9,54,0,24,30,English,268698,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2020086,Garderie Centre Éducatif Le Palais du Plaisir Inc.,Full-time Centre,"15 Valcourt Rue, Saint-Quentin",NB,E8A 2B5,59,6,24,29,French,270437,1
+Region 1 - Moncton,Anglophone East School District,2020093,Garderie Snoopy Daycare Ltd.,Part-time Centre,"417 St George Boulevard, Moncton",NB,E1C 1X5,59,0,0,59,English,271973,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2020095,Garderie Bourgeoys 2,Home,"248 Marguerite-Bourgeoys Rue, Caraquet",NB,E1W 1A4,9,0,0,9,French,95902,0
+Region 3 - Fredericton,Anglophone South School District,2020103,Mini Blossoms Learning Centre,Full-time Centre,"12 Greystone Drive, Quispamsis",NB,E2G 0J1,15,0,15,0,English,272097,1
+Region 3 - Fredericton,Anglophone South School District,2020104,Little Blossoms Learning Centre,Full-time Centre,"86 Meenans Cove Road, Quispamsis",NB,E2E 1M7,60,6,24,30,English,272097,1
+Region 1 - Moncton,Anglophone South School District,2020107,Go-Go After School Sussex Corner,Part-time Centre,"12 Dutch Valley Road, Sussex Corner",NB,E4E 2Y1,45,0,0,45,English,237166,0
+Region 1 - Moncton,Anglophone East School District,2020112,Treesong Learning Studio,Home,"27 Glastonbury Drive, Moncton",NB,E1A 8M3,9,0,5,9,English,273840,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2020114,Halte scolaire Entramis 2020,Part-time Centre,"963 Principale Rue, Beresford",NB,E8K 1M7,30,0,0,30,French,254999,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2020119,Halte Scolaire Éducation Sécurité Confiance (ESC),Part-time Centre,"689 Éverard H. Daigle Boulevard, Grand-Sault/Grand Falls",NB,E3Z 3C5,60,0,0,60,French,276955,0
+Region 3 - Fredericton,Anglophone West School District,2020120,Creative Childcare on Killarney Afterschool and Preschool Inc.,Full-time Centre,"258 148 Route, Killarney Road",NB,E3G 9E2,30,0,15,15,English,236846,1
+Region 4 - Bathurst,Anglophone North School District,2020122,Campbellton Wee Care 2 Early Learning Center,Full-time Centre,"11 Aberdeen Street, Campbellton",NB,E3N 2J3,54,0,24,30,English,255147,1
+Region 2 - Saint John,Anglophone South School District,2020129,Pennfield Early Learning Center,Full-time Centre,"81 176 Route, Pennfield",NB,E5H 1V3,33,6,27,14,English,281074,1
+Region 2 - Saint John,Anglophone South School District,2021002,BLG Forest Of Dreams Daycare,Full-time Centre,"1 Baxter Road, Saint John",NB,E2H 2V5,60,6,39,15,English,282537,1
+Region 2 - Saint John,Anglophone South School District,2021003,Brother Bear's Daycare,Full-time Centre,"218 820 Route, Upper Loch Lomond",NB,E2S 2H9,41,3,23,15,English,282553,1
+Region 1 - Moncton,Anglophone East School District,2021005,DCS Kids Daycare,Full-time Centre,"11B School Street, Dorchester",NB,E4K 2Z6,30,3,12,15,English,283405,1
+Region 3 - Fredericton,Anglophone West School District,2021009,School of Discoveries,Full-time Centre,"150 Cowperthwaite Street, Fredericton",NB,E3A 9Y5,60,6,26,28,English,284130,1
+Region 2 - Saint John,Anglophone South School District,2021012,Boulevard Out Of School Club,Full-time Centre,"190-192 Milltown Boulevard, St. Stephen",NB,E3L 1G8,35,0,6,29,English,284206,0
+Region 2 - Saint John,Anglophone South School District,2021013,Boulevard Early Learning Centre,Full-time Centre,"174 Milltown Boulevard, St. Stephen",NB,E3L 1G8,48,18,36,11,English,284206,1
+Region 2 - Saint John,Anglophone South School District,2021016,The Woods 016,Full-time Centre,"193 Pettingill Road, Quispamsis",NB,E2E 4R2,40,0,40,0,English,261880,1
+Region 3 - Fredericton,Anglophone West School District,2021017,School Street Afterschool Program,Full-time Centre,"201 School Street, Woodstock",NB,E7M 0G7,22,0,0,22,English,253268,0
+Region 1 - Moncton,District scolaire francophone Sud,2021018,Garderie univers d'enfants 3,Part-time Centre,"329 Ryan Rue, Moncton",NB,E1G 2W2,60,0,0,60,French,239629,0
+Region 1 - Moncton,District scolaire francophone Sud,2021019,Garderie univers d'enfants 4,Part-time Centre,"329 Ryan Rue, Moncton",NB,E1G 2W2,60,0,0,60,French,239629,0
+Region 1 - Moncton,Anglophone East School District,2021022,Precious Jewels Early Learning Centre,Full-time Centre,"161 Salisbury Road, Moncton",NB,E1E 1A6,36,6,30,0,English,286381,1
+Region 2 - Saint John,Anglophone South School District,2021023,Hands On Learning Enrichment Centre - Saint John,Full-time Centre,"1672 Rothesay Road, Saint John",NB,E2H 2J3,50,6,28,16,English,236628,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2021026,Garderie Chez Tante Rosi Ltée 2,Full-time Centre,"133 de l'École Rue, Shippagan",NB,E8S 1V5,55,9,46,0,French,236844,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2021027,Garderie Chez Tante Rosi ltée-Halte scolaire,Part-time Centre,"133 de l'École Rue, Shippagan",NB,E8S 1V5,15,0,0,15,French,236844,0
+Region 2 - Saint John,Anglophone South School District,2021029,Inspire Early Learning Centre 1,Full-time Centre,"186 Adelaide Street, Saint John",NB,E2K 1X1,52,0,37,15,English,288981,1
+Region 2 - Saint John,Anglophone South School District,2021041,Inspire Early Learning Centre 2,Full-time Centre,"186 Adelaide Street, Saint John",NB,E2K 1X1,48,12,36,0,English,288981,1
+Region 1 - Moncton,Anglophone East School District,2021050,Here We Grow Youth Center 2,Part-time Centre,"55 Douglas Street, Salisbury",NB,E4J 2B4,15,0,0,15,English,236631,0
+Region 1 - Moncton,District scolaire francophone Sud,2021051,Garderie des P'tits Mollusques 4,Part-time Centre,"1546 525 Route, St-Marie-de-Kent",NB,E4S 2H9,45,0,0,45,French,235183,0
+Region 1 - Moncton,Anglophone South School District,2021054,SCS Little Lights Early Learning Centre,Full-time Centre,"384 St. George Street, Sussex",NB,E4E 1T4,52,0,52,0,English,236663,1
+Region 1 - Moncton,Anglophone South School District,2021055,SCS Little Lights Early Learning Centre #2,Full-time Centre,"384 St. George Street, Sussex",NB,E4E 1G6,20,0,20,0,English,236663,1
+Region 3 - Fredericton,Anglophone West School District,2021057,Oakland Academy Vanier Park,Full-time Centre,"190 Doak Road, Fredericton",NB,E3C 2G2,60,12,48,0,English,293464,1
+Region 2 - Saint John,Anglophone South School District,2021058,Bright Minds Preschool,Home,"535 Canal Road, Canal",NB,E5C 1H6,6,2,3,9,English,293568,1
+Region 2 - Saint John,Anglophone South School District,2021059,Seawood Early Childcare Centre #3,Part-time Centre,"859 Sand Cove Road, Saint John",NB,E2M 3E5,30,0,0,30,English,236804,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2021061,Halte Scolaire Le Tremplin 2,Part-time Centre,"520 De L'Église Rue, Tracadie-Sheila",NB,E1X 1B1,30,0,0,30,French,96844,0
+Region 3 - Fredericton,Anglophone West School District,2021062,Meduxnekeag Curious Kids Child Care,Full-time Centre,"200 School Street, Woodstock",NB,E7M 3Y2,23,0,20,23,English,236777,1
+Region 1 - Moncton,Anglophone East School District,2021065,Wee College Salisbury Youth,Part-time Centre,"3128 Main Street, Salisbury",NB,E4J 2L6,24,0,0,24,English,246187,0
+Region 1 - Moncton,District scolaire francophone Sud,2021072,Le Centre éducatif des Aventuriers 2,Full-time Centre,"531 La Montain Chemin, Memramcook",NB,E4K 1H1,24,0,6,24,French,268955,1
+Region 4 - Bathurst,Anglophone North School District,2021074,Buds and Blossoms Daycare,Home,"532 King George Highway, Miramichi",NB,E1V 1N3,6,2,3,1,English,297545,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2021085,Halte Scolaire Le coin des grands,Part-time Centre,"39 Saint-Joseph Rue, Sainte-Anne-de-Madawaska",NB,E7E 1K8,48,0,0,48,French,237138,0
+Region 3 - Fredericton,Anglophone West School District,2021077,Little Treehouse,Full-time Centre,"1052 Northside Drive, Minto",NB,E4B 3H7,55,6,21,28,English,301215,1
+Region 3 - Fredericton,Anglophone West School District,2021090,Woodstock Christian Academy Inc - Preschool Discovery Center,Full-time Centre,"137 Houlton Street, Woodstock",NB,E7M 1Y4,43,3,25,15,English,165636,1
+Region 1 - Moncton,Anglophone South School District,2021093,CLASS 424,Full-time Centre,"424 Main Street, Sussex",NB,E4E 1S5,60,0,30,40,English,236642,0
+Region 1 - Moncton,District scolaire francophone Sud,2021102,La Garde'rire 2 - Centre Éducatif de Cocagne Inc.,Part-time Centre,"4783 134 Route, Cocagne",NB,E4R 2Y2,15,0,0,15,French,237872,0
+Region 1 - Moncton,Anglophone East School District,2021109,Powerplay Riverview Campus 1,Full-time Centre,"500 Hillsborough Road, Riverview",NB,E1B 4E7,42,42,0,0,English,237805,1
+Region 1 - Moncton,Anglophone East School District,2021110,Powerplay Riverview Campus 2,Full-time Centre,"500 Hillsborough Road, Riverview",NB,E1B 4E7,59,0,59,0,English,237805,1
+Region 1 - Moncton,Anglophone East School District,2021111,Powerplay Riverview Campus 3,Full-time Centre,"500 Hillsborough Road, Riverview",NB,E1B 4E7,48,0,48,0,English,237805,1
+Region 1 - Moncton,District scolaire francophone Sud,2021121,Garderie Adorable,Home,"290 Pré-d'en-Haut Chemin, Memramcook",NB,E4K 1L6,6,1,3,2,French,237358,1
+Region 1 - Moncton,District scolaire francophone Sud,2021088,Garderie Royaume des papillons,Home,"65 McLaughlin Rue, Bouctouche",NB,E4S 3P3,6,2,3,1,French,300561,1
+Region 1 - Moncton,Anglophone North School District,2021092,Creating Wonders Elsipogtog,Full-time Centre,"356 Big Cove Road, Elsipogtog First Nation",NB,E4W 2S6,60,9,27,24,English,237009,1
+Region 1 - Moncton,District scolaire francophone Sud,2021125,La Garderinade,Home,"158 Albini Rue, Dieppe",NB,E1A 1T7,9,0,0,9,French,237355,0
+Region 3 - Fredericton,Anglophone West School District,2021127,Macie's Happy Faces Daycare,Full-time Centre,"531 Main Street, Doaktown",NB,E9C 1W9,24,3,21,0,English,305976,1
+Region 1 - Moncton,District scolaire francophone Sud,2021131,Service de garde les toutous,Home,"22 Glencoe Drive, Moncton",NB,E1A 4W6,6,2,3,1,French,306124,1
+Region 1 - Moncton,Anglophone East School District,2021132,Garderie Les Petits Bisounours Daycare,Full-time Centre,"25 Pine Glen Road, Riverview",NB,E1B 3J3,46,6,25,15,English,307190,1
+Region 2 - Saint John,Anglophone East School District,2021138,The Lily Pad,Home,", Rothesay",NB,,6,2,3,1,English,310032,1
+Region 3 - Fredericton,Anglophone West School District,2021142,Fredericton Bouldering Co-operative,Part-time Centre,"528 Smythe Street, Fredericton",NB,E3B 3E6,30,0,0,30,English,310756,0
+Region 3 - Fredericton,Anglophone West School District,2022008,Talented Toddlers,Home,"6 Haines Crescent, Fredericton",NB,E3A 4W1,6,2,3,1,English,313316,1
+Region 2 - Saint John,Anglophone South School District,2022012,Boulevard Out of School Club 2,Full-time Centre,"170 Milltown Boulevard, St. Stephen",NB,E3L 1G8,50,0,20,30,English,284206,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2022013,Garderie la Forêt des Découvertes 3,Part-time Centre,"66 Des Pionniers Avenue, Balmoral",NB,E8E 2N4,60,0,20,60,French,261280,1
+Region 2 - Saint John,Anglophone South School District,2022014,YMCA - North Hub - Child Care,Full-time Centre,"538 Sandy Point Road, Saint John",NB,E2K 3S2,59,6,53,0,English,202715,1
+Region 1 - Moncton,Anglophone East School District,2022015,Playing is Learning,Home,", Moncton",NB,,5,2,3,0,English,316338,1
+Region 2 - Saint John,Anglophone South School District,2022016,Rising Stars Daycare - Sussex,Full-time Centre,"1085 Main Street, Sussex Corner",NB,E4E 3C8,56,6,50,16,English,245014,1
+Region 1 - Moncton,District scolaire francophone Sud,2022023,Garderie le Coin des Copains,Home,"243 Gould Rue, Dieppe",NB,E1A 1T8,6,1,3,0,French,320404,1
+Region 3 - Fredericton,Anglophone West School District,2022032,Little Cubs Early Learning Center,Full-time Centre,"2331 640 Route, Hanwell",NB,E3E 0H4,39,0,18,21,English,220880,1
+Region 2 - Saint John,Anglophone South School District,2022033,YMCA - Champlain Heights ASP,Part-time Centre,"111 Champlain Drive, Saint John",NB,E2J 3E4,49,0,0,49,English,202715,0
+Region 3 - Fredericton,Anglophone West School District,2022036,Muddy Hands Afterschool Care Centre,Part-time Centre,"179 Sunbury Drive, Fredericton Junction",NB,E5L 1R5,30,0,0,30,English,323646,0
+Region 3 - Fredericton,Anglophone West School District,2022046,Energy Kidz,Part-time Centre,"300 Restigouche Road, Oromocto",NB,E2V 2H5,60,0,0,60,English,324605,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2022049,Les Étoiles de Marguerite-Bourgeoys 2,Part-time Centre,"238 Marguerite-Bourgeoys Rue, Caraquet",NB,E1W 1B7,60,0,0,60,French,237045,0
+Region 1 - Moncton,Anglophone South School District,2022052,Shine After School Care,Part-time Centre,"33 Pine Street, Sussex",NB,E4E 5R7,24,0,0,24,English,236663,0
+Region 3 - Fredericton,Anglophone West School District,2022054,Little Buds Early Learning and Childcare,Home,"619 550 Route, Hartford",NB,E7M 5L6,6,2,3,1,English,328390,1
+Region 2 - Saint John,Anglophone South School District,2022072,Just For Kidz Child Development Centre,Full-time Centre,"14 Porter Street, St. Stephen",NB,E3L 2M7,39,6,33,0,English,331535,1
+Region 3 - Fredericton,Anglophone West School District,2022030,Oakland Academy Lincoln,Full-time Centre,"2398 Lincoln Road, Lincoln",NB,E3B 7E6,40,6,34,0,English,293464,1
+Region 3 - Fredericton,Anglophone West School District,2022031,Oakland Academy Lincoln Youth,Full-time Centre,"2398 Lincoln Road, Lincoln",NB,E3B 7E6,40,0,10,30,English,293464,1
+Region 2 - Saint John,Anglophone South School District,2022073,Just for Big Kidz Afterschool and Preschool Program,Part-time Centre,"12 Princess Street, St. Stephen",NB,E3L 2E8,35,0,10,35,English,331535,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2022104,À la garderie comme à la maison,Home,"30 Vimy Rue, Edmundston",NB,E3V 1B3,6,1,4,1,French,337437,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2010925,Les Amis de Madi 1 (2022),Full-time Centre,"335 Chapel Rue, Grand-Sault/Grand Falls",NB,E3Z 2M5,58,29,29,0,French,236902,1
+Region 4 - Bathurst,Anglophone West School District,2018419,Les Amis de Madi 3 (2022),Full-time Centre,"335 Chapel Rue, Grand-Sault/Grand Falls",NB,E3Z 2M5,43,0,28,15,English,236902,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2022020,Garderie les petits zhiboux,Full-time Centre,"642 Des Acadiens Boulevard, Bertrand",NB,E1W 1G8,58,0,28,30,French,318969,1
+Region 3 - Fredericton,Anglophone West School District,2022088,Sara's Sprouts,Home,"5730 105 Route, Mill Cove",NB,E4C 3A7,6,2,3,1,English,333630,1
+Region 4 - Bathurst,Anglophone North School District,2022062,Wee Care Outdoor Adventures,Full-time Centre,"11 Mountain Street, Tide Head",NB,E3N 4J7,24,0,24,24,English,255147,0
+Region 3 - Fredericton,Anglophone West School District,2022068,Little Treehouse After-School Program,Part-time Centre,"1052 Northside Drive, Minto",NB,E4B 3H7,15,0,0,15,English,301215,0
+Region 1 - Moncton,Anglophone South School District,2022087,Wonderland Cub Club After School,Part-time Centre,"4 Upper Midland Road, Norton",NB,E5T 1Z6,21,0,0,21,English,332607,0
+Region 1 - Moncton,Anglophone South School District,2022084,Wonderland Child Care,Full-time Centre,"6 Earl McGinnis Lane, Norton",NB,E5T 0G4,49,0,49,0,English,332607,1
+Region 1 - Moncton,Anglophone South School District,2022085,Wonderland Child Care Infant Centre,Full-time Centre,"6 Earl McGinnis Lane, Norton",NB,E5T 0G4,18,18,0,0,English,332607,1
+Region 1 - Moncton,Anglophone South School District,2022086,Wonderland Child Care After School,Full-time Centre,"6 Earl McGinnis Lane, Norton",NB,E5T 0G4,60,0,18,42,English,332607,1
+Region 1 - Moncton,Anglophone East School District,2022069,Our Little Friends Riverview Daycare,Home,"23 Luxor Drive, Riverview",NB,E1B 0V7,6,2,3,1,English,330568,1
+Region 1 - Moncton,Anglophone East School District,2021114,Powerplay Academy Riverview Campus 6,Part-time Centre,"500 Hillsborough Road, Riverview",NB,E1B 4E7,55,0,0,55,English,237805,0
+Region 3 - Fredericton,Anglophone West School District,2022067,Seeds & Sprouts Childcare,Home,"437 Canada Street, Fredericton",NB,E3A 4A5,6,2,3,1,English,329902,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2022093,Halte Scolaire L'Enfant Magique,Part-time Centre,"61 Dover Street, Campbellton",NB,E3N 1P7,60,0,0,60,French,236817,0
+Region 1 - Moncton,Anglophone East School District,2023001,Over the Moon Learning Centre,Part-time Centre,"25 Hildegard Drive, Moncton",NB,E1G 2G5,42,0,0,42,English,341052,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2023024,CPE Les Amis de Zoé,Home,"11 Cyr Rue, Saint-Léonard",NB,E7E 1X9,6,2,3,1,French,330845,1
+Region 2 - Saint John,Anglophone South School District,2021120,Tree Tops Daycare Inc.,Full-time Centre,"445 St. Martins Road, Saint John",NB,E2S 1E4,32,0,32,10,English,284304,1
+Region 3 - Fredericton,Anglophone West School District,2023025,Wise Owl Early Learning Centre,Full-time Centre,"2-1300 Onondaga Street, Oromocto",NB,E2V 2P4,56,0,56,0,English,346882,1
+Region 3 - Fredericton,Anglophone West School District,2023026,Wise Owl Afterschool Club,Part-time Centre,"285 Restigouche Road, Oromocto",NB,E2V 2H2,49,0,0,49,English,346882,0
+Region 3 - Fredericton,Anglophone West School District,2022071,Carleton North Early Learning Centre,Full-time Centre,"17 Old School House Lane, Florenceville-Bristol",NB,E7L 4V3,51,6,30,15,English,331540,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2022108,Halte Scolaire Les Petits Anges,Part-time Centre,"700 Principale Rue, Néguac",NB,E9G 1N4,15,0,0,15,French,237116,0
+Region 2 - Saint John,Anglophone South School District,2022083,Passamaquoddy Children's Centre Inc.,Part-time Centre,"212 Parr Street, Saint Andrews",NB,E5B 1M3,30,0,0,30,English,96172,0
+Region 1 - Moncton,Anglophone East School District,2021064,Wiggles & Wonders Childcare,Part-time Centre,"39 Main Street, Sackville",NB,E4L 4A6,30,0,0,30,English,236658,0
+Region 1 - Moncton,Anglophone East School District,2022006,GBC Early Learning Centre 2,Full-time Centre,"160 Old Coach Road, Riverview",NB,E1B 1N8,6,6,0,0,English,27678,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2021094,Centre Éducatif Les Farfeloups,Full-time Centre,"154 Canada Rue, Saint-Quentin",NB,E8A 1G7,21,3,18,8,French,237401,1
+Region 2 - Saint John,Anglophone South School District,2022107,Boys and Girls Club St. Stephen Elementary School,Part-time Centre,"16 Kings Court, St. Stephen",NB,E3L 3X7,29,0,0,29,English,246089,0
+Region 3 - Fredericton,District scolaire francophone Sud,526029,Franco III,Full-time Centre,"715 Priestman Street, Fredericton",NB,E3B 5W7,60,9,51,0,French,236832,1
+Region 3 - Fredericton,District scolaire francophone Sud,2005910,L'Eveil Enfantin,Full-time Centre,"715 Priestman Street, Fredericton",NB,E3B 5W7,60,18,42,0,French,236832,1
+Region 3 - Fredericton,Anglophone West School District,2023012,Little Rascals Daycare Inc.,Full-time Centre,"145 Smith Road, Waterville-Sunbury",NB,E2V 3V3,56,3,23,30,English,342653,1
+Region 3 - Fredericton,Anglophone West School District,2023031,Sunnyside Daycare,Home,"36 Shayla Court, Fredericton",NB,E3A 0N3,6,2,3,1,English,348467,1
+Region 3 - Fredericton,Anglophone West School District,2023015,Little Muddy hands Learning Center Inc.,Full-time Centre,"179 Sunbury Drive, Fredericton Junction",NB,E5L 1R5,44,9,35,0,English,342877,1
+Region 1 - Moncton,District scolaire francophone Sud,2022119,Roche Papier Duo,Full-time Centre,"305 St-George Rue, Moncton",NB,E1C 1W8,49,0,49,0,French,342182,1
+Region 1 - Moncton,Anglophone East School District,2022018,Logos Christian Daycare,Full-time Centre,"27 Sackville Street, Shediac",NB,E4P 2P9,20,0,20,0,English,318672,1
+Region 3 - Fredericton,Anglophone West School District,2023048,Little Mittens Daycare,Home,", Woodstock",NB,,6,2,3,1,English,353196,1
+Region 3 - Fredericton,Anglophone West School District,2023027,123 Learn with Me Childcare,Home,"1076 10 Route, Noonan",NB,E3A 7E7,6,2,3,1,English,347995,1
+Region 3 - Fredericton,Anglophone West School District,2023051,Miles of Smiles Childcare,Home,"263 Priestman Street, Fredericton",NB,E3B 3B3,6,2,3,1,English,353447,1
+Region 1 - Moncton,Anglophone East School District,2022058,The Magic Tree School Age Program,Part-time Centre,"22 Lansdowne Street, Sackville",NB,E4L 3Y9,30,0,0,30,English,96255,0
+Region 1 - Moncton,Anglophone East School District,2021113,Powerplay Riverview Campus 5,Full-time Centre,"500 Hillsborough Road, Riverview",NB,E1B 4E7,58,0,39,19,English,237805,1
+Region 3 - Fredericton,Anglophone West School District,2022029,Go-Go After School Hanwell,Part-time Centre,"1717 Hanwell Road, Hanwell",NB,E3C 2B9,37,0,0,37,English,237166,0
+Region 1 - Moncton,District scolaire francophone Sud,2023045,Centre éducatif des trois chênes 1,Part-time Centre,"620 McLaughlin Drive, Moncton",NB,E1A 4R8,60,0,0,60,French,345420,0
+Region 1 - Moncton,District scolaire francophone Sud,2023047,Centre éducatif des trois chênes 2,Part-time Centre,"620 McLaughlin Drive, Moncton",NB,E1A 4R6,45,0,0,45,French,345420,0
+Region 3 - Fredericton,Anglophone West School District,2022028,Go-Go After School High Point Plaza 2,Part-time Centre,"283 New Maryland Highway, New Maryland",NB,E3C 2H3,30,0,0,30,English,237166,0
+Region 3 - Fredericton,Anglophone West School District,2023034,Upper Nashwaak Kid's Club,Part-time Centre,"28 Bridge Street, Stanley",NB,E6C 1T5,30,0,0,30,English,349367,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2023006,Les p'tits cœurs à Manou Inc.,Full-time Centre,"2737 11 Route, Village St Laurent",NB,E9G 2J5,22,0,22,7,French,248308,1
+Region 3 - Fredericton,District scolaire francophone Sud,260027,Garderie a petits pas,Full-time Centre,"67 Ragged Point Road, Saint John",NB,E2K 5C3,60,0,60,0,French,236614,1
+Region 3 - Fredericton,District scolaire francophone Sud,260028,GARDERIE APRES CLASSE LA COCCINELLE,Part-time Centre,"67 Ragged Point Road, Saint John",NB,E2K 5C3,60,0,0,60,French,236614,0
+Region 3 - Fredericton,District scolaire francophone Sud,260029,GARDERIE APRES CLASSE COCCINELLE II,Part-time Centre,"67 Ragged Point Road, Saint John",NB,E2K 5C3,46,0,0,46,French,236614,0
+Region 3 - Fredericton,District scolaire francophone Sud,2006261,Garderie à Grand Pas,Full-time Centre,"67 Ragged Point Road, Saint John",NB,E2K 5C3,60,0,60,0,French,236614,1
+Region 3 - Fredericton,District scolaire francophone Sud,2014977,Les Aventuriers de la Vallée,Part-time Centre,"250A Quispamsis Road, Quispamsis",NB,E2E 0R7,60,0,0,60,French,236614,0
+Region 3 - Fredericton,District scolaire francophone Sud,2015319,La Vallée des Découvreurs,Full-time Centre,"250A Quispamsis Road, Quispamsis",NB,E2E 0R7,60,0,60,0,French,236614,1
+Region 3 - Fredericton,District scolaire francophone Sud,2015320,Les Soleils Enchantés,Full-time Centre,"250A Quispamsis Road, Quispamsis",NB,E2E 0R7,9,18,39,0,French,236614,1
+Region 3 - Fredericton,District scolaire francophone Sud,2015321,Les Vortex de la Vallée,Full-time Centre,"250A Quispamsis Road, Quispamsis",NB,E2E 0R7,50,0,30,30,French,236614,1
+Region 1 - Moncton,District scolaire francophone Sud,2023054,Mon Ecole My School 2.0,Part-time Centre,"3860 115 Route, Notre-Dame",NB,E4V 2J2,60,0,0,60,French,236749,0
+Region 3 - Fredericton,Anglophone West School District,2023050,UNB Children's Centre,Full-time Centre,"10 MacKay Drive, Fredericton",NB,E3B 5A3,20,0,20,0,English,353441,1
+Region 2 - Saint John,Anglophone South School District,2023023,YMCA - Forest Glen PS & ASP,Full-time Centre,"651 Westmorland Road, Saint John",NB,E2J 2H3,20,0,20,20,English,202715,1
+Region 2 - Saint John,Anglophone South School District,2023070,YMCA - St. Mark's - ASP 2,Part-time Centre,"50 Dexter Drive, Saint John",NB,E2M 4M4,29,0,0,29,English,202715,0
+Region 3 - Fredericton,Anglophone West School District,2023063,Oakland Academy Lincoln 2,Full-time Centre,"2398 Lincoln Road, Lincoln",NB,E3B 7E6,55,24,31,0,English,293464,1
+Region 2 - Saint John,Anglophone South School District,2023057,Little Stream Daycare,Home,"787 Route 825 Route, Garnett Settlement",NB,E2S 1Y3,5,2,3,0,English,356261,1
+Region 3 - Fredericton,Anglophone West School District,2023052,Chipman Youth Centre,Part-time Centre,"19 Forest Avenue, Chipman",NB,E4A 1Z8,18,0,0,18,English,328662,0
+Region 2 - Saint John,Anglophone South School District,2023060,River Road Hub After School Program,Part-time Centre,"32 Wallace Road, Browns Flat",NB,E5M 2P6,22,0,0,22,English,356694,0
+Region 2 - Saint John,Anglophone East School District,2023074,"Rising Stars Daycare, Afterschool Program",Part-time Centre,"6 Kay Street, Petitcodiac",NB,E4Z 4K6,30,0,0,30,English,245014,0
+Region 3 - Fredericton,Anglophone West School District,2023062,Munchkins Afterschool,Part-time Centre,"1769 640 Route, Hanwell",NB,E3C 2B3,30,0,0,30,English,220880,0
+Region 3 - Fredericton,Anglophone West School District,2023029,River Valley Early Learning Center,Full-time Centre,"1-49 Mccain Street, Florenceville-Bristol",NB,E7L 3J7,40,6,21,13,English,236820,1
+Region 1 - Moncton,Anglophone East School District,2023072,A Ton of Fun Early Learning Center,Full-time Centre,"15 Granville Drive, Moncton",NB,E1C 3G5,59,9,35,15,English,359741,1
+Region 2 - Saint John,Anglophone South School District,2023058,Embertide Early Learning Centre,Full-time Centre,"14 Centennial Road, Hampton",NB,E5N 6N2,42,12,30,0,English,370874,1
+Region 1 - Moncton,Anglophone South School District,2023109,St. Paul's Playschool23,Part-time Centre,"4 Morrison Avenue, Sussex",NB,E4E 1P5,19,0,19,0,English,367436,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2023055,CPE Phare-O-Bulles inc.,Full-time Centre,"62 Queen Rue, Edmundston",NB,E3V 1A1,44,18,26,0,French,356657,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2023080,CPE Phare-O-Bulles 2 inc.,Full-time Centre,"62 Queen Rue, Edmundston",NB,E3V 1A1,50,0,20,30,French,356657,1
+Region 1 - Moncton,District scolaire francophone Sud,2023092,Centre éducatif des trois chênes 3,Full-time Centre,"620 McLaughlin Promenade, Moncton",NB,E1A 4R6,52,12,40,0,French,345420,1
+Region 1 - Moncton,District scolaire francophone Sud,2023093,Centre éducatif des trois chênes 4,Full-time Centre,"620 McLaughlin Promenade, Moncton",NB,E1A 4R6,49,0,49,0,French,345420,1
+Region 3 - Fredericton,Anglophone West School District,2023110,Creative Childcare in Pepper Creek Inc.,Full-time Centre,"148 Mataya Drive, Richibucto Road",NB,E3A 0A6,29,9,20,0,English,369362,1
+Region 3 - Fredericton,Anglophone West School District,2023077,Care Bear Home Daycare,Home,", Fredericton",NB,,6,2,3,1,English,360564,1
+Region 1 - Moncton,Anglophone South School District,2023101,SCS Mini Lights Early Learning Centre,Full-time Centre,"43 Chapman Drive, Sussex",NB,E4E 1M4,12,12,0,0,English,236663,1
+Region 1 - Moncton,District scolaire francophone Sud,2023098,Centre éducatif des trois chênes 5,Full-time Centre,"620 McLaughlin Drive, Moncton",NB,E1A 4R6,20,12,8,0,French,345420,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2023056,Garderie Les Mélodilous Centre Éducatif,Full-time Centre,"183 Mgr Martin Rue, Saint-Quentin",NB,E8A 1W3,10,3,7,0,French,349489,0
+Region 3 - Fredericton,Anglophone West School District,2023113,Four Season Daycare,Home,"51 Birmingham Court, Fredericton",NB,E3B 6H2,6,2,3,1,English,370604,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2023124,Garderie Ici On Grandit,Full-time Centre,"65-A Laplante Est Chemin, Petit-Rocher",NB,E8J 1H4,52,6,46,0,French,371480,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2023125,Garderie Ici On Grandit 2,Part-time Centre,"65-A Laplante Est Chemin, Petit-Rocher",NB,E8J 1H4,45,0,0,45,French,371480,0
+Region 1 - Moncton,Anglophone East School District,2023085,Clever Kidz Corner,Home,"401 Ryan Street, Moncton",NB,E1G 2W2,6,1,4,1,English,362452,1
+Region 3 - Fredericton,Anglophone West School District,2024023,Wise Owl Academy- ELC,Full-time Centre,"2-1300 Onondaga Street, Oromocto",NB,E2V 2P4,60,24,36,0,English,346882,1
+Region 3 - Fredericton,Anglophone West School District,2024024,Wise Owl Academy- Afterschool Club,Full-time Centre,"2-1300 Onondaga Street, Oromocto",NB,E2V 2P4,56,0,26,30,English,346882,1
+Region 1 - Moncton,Anglophone South School District,2024017,Raisin' Bay-Bees,Home,"268 Church Avenue, Sussex",NB,E4E 1Z1,5,2,3,0,English,376903,1
+Region 1 - Moncton,Anglophone East School District,2023108,BGC Moncton Afterschool Program,Part-time Centre,"15 EVERETT Street, Moncton",NB,E1C 3Z6,42,0,0,42,English,28532,0
+Region 4 - Bathurst,Anglophone North School District,2024039,Kountry Kids Early Learning and Care,Full-time Centre,"54 Sydney Lane, Sunny Corner",NB,E9E 0E6,55,12,31,15,English,237530,1
+Region 3 - Fredericton,Anglophone West School District,2024028,Ready Set Grow Early Learning Childcare,Home,"1416 605 Route, Millville",NB,E6E 1X6,6,2,3,1,English,379255,1
+Region 1 - Moncton,Anglophone South School District,2024018,Kenzi's Home Daycare,Home,"149 Pleasant Avenue, Sussex",NB,E4E 1Y1,5,2,3,0,English,377021,1
+Region 1 - Moncton,Anglophone East School District,2024015,Busybee Dayhome,Home,"99 Allison Drive, Moncton",NB,E1E 2T7,6,2,3,1,English,376597,1
+Region 3 - Fredericton,Anglophone West School District,2024002,Little Owls Early Learning Centre,Full-time Centre,"566 Waasis Road, Oromocto",NB,E2V 2J4,27,9,18,0,English,372748,1
+Region 3 - Fredericton,Anglophone West School District,2024036,Adventure Acres Early Learning,Home,"1831 Route 104 Route, Zealand",NB,E6L 2S4,6,2,3,1,English,381343,1
+Region 3 - Fredericton,District scolaire francophone Sud,2024033,La P'tite Garderie,Home,"37 Sprucewood Drive, New Maryland",NB,E3C 1C7,6,2,3,1,French,380602,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024043,Centre Éducatif Bouge O Max Inc.,Full-time Centre,"14 Noé Avenue, Saint-André",NB,E3Y 0C5,39,12,27,0,French,383992,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024044,Centre Éducatif Bouge O Max 2,Full-time Centre,"475 de l'Église Rue, Saint-André",NB,E3Y 2Y2,60,0,30,30,French,383992,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024046,Garderie Familio,Home,"225 York Street, Bathurst",NB,E2A 1G9,6,2,3,1,French,348440,1
+Region 2 - Saint John,Anglophone South School District,2023076,Embrace Early Learning Centre,Full-time Centre,"51 Heather Way, Saint John",NB,E2J 4C7,60,6,26,28,English,360263,1
+Region 4 - Bathurst,Anglophone North School District,2024040,Kountry Kids After School Club in NSEE,Part-time Centre,"36 Northwest Road, Sunny Corner",NB,E9E 1K8,20,0,0,20,English,237530,0
+Region 3 - Fredericton,Anglophone West School District,2023106,Centreville Child Care 1,Full-time Centre,"20 Burtt Street, Centreville",NB,E7K 0A8,57,12,0,45,English,236869,1
+Region 2 - Saint John,Anglophone South School District,2023099,First Steps Early Learning Centre,Full-time Centre,"120 Coburg Street, Saint John",NB,E2L 3K1,6,6,0,0,English,236802,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024012,Halte Scolaire La Rivière,Part-time Centre,"1050 350 Route, Landry Office",NB,E8P 2K9,10,0,0,10,French,237033,0
+Region 1 - Moncton,District scolaire francophone Sud,2023127,Roche Papier Trio,Full-time Centre,"305 St George Street, Moncton",NB,E1C 1W8,50,0,10,40,French,371831,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024062,Halte scolaire Bellefeuille,Part-time Centre,"906 Louis G. Daigle Rue, Tracadie-Sheila",NB,E1X 1G4,60,0,0,60,French,385600,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024063,Halte scolaire Bellefeuille 2,Part-time Centre,"906 Louis G. Daigle Rue, Tracadie-Sheila",NB,E1X 1G4,15,0,0,15,French,385600,0
+Region 3 - Fredericton,Anglophone West School District,2024050,Little Darlings Daycare,Home,"75 Main Street, Stanley",NB,E6B 1A7,6,2,3,1,English,383774,1
+Region 2 - Saint John,Anglophone South School District,2018244,Kiddie Cove Preschool and Daycare,Full-time Centre,"1722 774 Route, Wilsons Beach",NB,E5E 1K7,54,0,36,18,English,236779,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024060,Club Des Amis - Robertville,Full-time Centre,"2009 322 Route, Robertville",NB,E8K 2S4,60,6,34,20,French,236774,1
+Region 2 - Saint John,Anglophone South School District,2023086,YMCA - GSJ - Quispamsis Child Care 1,Full-time Centre,"20 Millennium Drive, Quispamsis",NB,E2E 4B1,38,12,26,0,English,202715,1
+Region 2 - Saint John,Anglophone South School District,2023087,YMCA - GSJ - Quispamsis Child Care 2,Full-time Centre,"20 Millennium Drive, Quispamsis",NB,E2E 4B1,30,0,30,0,English,202715,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024016,Halte scolaire St-Joseph de Madawaska,Part-time Centre,"562 Toussaint Chemin, Saint-Joseph-de-Madawaska",NB,E7B 2T8,45,0,0,45,French,385570,0
+Region 3 - Fredericton,Anglophone West School District,528007,Welamukotuk Early Learning Centre,Full-time Centre,"33 Hiawatha Avenue, Oromocto",NB,E2V 2W2,30,0,30,0,English,236993,0
+Region 3 - Fredericton,Anglophone West School District,2024097,Go-Go After School Barkers Point,Part-time Centre,"39 Carman Avenue, Fredericton",NB,E3A 3W9,30,0,0,30,English,237166,0
+Region 1 - Moncton,Anglophone East School District,2024038,Kingswood Academy 6,Full-time Centre,"1535 Ryan Street, Moncton",NB,E1G 2V4,51,0,36,15,English,237320,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024045,Nature Ludique - CAHM,Full-time Centre,"41 Des Érables Avenue, Clair",NB,E7A 2C5,30,0,0,30,French,236850,0
+Region 1 - Moncton,Anglophone East School District,2023067,Wee Thrive Beginners,Full-time Centre,"260 MacNaughton Avenue, Moncton",NB,E1H 2J8,55,30,25,0,English,357293,1
+Region 1 - Moncton,Anglophone East School District,2023068,Wee Thrive Preschool,Full-time Centre,"260 MacNaughton Avenue, Moncton",NB,E1H 2J8,41,6,35,0,English,357293,1
+Region 1 - Moncton,Anglophone East School District,2023069,Wee Thrive Early Learners,Full-time Centre,"260 MacNaughton Avenue, Moncton",NB,E1H 2J8,43,6,37,0,English,357293,1
+Region 3 - Fredericton,Anglophone West School District,2024090,Cuffman Street Afterschool Program,Part-time Centre,"125 Cuffman Street, Fredericton",NB,E3A 4W4,28,0,0,28,English,96210,0
+Region 2 - Saint John,Anglophone South School District,2024091,Kid Zone Hammond River,Part-time Centre,"1759 860 Route, Hampton",NB,E5N 8H1,22,0,0,22,English,96058,0
+Region 2 - Saint John,Anglophone South School District,2024008,Megan's Munchkins,Part-time Centre,"1141 Route 776 Route, Grand Manan",NB,E5G 4E9,9,0,9,9,English,237291,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024013,Halte Scolaire Le Domaine,Part-time Centre,"636 Principale Rue, Petit-Rocher",NB,E8J 1T7,30,0,0,30,French,236979,0
+Region 2 - Saint John,Anglophone South School District,2024081,The Woods 081,Part-time Centre,"193 Pettingill Road, Quispamsis",NB,E2E 4R2,30,0,0,30,English,261880,0
+Region 2 - Saint John,Anglophone South School District,2024080,YMCA of South Western NB Glenn Carpenter Centre,Part-time Centre,"135 Glenn Carpenter Lane, Saint John",NB,E2K 5J3,60,0,0,60,English,202715,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024010,Garderie Câlins,Home,"71 46ième Avenue, Edmundston",NB,E3V 3B4,6,1,4,1,French,375321,1
+Region 3 - Fredericton,Anglophone West School District,2023105,Go-Go After School Silverwood 2,Part-time Centre,"2385 Woodstock Road, Fredericton",NB,E3C 1P6,40,0,0,40,English,237166,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2017835,Les Amis de la Grandview Inc.,Full-time Centre,"850 Grandview Street, Bathurst",NB,E2A 3R7,44,6,23,15,French,236845,1
+Region 3 - Fredericton,Anglophone West School District,2024105,Sunshine Smile Daycare,Home,"254 Willingdon Street, Fredericton",NB,E3B 3A5,6,1,4,1,English,393648,1
+Region 1 - Moncton,District scolaire francophone Sud,2024030,Club Le Marais 2,Part-time Centre,"1620 Dieppe Boulevard, Dieppe",NB,E1A 8P5,15,0,0,15,French,237049,0
+Region 1 - Moncton,Anglophone East School District,2024006,World of Wonders Early Learning Center,Full-time Centre,"22 Church Street, Moncton",NB,E1C 0P7,56,12,44,0,English,373608,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024111,Centre de Soins et d'Éducation Marika Inc.,Full-time Centre,"98 Tobique Chemin, Grand-Sault/Grand Falls",NB,E3Y 1B9,55,9,31,15,French,395601,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024112,La Petite École Marika,Part-time Centre,"1365 Tobique Chemin, Drummond",NB,E3Y 2P4,18,0,18,0,French,395601,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024113,Les Petits Coeurs Marika,Part-time Centre,"689 Éverard H. Daigle Boulevard, Grand-Sault/Grand Falls",NB,E3Z 3C5,20,0,20,0,French,395601,1
+Region 2 - Saint John,Anglophone South School District,2024019,Origins at the Park 1,Full-time Centre,"101 Origins Lane, Saint John",NB,E2K 5J4,60,0,60,0,English,387552,1
+Region 1 - Moncton,District scolaire francophone Sud,2024098,Garderie chez Walid,Home,"207 Churchill Street, Moncton",NB,E1C 7J8,6,2,3,1,French,392247,1
+Region 1 - Moncton,Anglophone East School District,2024029,Sharon's Mama Bear Daycare,Part-time Centre,"3805 NB-132 Route, Shediac",NB,E4P 3M5,15,0,0,15,English,384816,0
+Region 2 - Saint John,Anglophone South School District,2024128,Precious Little Ones Daycare,Full-time Centre,"97 Vincent Road, Quispamsis",NB,E2E 1S9,35,0,12,23,English,398103,1
+Region 2 - Saint John,Anglophone South School District,2024129,Precious Little Ones After School Program,Part-time Centre,"97 Vincent Road, Quispamsis",NB,E2E 1S9,30,0,0,30,English,398103,0
+Region 3 - Fredericton,Anglophone West School District,2024106,Go Go Afterschool Oromocto 2,Part-time Centre,"66 Miramichi Road, Oromocto",NB,E2V 1S2,30,0,0,30,English,237166,0
+Region 3 - Fredericton,Anglophone West School District,2019570,Brighter Horizons Preschool & Afterschool Centre,Full-time Centre,"497 Pleasant Drive, Minto",NB,E4B 2T4,30,0,15,15,English,243568,1
+Region 3 - Fredericton,Anglophone West School District,2022009,Beautiful Beginnings Early Learning and Childcare Centre,Full-time Centre,"10 Civic Court, Chipman",NB,E4A 2H9,55,5,30,20,English,243568,1
+Region 3 - Fredericton,Anglophone West School District,2024107,Mabie's Babies,Home,"102 Cross Road, Temperance Vale",NB,E6G 2E3,6,2,3,1,English,394805,1
+Region 1 - Moncton,Anglophone East School District,2024127,Free to be me!,Home,"43 Woodworth Street, Lower Coverdale",NB,E1J 1L5,6,2,3,1,English,397928,1
+Region 1 - Moncton,District scolaire francophone Sud,2024047,Institut Apprenti-sage 1,Full-time Centre,"40 HENRI DUNANT Street, Moncton",NB,E1E 1E5,56,6,50,0,French,383254,0
+Region 2 - Saint John,Anglophone South School District,2024109,Giggle & Grow Homecare,Home,"1002 Mollins Drive, Saint John",NB,E2M 4L8,6,1,5,1,English,395274,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024068,Garderie Ici On Grandit 1,Full-time Centre,"65 LaPlante Rue, Petit-Rocher",NB,E8J 1H4,29,6,23,0,French,371480,1
+Region 1 - Moncton,District scolaire francophone Sud,2024082,La Garderie des Petits Pêcheurs 4,Part-time Centre,"5654 Rte 15 Road, Shemogue",NB,E4N 2P5,30,0,0,30,French,238516,0
+Region 3 - Fredericton,Anglophone West School District,2024116,Busy Beavers Daycare,Home,"23 Darren Street, Beaver Dam",NB,E3B 8B6,6,2,3,1,English,396187,1
+Region 2 - Saint John,Anglophone South School District,2024124,Mama's Village Daycare,Home,"29 Cannon Road, Quispamsis",NB,E2E 3W3,6,2,3,1,English,397297,1
+Region 2 - Saint John,Anglophone South School District,2024100,Rainbow Valley Childcare,Full-time Centre,"24 Epworth Park Road, Grand Bay-Westfield",NB,E5K 1W3,30,0,30,0,English,392765,1
+Region 2 - Saint John,Anglophone South School District,2024101,Rainbow Valley Afterschool 1,Part-time Centre,"27 Inglewood Drive, Grand Bay-Westfield",NB,E5K 2E1,47,0,0,47,English,392765,0
+Region 2 - Saint John,Anglophone South School District,2024102,Rainbow Valley Afterschool 2,Part-time Centre,"147 Nerepis Road, Grand Bay-Westfield",NB,E5K 2Z5,30,0,0,30,English,392765,0
+Region 2 - Saint John,Anglophone South School District,2024079,Origins at the Park 4,Full-time Centre,"60 Origins Lane, Saint John",NB,E2K 5H9,60,12,48,0,English,387552,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024092,Halte des Petits Aventuriers,Part-time Centre,"8 de l'École Rue, Kedgwick",NB,E8B 1A8,30,0,0,30,French,369909,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2023112,Le Monde Des Petits Aventuriers inc.,Full-time Centre,"9 Violette Rue, Saint-Quentin",NB,E8A 2B7,60,12,48,0,French,369909,1
+Region 3 - Fredericton,Anglophone West School District,2024134,Little Owls After School Emporium - Keswick,Part-time Centre,"9 Yerxa Lane, Keswick",NB,E6L 1N7,30,0,0,30,English,372748,0
+Region 2 - Saint John,Anglophone South School District,2024146,Creative Minds Daycare,Home,"156 Tower Hill Road, Tower Hill",NB,E5A 2M8,6,2,3,1,English,402387,1
+Region 3 - Fredericton,Anglophone West School District,2024076,Creative Childcare on Main Street,Full-time Centre,"374 Main Street, Fredericton",NB,E3A 1E5,58,6,44,8,English,387206,1
+Region 1 - Moncton,District scolaire francophone Sud,2024048,Académie Powerplay Academy 4,Full-time Centre,"257 des Erables Rue, Dieppe",NB,E1A 9B1,33,12,21,0,French,236791,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024141,Garderie chez É-Anne,Home,"559 ROUTE 370 Route, Pont Lafrance",NB,E1X 1L9,6,2,3,1,French,401052,1
+Region 1 - Moncton,Anglophone East School District,2025008,Little Tykes Learning Center Inc.,Full-time Centre,"120 Lorne Street, Moncton",NB,E1C 0J3,43,0,22,21,English,408170,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024147,Halte des Découvertes,Part-time Centre,"385 avenue Des Pionniers Avenue, Balmoral",NB,E8E 1E2,30,0,0,30,French,261280,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024032,Garderie Chez Alma,Full-time Centre,"161 Isidore-Boucher Boulevard, Saint-Jacques",NB,E7B 1W4,53,3,33,17,French,380620,1
+Region 2 - Saint John,Anglophone South School District,2025002,Wild Roots Early Learning,Home,"44 Robys Road, Quispamsis",NB,E2G 1H4,6,2,3,1,English,404702,1
+Region 3 - Fredericton,Anglophone West School District,2025004,Go-Go Preschool Serenity Lane,Full-time Centre,"150 Woodside Lane, Fredericton",NB,E3C 2R9,52,6,46,0,English,237166,0
+Region 1 - Moncton,District scolaire francophone Sud,2024114,Le jardin du soleil 2024,Full-time Centre,"3894 134 Route, Shediac Bridge",NB,E4R 1T7,57,6,30,17,French,236843,1
+Region 1 - Moncton,District scolaire francophone Sud,2022017,Oli 1,Part-time Centre,"412 Main Street, Shediac",NB,E4P 2G2,30,0,0,30,French,317811,0
+Region 1 - Moncton,Anglophone East School District,2022059,Oli 2,Full-time Centre,"412 Main Street, Shediac",NB,E4P 2G2,57,6,21,30,English,317811,1
+Region 1 - Moncton,District scolaire francophone Sud,2023078,Oli 3,Full-time Centre,"412 Main Street, Shediac",NB,E4P 2G2,59,6,23,30,French,317811,1
+Region 2 - Saint John,Anglophone South School District,2025015,Inspire Early Learning  Centre - Woodward Ave,Part-time Centre,"487 Woodward Avenue, Saint John",NB,E2K 4N1,45,0,0,45,English,288981,0
+Region 3 - Fredericton,Anglophone West School District,2024094,Go-Go Preschool Restigouche,Full-time Centre,"277 Restigouche Road, Oromocto",NB,E2V 2H1,31,6,28,0,English,237166,1
+Region 1 - Moncton,Anglophone South School District,2024069,SCS Early Learning Centre ACC,Full-time Centre,"78 Route 880 Highway, Apohaqui",NB,E5P 3G2,58,12,46,0,English,236663,1
+Region 3 - Fredericton,Anglophone West School District,2024145,Brighter Beginnings Childcare Center LTD,Full-time Centre,"67 Main Street, Linton Corner",NB,E7G 2H3,49,9,25,15,English,402412,1
+Region 1 - Moncton,District scolaire francophone Sud,2025021,Roche Papier Uno,Full-time Centre,"305 St George Street, Moncton",NB,E1C 1W8,30,6,12,12,French,340827,1
+Region 1 - Moncton,District scolaire francophone Sud,2024051,Academie Powerplay Academy Moncton Campus 4,Full-time Centre,"1240 Ryan Street, Moncton",NB,E1G 2V5,38,18,20,0,French,237805,1
+Region 2 - Saint John,Anglophone South School District,2024022,Boulevard Early Learning Centre 2,Full-time Centre,"128-130 Milltown Boulevard, St. Stephen",NB,E3L 1G6,51,12,26,13,English,284206,1
+Region 3 - Fredericton,Anglophone West School District,2025017,Nicholson's Nature and Nurture Centre,Home,"6738 130 Route, Clearview",NB,E7L 1Y4,6,2,3,1,English,395676,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024061,Garderie La p'tite relève,Full-time Centre,"128 Delagarde Rue, Saint-Isidore",NB,E8M 1M6,44,6,38,0,French,384493,1
+Region 4 - Bathurst,Anglophone North School District,2025006,Little Ones,Home,"140 Victoria Avenue, Miramichi",NB,E1M 1X8,6,2,3,1,English,405449,1
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2024126,Garderie communautaire de Caraquet Inc.,Full-time Centre,"2930 Morais Rue, Bas-Caraquet",NB,E1W 6A8,42,6,36,0,French,397882,1
+Region 3 - Fredericton,Anglophone West School District,2025003,Bright Minds Early Learning Centre Ltd. Southside,Full-time Centre,"486 Needham Street, Fredericton",NB,E3B 1P1,51,12,39,0,English,262270,1
+Region 1 - Moncton,Anglophone South School District,2024071,SCS Shine After School Care ACC,Part-time Centre,"78 Route 880 Highway, Apohaqui",NB,E5P 3G2,30,0,0,30,English,236663,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2024037,La garderie du petit nid douillet,Home,"26 Du Moulin Rue, Verret",NB,E3V 4M8,6,1,2,3,French,382341,1
+Region 1 - Moncton,Anglophone North School District,2024148,Little Miracles 2 Daycare,Full-time Centre,"9286 Main Street, Richibucto",NB,E4W 4C7,47,0,38,9,English,402682,0
+Region 1 - Moncton,Anglophone East School District,2025009,Greater Moncton Y.M.C.A. - Infant Care,Full-time Centre,"30 War Veterans Avenue, Moncton",NB,E1C 0B3,12,12,0,0,English,236908,1
+Region 3 - Fredericton,Anglophone West School District,2025033,Inspired Kids NB,Part-time Centre,"913 Smythe Street, Fredericton",NB,E3B 3G8,58,0,0,58,English,413473,0
+Region 4 - Bathurst,Anglophone North School District,2025041,Care-A-Lot Early Learning Center,Full-time Centre,"558 King Avenue, Bathurst",NB,E2A 1P7,41,0,21,20,English,417357,1
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2025029,Halte scolaire Le coin des grands (Rivière-Verte),Part-time Centre,"4 De L'Ecole Rue, Rivière-Verte",NB,E7C 2R4,45,0,0,45,French,237138,0
+Region 2 - Saint John,Anglophone South School District,2024020,Origins at the Park 2,Full-time Centre,"40 Origins Lane, Saint John",NB,E2K 5J4,40,0,40,0,English,387552,1
+Region 2 - Saint John,Anglophone South School District,2024021,Origins at the Park 3,Full-time Centre,"40 Origins Lane, Saint John",NB,E2K 5J4,36,36,0,0,English,387552,1
+Region 2 - Saint John,Anglophone South School District,2025051,Origins at the Park 5,Full-time Centre,"40 Origins Lane, Saint John",NB,E2K 5J4,39,0,39,0,English,387552,1
+Region 1 - Moncton,Anglophone East School District,2025055,BGC Three Rivers Salisbury,Full-time Centre,"2699 Fredericton Road, Salisbury",NB,E4J 2E1,60,0,20,45,English,114739,1
+Region 3 - Fredericton,Anglophone West School District,2025040,Village of McAdam After School Program,Part-time Centre,"29 Rose Street, McAdam",NB,,25,0,0,25,English,340117,0
+Region 4 - Bathurst,District scolaire francophone Nord-Est,2025036,Garderie Les Sentinelles,Full-time Centre,"87 Arran Street, Campbellton",NB,E3N 1L5,23,3,9,11,French,414923,1
+Region 4 - Bathurst,Anglophone West School District,2025010,Wings & Roots Learning,Part-time Centre,"52 Marmen avenue Avenue, Edmundston",NB,E3V 2H2,30,0,0,30,English,406367,0
+Region 2 - Saint John,Anglophone South School District,2025044,Somerset Afterschool Group,Part-time Centre,"50 Newport Crescent, Saint John",NB,E2K 1Y5,15,0,0,15,English,96237,0
+Region 4 - Bathurst,Anglophone North School District,2025026,Kountry Kids ASC in Millerton School,Part-time Centre,"4711 Highway 108 Highway, Derby",NB,E1V 5B1,15,0,0,15,English,237530,0
+Region 2 - Saint John,Anglophone South School District,2024104,YMCA - Fundy Shores - ASP,Part-time Centre,"1095 Route 790 Highway, Dipper Harbour",NB,E5J 1W4,15,0,0,15,English,202715,0
+Region 2 - Saint John,Anglophone South School District,2024144,Daycare by Design Inc.,Full-time Centre,"34 Mount Pleasant Avenue, Saint John",NB,E2J 1S7,60,6,39,15,English,401915,1
+Region 3 - Fredericton,Anglophone West School District,2025062,Sunset Acres Afterschool and Early Learning Programs,Full-time Centre,"129 McAdam Avenue, Fredericton",NB,,39,0,15,24,English,96210,0
+Region 1 - Moncton,District scolaire francophone Sud,2025022,Institut Apprenti-sage 2,Part-time Centre,"40 HENRI DUNANT Street, Moncton",NB,E1E 1E5,21,0,0,21,French,383254,0
+Region 2 - Saint John,Anglophone South School District,2025035,Grand Bay Blossoms Afterschool 2,Part-time Centre,"749 River Valley Drive, Grand Bay-Westfield",NB,E5K 1B6,20,0,20,20,English,236971,0
+Region 4 - Bathurst,Anglophone North School District,2025027,Just Kids Pre School Inc,Part-time Centre,"296 Radio Street, Miramichi",NB,E1V 2W5,25,0,0,25,English,96065,0
+Region 3 - Fredericton,Anglophone West School District,2024103,Creative Childcare in Oromocto,Full-time Centre,"260 Restigouche Road, Oromocto",NB,E2V 2G9,60,6,46,8,English,387206,1
+Region 2 - Saint John,Anglophone South School District,2025045,Kings Valley Early Education Centre III,Part-time Centre,"332 Hampton Road, Quispamsis",NB,E2E 4S9,45,0,0,45,English,236738,0
+Region 3 - Fredericton,Anglophone West School District,2025066,Little Heroes Academy Ltd.,Full-time Centre,"850 Prospect Street, Fredericton",NB,E3B 9M5,56,12,44,0,English,422977,0
+Region 4 - Bathurst,District scolaire francophone Nord-Ouest,2025032,CPE Phare-O-Bulles 3 Inc.,Part-time Centre,"62 Queen Rue, Edmundston",NB,E3V 1A1,13,0,0,13,French,356657,0
+Region 2 - Saint John,Anglophone South School District,2022090,Inspire Early Learning Centre 3,Full-time Centre,"274 Main Street, Hampton",NB,E5N 6B8,48,18,30,0,English,288981,1
+Region 2 - Saint John,Anglophone South School District,2022091,Inspire Early Learning Centre 4,Full-time Centre,"274 Main Street, Hampton",NB,E5N 6B8,52,0,52,0,English,288981,1
+Region 2 - Saint John,Anglophone South School District,2022092,Inspire Early Learning Centre 5,Full-time Centre,"274 Main Street, Hampton",NB,E5N 6B8,60,0,30,30,English,288981,1
+Region 3 - Fredericton,District scolaire francophone Sud,2025018,Les Rayons de La Vallée,Full-time Centre,"250A Quispamsis Road, Quispamsis",NB,E2E 0R7,12,12,0,0,French,236614,1
+Region 1 - Moncton,Anglophone East School District,2025069,Once Upon a Sprout Daycare,Full-time Centre,"110 Snow Avenue, Moncton",NB,E1C 8B2,15,3,12,0,English,427433,1
+Region 1 - Moncton,Anglophone East School District,2025049,Kahila Early Learning Centre Inc.,Part-time Centre,"145 Biddington Avenue, Lakeville",NB,E1H 1C5,24,0,0,24,English,419271,0
+Region 3 - Fredericton,Anglophone West School District,2025038,Creative Childcare in Pepper Creek Afterschool and Preschool,Full-time Centre,"148 Mataya Drive, Richibucto Road",NB,E3A 0A6,36,0,26,10,English,369362,1
+Region 1 - Moncton,Anglophone North School District,2025067,Sunshine Childcare,Home,"19 Court Street, Richibucto",NB,E4W 3Y1,6,2,3,1,English,423082,1
+Region 1 - Moncton,Anglophone South School District,2024143,SCS Little Lights Early Learning Trinity,Full-time Centre,"853 Main Street, Sussex",NB,E4E 2M9,36,6,30,0,English,236663,1

@@ -1,0 +1,164 @@
+{
+    "sources":[
+        {
+            "iso3": "BEL",
+            "institution": "",
+            "sources": [
+                {
+                    "title": "Locations of preschool schools, Flanders Education and Training",
+                    "url": "https://data-onderwijs.vlaanderen.be/onderwijsaanbod/bao/lijst?hs=111+121"
+                },
+                {
+                    "title": "Locations of preschool schools, Wallonia and Brussels",
+                    "url": "https://www.enseignement.be/annuaires"
+                }
+            ],
+            "date downloaded": "2026-09-28"
+        },
+        {
+            "iso3": "CAN",
+            "institution": "Statistics Canada",
+            "sources": [
+                {
+                    "title": "The Open Database of Educational Facilities",
+                    "url": "https://www150.statcan.gc.ca/n1/pub/37-26-0001/372600012022001-eng.htm"
+                }
+            ],
+            "date downloaded": "2026-09-28"
+        },
+        {
+            "iso3": "ESP",
+            "institution": "Ministerio de Educacion y Formacion Profesional",
+            "sources": [
+                {
+                    "title": "Buscador de Centros Docentes No Universitarios",
+                    "url": "https://www.educacion.gob.es/centros/home.do"
+                }
+            ],
+            "date downloaded": "2026-09-28"
+        },
+        {
+            "iso3": "EST",
+            "institution": "Estonian Ministry of Education and Research",
+            "sources": [
+                {
+                    "title": "Ehis - Estonian Education Information System",
+                    "url": "https://www.ehis.ee/"
+                }
+            ]
+        },
+        {
+            "iso3": "FIN",
+            "institution": "Finland's Ministry of Education and Culture (OKM)",
+            "sources": [
+                {
+                    "title": "",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "iso3": "FRA",
+            "institution": "Ministère de l'Éducation nationale",
+            "sources": [
+                {
+                    "title": "Annuaire de l’éducation",
+                    "url": "https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education/table"
+                }
+            ]
+        },
+        {
+            "iso3": "GRC",
+            "institution": "Greek Ministry of Culture, Education and Religious Affairs",
+            "sources": [
+                {
+                    "title": "Schools",
+                    "url": "https://geodata.gov.gr/el/dataset/skholeia"
+                }
+            ]
+        },
+        {
+            "iso3": "IRL",
+            "institution": "The Department of Children, Equality, Disability, Integration and Youth (DCEDIY)",
+            "sources": [
+                {
+                    "title": "",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "iso3": "ITA",
+            "institution": "Ministerio dell'Istruzione e del Merito",
+            "sources": [
+                {
+                    "title": "Scuole pubbliche",
+                    "url": "https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Scuole&datasetId=DS0400SCUANAGRAFESTAT"
+                },
+                {
+                    "title": "Scuole private",
+                    "url": "https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Scuole&datasetId=DS0410SCUANAGRAFEPAR"
+                }
+            ]
+        },
+        {
+            "iso3": "MEX",
+            "institution": "Gobierno de Mexico - SIGED",
+            "sources": [
+                {
+                    "title": "Ubicacion Geografica de Escuelas del Sistema Educativo Nacional",
+                    "url": "https://siged.sep.gob.mx/SIGED/mapas.html"
+                }
+            ],
+            "date downloaded": ""
+        },
+        {
+            "iso3": "NLD",
+            "institution": "Statistics Netherlands (CBS)",
+            "sources": [
+                {
+                    "title": "Sent by CBS",
+                    "url": ""
+                }
+            ]
+        },
+        {
+            "iso3": "NOR",
+            "institution": "Directorate of Education (Utdanningsdirektoratet)",
+            "years": "2022",
+            "sources": [
+                {
+                    "title": "Kindergarten facts (Barnehagefakta)",
+                    "url": "https://barnehagefakta.no/sok"
+                },
+                {
+                    "title": "API Data Kindergarten facts (Barnehagefakta BAF)",
+                    "url": "https://www.udir.no/om-udir/data/barnehagefakta-baf/"
+                }
+            ]
+        },
+        {
+            "iso3": "NZL",
+            "institution": "Ministry of Education",
+            "years": "2022",
+            "sources": [
+                {
+                    "title": "Early Childhood Services Directory",
+                    "url": "https://www.educationcounts.govt.nz/directories/early-childhood-services"
+                }
+            ],
+            "comments": "ISCED 01 and ISCED 02 (without clear distinction)"
+        },
+        {
+            "iso3": "USA",
+            "institution": "Homeland Infrastructure Foundation-Level Data (HIFLD) database",
+            "years": "2023",
+            "sources": [
+                {
+                    "title": "Child Care Centers",
+                    "url": "https://hifld-geoplatform.hub.arcgis.com/datasets/geoplatform::child-care-centers/about"
+                }
+            ]
+        }
+    ]
+}

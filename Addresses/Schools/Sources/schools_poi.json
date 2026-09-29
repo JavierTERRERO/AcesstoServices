@@ -1,0 +1,302 @@
+{
+    "sources": [
+        {
+            "iso3": "AUS",
+            "institution": "Australian Curriculum, Assessment and Reporting Authority",
+            "years": "2023",
+            "update": "28 March 2024",
+            "sources": [
+                {
+                    "title": "Nationally Consistent Collection of Data on School Students with Disability",
+                    "url": "https://www.acara.edu.au/reporting/nationally-consistent-collection-of-data-on-school-students-with-disability"
+                }
+            ],
+            "comments": "Data is available (not yet processed) for all years starting in 2008."
+        },
+        {
+            "iso3": "BEL",
+            "institution": "OPEN DATA Wallonia-Brussels, Vlaams ministerie van onderwijs en vorming",
+            "years": "2023",
+            "update": "5 March 2024",
+            "sources": [
+            {
+                "title": "Signalétique FASE",
+                "url": "https://www.odwb.be/explore/dataset/signaletique-fase/information/"
+            },
+            {
+                "title": "Onderwijsaanbod BAO",
+                "url": "https://data-onderwijs.vlaanderen.be/onderwijsaanbod/bao/lijst?hs=211"
+            },
+            {
+                "title": "Onderwijsaanbod SO",
+                "url": "https://data-onderwijs.vlaanderen.be/onderwijsaanbod/so/structuur/1stegraad"
+            }
+            ]
+        },
+        {
+            "iso3": "CHL",
+            "institution": "Unidad de Estadísticas, Centro de Estudios, Ministerio de Educación",
+            "years": "2023",
+            "update": "15 May 2024",
+            "sources": [
+            {
+                "title": "Directorio de Establecimientos Educacionales",
+                "url": "https://datosabiertos.mineduc.cl/directorio-de-establecimientos-educacionales/"
+            }
+            ],
+            "comments": "'Educacion Basica' covers grades 1-8 (ISCED11_1_2) and 'Educacion Media' (ISCED11_3) 9-12, more details in !39"
+        },
+        {
+            "iso3": "COL",
+            "institution": "Ministerio de Educación, ESRI Colombia",
+            "years": "2023",
+            "update": "11 June 2024",
+            "sources": [
+            {
+                "title": "ESRI Colombia - Educational Establishments",
+                "url": "https://esri-colombia.maps.arcgis.com/home/item.html?id=52fcb282d5114d0fba4f5481ece134b9&view=list&sortOrder=desc&sortField=defaultFSOrder#overview"
+            }
+            ]
+        },
+        {
+            "iso3": "CZE",
+            "institution": "Ministerstvo školství, mládeže a tělovýchovy",
+            "years": "",
+            "update": "",
+            "sources": [
+            {
+                "title": "Czech Education Data",
+                "url": "https://data.gov.cz/dataset?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00022985%2F63989c80e16fc31c77e23ab529c76b52"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "ESP",
+            "institution": "Ministerio de Educacion y Formacion Profesional",
+            "years": "",
+            "update": "",
+            "sources": [
+            {
+                "title": "Directorio de Centros",
+                "url": "https://www.educacion.gob.es/centros/home.do"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "EST",
+            "institution": "Estonian Ministry of Education and Research",
+            "years": "",
+            "update": "",
+            "sources": [
+            {
+                "title": "Ehis - Estonian Education Information System",
+                "url": "https://www.ehis.ee/"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "FIN",
+            "institution": "Tilastokeskuksen",
+            "years": "",
+            "update": "",
+            "sources": [
+            {
+                "title": "Paikkatietohakemisto",
+                "url": "https://www.paikkatietohakemisto.fi/geonetwork/srv/eng/catalog.search#/metadata/6a8b4061-7a48-4667-bbdb-13952726c79f"
+            },
+            {
+                "title": "Oppilaitosrekisteri",
+                "url": "https://tilastokeskus.fi/tup/oppilaitosrekisteri/index_en.html"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "FRA",
+            "institution": "Ministère de l'Éducation nationale et de la Jeunesse",
+            "years": "2024",
+            "update": "8 February 2024",
+            "sources": [
+            {
+                "title": "Annuaire Education",
+                "url": "https://data.education.gouv.fr/explore/dataset/fr-en-annuaire-education"
+            }
+            ]
+        },
+        {
+            "iso3": "GRC",
+            "institution": "Greek Ministry of Culture, Education and Religious Affairs",
+            "years": "",
+            "update": "",
+            "sources": [
+            {
+                "title": "Greek Schools Dataset",
+                "url": "https://geodata.gov.gr/el/dataset/skholeia"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "IRL",
+            "institution": "SchoolDays.ie",
+            "sources": [
+            {
+                "title": "Primary Schools in Ireland by County",
+                "url": "http://www.schooldays.ie/articles/primary-Schools-in-Ireland-by-County"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "ITA",
+            "institution": "Ministerio dell'Istruzione e del Merito",
+            "sources": [
+            {
+                "title": "Public Schools",
+                "url": "https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Scuole&datasetId=DS0400SCUANAGRAFESTAT"
+            },
+            {
+                "title": "Private Schools",
+                "url": "https://dati.istruzione.it/opendata/opendata/catalogo/elements1/leaf/?area=Scuole&datasetId=DS0410SCUANAGRAFEPAR"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "JPN",
+            "institution": "National Land Information Division, Ministry of Land, Infrastructure, Transport and Tourism of Japan",
+            "years": "2013, 2021",
+            "update": "19 March 2024",
+            "sources": [
+            {
+                "title": "KSJ GML P29",
+                "url": "https://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-P29-v2_0.html"
+            }
+            ]
+        },
+        {
+            "iso3": "KOR",
+            "institution": "National Geographic Information Institute (NGII)",
+            "years": "2023",
+            "update": "26 March 2024",
+            "sources": [
+            {
+                "title": "NGII Data",
+                "url": "Data sent via email"
+            }
+            ]
+        },
+        {
+            "iso3": "LTU",
+            "institution": "Geoportal Lithuania",
+            "years": "2022",
+            "update": "15 March 2024",
+            "sources": [
+            {
+                "title": "Educational Establishments",
+                "url": "https://www.geoportal.lt/geoportal/en/web/en/search#queryText=educational%20establishments"
+            }
+            ]
+        },
+        {
+            "iso3": "LVA",
+            "institution": "Latvia Ministry of Education and Science",
+            "years": "2023",
+            "update": "12 April 2024",
+            "sources": [
+            {
+                "title": "Latvia Education Data",
+                "url": "Data sent via email"
+            }
+            ]
+        },
+        {
+            "iso3": "MEX",
+            "institution": "Sistema de Información y Gestión Educativa (SIGED)",
+            "years": "2024",
+            "update": "19 April 2024",
+            "sources": [
+            {
+                "title": "SIGED Mapas",
+                "url": "https://siged.sep.gob.mx/tableros/mapas.html"
+            }
+            ]
+        },
+        {
+            "iso3": "NLD",
+            "institution": "Statistics Netherlands (CBS)",
+            "years": "2022",
+            "update": "12 April 2024",
+            "sources": [
+            {
+                "title": "CBS Education Data",
+                "url": "Data sent via email"
+            }
+            ]
+        },
+        {
+            "iso3": "NOR",
+            "institution": "Directorate of Education (Utdanningsdirektoratet)",
+            "sources": [
+            {
+                "title": "National school register API",
+                "url": "https://data-nsr.udir.no/swagger/index.html"
+            }
+            ],
+            "comments": ""
+        },
+        {
+            "iso3": "NZL",
+            "institution": "New Zealand Ministry of Education",
+            "years": "2024",
+            "update": "11 April 2024",
+            "sources": [
+            {
+                "title": "List of NZ Schools",
+                "url": "https://www.educationcounts.govt.nz/directories/list-of-nz-schools#"
+            }
+            ]
+        },
+        {
+            "iso3": "PRT",
+            "institution": "Instituto Nacional de Estatistica",
+            "sources": [],
+            "comments": ""
+        },
+        {
+            "iso3": "SWE",
+            "institution": "National Agency for Education",
+            "years": "2022",
+            "update": "18 April 2024",
+            "sources": [
+            {
+                "title": "API för Skolenhetsregistret",
+                "url": "https://www.skolverket.se/om-oss/oppna-data/api-for-skolenhetsregistret"
+            },
+            {
+                "title": "Skolstatistik",
+                "url": "https://www.skolverket.se/skolutveckling/statistik/sok-statistik-om-forskola-skola-och-vuxenutbildning?sok=SokC"
+            }
+            ]
+        },
+        {
+            "iso3": "USA",
+            "institution": "National Center for Education Statistics (NCES)",
+            "years": "2023",
+            "update": "22 March 2024",
+            "sources": [
+            {
+                "title": "Public Schools",
+                "url": "https://data-nces.opendata.arcgis.com/datasets/nces::public-school-characteristics-current/about"
+            },
+            {
+                "title": "Private Schools",
+                "url": "https://nces.ed.gov/surveys/pss/pssdata.asp"
+            }
+            ]
+        }
+    ]
+}

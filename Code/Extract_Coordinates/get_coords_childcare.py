@@ -3,12 +3,15 @@ import os
 import geopandas as gpd
 import geocoder
 
-ROOT_FOLDER = r"\\main.oecd.org\ASgenELS\SPATIAL_INEQUALITIES\BACKUP\Access to services\spatial_inequalities_phaseII\indicators"
+#ROOT_FOLDER = r"\\main.oecd.org\ASgenELS\SPATIAL_INEQUALITIES\BACKUP\Access to services\spatial_inequalities_phaseII\indicators"
+
+ROOT_FOLDER = os.path.dirname(os.path.abspath(__file__))
+
 # Clean coordinates data files ------------------------------------------------
 RAW_DATA_FOLDER = os.path.join(ROOT_FOLDER,
-                               r"childcare-location-raw")
+                               r"Addresses/ECEC/Raw")
 COORDS_FOLDER = os.path.join(ROOT_FOLDER,
-                             r"childcare-coordinates")
+                             r"Coordinates/ECEC")
 SHP_FOLDER = os.path.join(ROOT_FOLDER,
                           r"childcare-shapefiles")
 
