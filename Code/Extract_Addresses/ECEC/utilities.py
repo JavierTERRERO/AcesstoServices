@@ -19,6 +19,14 @@ def finalise_and_upload(gdf:gpd.GeoDataFrame,
                    schema='education', 
                    if_exists='replace')
     
+def download_from_db(service: str,
+                     iso3: str) -> gpd.GeoDataFrame:
+    table = f'{iso3.lower()}_{service}'
+    query = f'SELECT * FROM education."{table}"'
+    return gpd.read_postgis(sqlalchemy.text(query),
+                            con=gisdb_connection,
+                            geom_col='geom')
+    
     
 ISCED = {
     'ISCED11_0': 'Early childhood education',

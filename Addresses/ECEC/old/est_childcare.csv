@@ -1,0 +1,697 @@
+id,name,level_en,level_or,isced,isced_detailed,sector,students,lat,lon,ref_date,geom,latest
+FIN1,Kabli Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,21.0,24.449333,58.008805,2023-02-28,POINT (58.008805 24.449333),True
+FIN2,Võru Lasteaed Punamütsike,Early childhood education,-,ISCED11_0,ISCED11_0,public,198.0,27.00788,57.848404,2023-02-28,POINT (57.848404 27.00788),True
+FIN3,Võru Lasteaed Päkapikk,Early childhood education,-,ISCED11_0,ISCED11_0,public,192.0,26.997857,57.844987,2023-02-28,POINT (57.844987 26.997857),True
+FIN4,Võru Lasteaed Okasroosike,Early childhood education,-,ISCED11_0,ISCED11_0,public,95.0,27.002438,57.843102,2023-02-28,POINT (57.843102 27.002438),True
+FIN5,Võru Lasteaed Sõleke,Early childhood education,-,ISCED11_0,ISCED11_0,public,214.0,27.012291,57.838132,2023-02-28,POINT (57.838132 27.012291),True
+FIN6,Järva-Jaani Lasteaed Jaanilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,96.0,25.883585,59.043334,2023-02-28,POINT (59.043334 25.883585),True
+FIN7,Koeru Lasteaed Päikeseratas,Early childhood education,-,ISCED11_0,ISCED11_0,public,132.0,26.018649,58.959189,2023-02-28,POINT (58.959189 26.018649),True
+FIN8,Türi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,349.0,25.40735,58.820655,2023-02-28,POINT (58.820655 25.40735),True
+FIN9,PAIde Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,207.0,25.544449,58.880748,2023-02-28,POINT (58.880748 25.544449),True
+FIN10,Paide Sookure Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,208.0,25.561522,58.892495,2023-02-28,POINT (58.892495 25.561522),True
+FIN11,Roosna-Alliku Lasteaed Hellik,Early childhood education,-,ISCED11_0,ISCED11_0,public,33.0,25.709876,59.027927,2023-02-28,POINT (59.027927 25.709876),True
+FIN12,Viisu Lasteaed Rõõmupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,25.666073,58.946154,2023-02-28,POINT (58.946154 25.666073),True
+FIN13,Väätsa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,64.0,25.448728,58.887919,2023-02-28,POINT (58.887919 25.448728),True
+FIN14,Pärnu Vana-Sauga Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,238.0,24.492645,58.396959,2023-02-28,POINT (58.396959 24.492645),True
+FIN15,Pärnu Kastani Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,214.0,24.528231,58.382055,2023-02-28,POINT (58.382055 24.528231),True
+FIN16,Pärnu Kesklinna Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,121.0,24.503902,58.380397,2023-02-28,POINT (58.380397 24.503902),True
+FIN17,Pärnu Liblika Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,119.0,24.531865,58.389435,2023-02-28,POINT (58.389435 24.531865),True
+FIN18,Pärnu Lasteaed Mai,Early childhood education,-,ISCED11_0,ISCED11_0,public,307.0,24.536893,58.369374,2023-02-28,POINT (58.369374 24.536893),True
+FIN19,Pärnu Lasteaed Pöialpoiss,Early childhood education,-,ISCED11_0,ISCED11_0,public,215.0,24.543772,58.369992,2023-02-28,POINT (58.369992 24.543772),True
+FIN20,Pärnu Tammsaare Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,207.0,24.504445,58.3774,2023-02-28,POINT (58.3774 24.504445),True
+FIN21,Pärnu Lasteaed Trall,Early childhood education,-,ISCED11_0,ISCED11_0,public,320.0,24.503096,58.401975,2023-02-28,POINT (58.401975 24.503096),True
+FIN22,Pärnu Ülejõe Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,212.0,24.492407,58.392144,2023-02-28,POINT (58.392144 24.492407),True
+FIN23,Vasalemma Lasteaed Sajajalgne,Early childhood education,-,ISCED11_0,ISCED11_0,public,36.0,24.277747,59.238507,2023-02-28,POINT (59.238507 24.277747),True
+FIN24,Jõgeva Lasteaed Rohutirts,Early childhood education,-,ISCED11_0,ISCED11_0,public,179.0,26.392854,58.748554,2023-02-28,POINT (58.748554 26.392854),True
+FIN25,Jõgeva Lasteaed Karikakar,Early childhood education,-,ISCED11_0,ISCED11_0,public,157.0,26.373872,58.742626,2023-02-28,POINT (58.742626 26.373872),True
+FIN26,Palamuse Lasteaed Nukitsamees,Early childhood education,-,ISCED11_0,ISCED11_0,public,102.0,26.57748,58.682305,2023-02-28,POINT (58.682305 26.57748),True
+FIN27,Tabivere Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,95.0,26.599654,58.550085,2023-02-28,POINT (58.550085 26.599654),True
+FIN28,Mustvee Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,76.0,26.947941,58.849743,2023-02-28,POINT (58.849743 26.947941),True
+FIN29,Keila Lasteaed Miki,Early childhood education,-,ISCED11_0,ISCED11_0,public,179.0,24.415995,59.308268,2023-02-28,POINT (59.308268 24.415995),True
+FIN30,Saue Lasteaed Midrimaa,Early childhood education,-,ISCED11_0,ISCED11_0,public,400.0,24.56368,59.327511,2023-02-28,POINT (59.327511 24.56368),True
+FIN31,Tabasalu Lasteaed Tibutare,Early childhood education,-,ISCED11_0,ISCED11_0,public,155.0,24.54022,59.428332,2023-02-28,POINT (59.428332 24.54022),True
+FIN32,Kuusalu Lasteaed Jussike,Early childhood education,-,ISCED11_0,ISCED11_0,public,156.0,25.426188,59.443502,2023-02-28,POINT (59.443502 25.426188),True
+FIN33,Riisipere Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,91.0,24.315303,59.106498,2023-02-28,POINT (59.106498 24.315303),True
+FIN34,Lasteaed Tõruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,109.0,24.902956,59.35439,2023-02-28,POINT (59.35439 24.902956),True
+FIN35,Lasteaed Neeme Mudila,Early childhood education,-,ISCED11_0,ISCED11_0,public,49.0,25.163505,59.528751,2023-02-28,POINT (59.528751 25.163505),True
+FIN36,Eralasteaed Rukkilille lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,205.0,24.400812,59.310623,2023-02-28,POINT (59.310623 24.400812),True
+FIN37,Aegviidu Mesitaru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,47.0,25.618031,59.286355,2023-02-28,POINT (59.286355 25.618031),True
+FIN38,Padise Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,81.0,24.144964,59.224055,2023-02-28,POINT (59.224055 24.144964),True
+FIN39,Haljala Lasteaed Pesapuu,Early childhood education,-,ISCED11_0,ISCED11_0,public,125.0,26.269657,59.432656,2023-02-28,POINT (59.432656 26.269657),True
+FIN40,Kadrina Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,212.0,26.135443,59.340841,2023-02-28,POINT (59.340841 26.135443),True
+FIN41,Viru-Nigula valla lasteaed Kelluke,Early childhood education,-,ISCED11_0,ISCED11_0,public,250.0,26.50489,59.504896,2023-02-28,POINT (59.504896 26.50489),True
+FIN42,Rakke Lasteaed Leevike,Early childhood education,-,ISCED11_0,ISCED11_0,public,66.0,26.233646,58.993397,2023-02-28,POINT (58.993397 26.233646),True
+FIN43,Rakvere Triinu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,203.0,26.370503,59.343965,2023-02-28,POINT (59.343965 26.370503),True
+FIN44,Eralasteaed Kaur,Early childhood education,-,ISCED11_0,ISCED11_0,private,204.0,26.363339,59.350179,2023-02-28,POINT (59.350179 26.363339),True
+FIN45,Rakvere Kungla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,209.0,26.367699,59.342951,2023-02-28,POINT (59.342951 26.367699),True
+FIN46,Eralasteaed Tiki-Triki,Early childhood education,-,ISCED11_0,ISCED11_0,private,64.0,26.346768,59.322171,2023-02-28,POINT (59.322171 26.346768),True
+FIN47,Sõmeru Lasteaed Pääsusilm,Early childhood education,-,ISCED11_0,ISCED11_0,public,176.0,26.434841,59.361301,2023-02-28,POINT (59.361301 26.434841),True
+FIN48,Tamsalu Lasteaed Krõll,Early childhood education,-,ISCED11_0,ISCED11_0,public,166.0,26.107584,59.167025,2023-02-28,POINT (59.167025 26.107584),True
+FIN49,Tapa Lasteaed Pisipõnn,Early childhood education,-,ISCED11_0,ISCED11_0,public,231.0,25.966685,59.261623,2023-02-28,POINT (59.261623 25.966685),True
+FIN50,Tapa Lasteaed Vikerkaar,Early childhood education,-,ISCED11_0,ISCED11_0,public,83.0,25.964339,59.267073,2023-02-28,POINT (59.267073 25.964339),True
+FIN51,Vinni Lasteaed Tõruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,111.0,26.430279,59.292553,2023-02-28,POINT (59.292553 26.430279),True
+FIN52,Pajusti Lasteaed Tõrutõnn,Early childhood education,-,ISCED11_0,ISCED11_0,public,97.0,26.413504,59.284517,2023-02-28,POINT (59.284517 26.413504),True
+FIN53,Kulina Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,40.0,26.557296,59.208845,2023-02-28,POINT (59.208845 26.557296),True
+FIN54,Väike-Maarja Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,188.0,26.254948,59.126063,2023-02-28,POINT (59.126063 26.254948),True
+FIN55,Kullamaa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,29.0,24.079679,58.879119,2023-02-28,POINT (58.879119 24.079679),True
+FIN56,Haapsalu Vanalinna Lasteaiad,Early childhood education,-,ISCED11_0,ISCED11_0,public,210.0,23.536361,58.943845,2023-02-28,POINT (58.943845 23.536361),True
+FIN57,Haapsalu Lasteaed Pääsupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,115.0,23.543769,58.943006,2023-02-28,POINT (58.943006 23.543769),True
+FIN58,Haapsalu Lasteaed Tareke,Early childhood education,-,ISCED11_0,ISCED11_0,public,109.0,23.545871,58.943516,2023-02-28,POINT (58.943516 23.545871),True
+FIN59,Haapsalu Lasteaed Vikerkaar,Early childhood education,-,ISCED11_0,ISCED11_0,public,114.0,23.543317,58.936047,2023-02-28,POINT (58.936047 23.543317),True
+FIN60,Lihula Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,84.0,23.838461,58.690365,2023-02-28,POINT (58.690365 23.838461),True
+FIN61,Linnamäe Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,84.0,23.718378,58.994208,2023-02-28,POINT (58.994208 23.718378),True
+FIN62,Martna Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,29.0,23.803213,58.856504,2023-02-28,POINT (58.856504 23.803213),True
+FIN63,Palivere Lasteaed Piibeleht,Early childhood education,-,ISCED11_0,ISCED11_0,public,41.0,23.892839,58.96536,2023-02-28,POINT (58.96536 23.892839),True
+FIN64,Risti Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,49.0,24.059503,58.998318,2023-02-28,POINT (58.998318 24.059503),True
+FIN65,Taebla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,89.0,23.744588,58.953686,2023-02-28,POINT (58.953686 23.744588),True
+FIN66,Juuru Lasteaed Sinilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,64.0,24.965122,59.056632,2023-02-28,POINT (59.056632 24.965122),True
+FIN67,Järvakandi Lasteaed Pesamuna,Early childhood education,-,ISCED11_0,ISCED11_0,public,60.0,24.815142,58.775307,2023-02-28,POINT (58.775307 24.815142),True
+FIN68,Valtu Lasteaed Pesapuu,Early childhood education,-,ISCED11_0,ISCED11_0,public,59.0,24.837886,58.964539,2023-02-28,POINT (58.964539 24.837886),True
+FIN69,Kehtna Lasteaed Siller,Early childhood education,-,ISCED11_0,ISCED11_0,public,158.0,24.873165,58.925622,2023-02-28,POINT (58.925622 24.873165),True
+FIN70,Kohila Lasteaed Männi,Early childhood education,-,ISCED11_0,ISCED11_0,public,161.0,24.749441,59.16969,2023-02-28,POINT (59.16969 24.749441),True
+FIN71,Märjamaa Lasteaed Pillerpall,Early childhood education,-,ISCED11_0,ISCED11_0,public,104.0,24.431955,58.9008,2023-02-28,POINT (58.9008 24.431955),True
+FIN72,Prillimäe Lasteaed Põnnipere,Early childhood education,-,ISCED11_0,ISCED11_0,public,34.0,24.799129,59.177992,2023-02-28,POINT (59.177992 24.799129),True
+FIN73,Rapla Lasteaed Kelluke,Early childhood education,-,ISCED11_0,ISCED11_0,public,99.0,24.79102,59.003113,2023-02-28,POINT (59.003113 24.79102),True
+FIN74,Rapla Lasteaed Naksitrallid,Early childhood education,-,ISCED11_0,ISCED11_0,public,123.0,24.818324,58.993876,2023-02-28,POINT (58.993876 24.818324),True
+FIN75,Rapla Lasteaed Päkapikk,Early childhood education,-,ISCED11_0,ISCED11_0,public,167.0,24.794466,58.997266,2023-02-28,POINT (58.997266 24.794466),True
+FIN76,Sutlema-Aespa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,109.0,24.653576,59.171916,2023-02-28,POINT (59.171916 24.653576),True
+FIN77,Vana-Vigala Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,24.252276,58.780311,2023-02-28,POINT (58.780311 24.252276),True
+FIN78,Aserbaidžaani Lasteaed Fidan,Early childhood education,-,ISCED11_0,ISCED11_0,private,11.0,24.846042,59.438615,2023-02-28,POINT (59.438615 24.846042),True
+FIN79,Eralasteaed Naba,Early childhood education,-,ISCED11_0,ISCED11_0,private,82.0,24.8424119,59.4697964,2023-02-28,POINT (59.4697964 24.8424119),True
+FIN80,Laste Mängu- ja Arenduskeskus Sajajalgne,Early childhood education,-,ISCED11_0,ISCED11_0,private,58.0,24.730778,59.428247,2023-02-28,POINT (59.428247 24.730778),True
+FIN81,Eralasteaed Midrimaailm,Early childhood education,-,ISCED11_0,ISCED11_0,private,41.0,24.674804,59.373362,2023-02-28,POINT (59.373362 24.674804),True
+FIN82,Meelespea Waldorflasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,38.0,24.795119,59.433159,2023-02-28,POINT (59.433159 24.795119),True
+FIN83,Minilasteaed Lõvimeri,Early childhood education,-,ISCED11_0,ISCED11_0,private,48.0,24.575758,59.441889,2023-02-28,POINT (59.441889 24.575758),True
+FIN84,Edu Valem Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,156.0,24.796102,59.433486,2023-02-28,POINT (59.433486 24.796102),True
+FIN85,Rahvusvaheline Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,25.0,24.729491,59.4249,2023-02-28,POINT (59.4249 24.729491),True
+FIN86,Lasteaed VURR,Early childhood education,-,ISCED11_0,ISCED11_0,private,32.0,24.746716,59.432231,2023-02-28,POINT (59.432231 24.746716),True
+FIN87,Ma Ray Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,30.0,24.846042,59.438615,2023-02-28,POINT (59.438615 24.846042),True
+FIN88,Kadrioru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,49.0,24.781492,59.437419,2023-02-28,POINT (59.437419 24.781492),True
+FIN89,Kalamaja Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,96.0,24.739704,59.446288,2023-02-28,POINT (59.446288 24.739704),True
+FIN90,Kolde Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,113.0,24.713804,59.440498,2023-02-28,POINT (59.440498 24.713804),True
+FIN91,Kopli Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,117.0,24.679054,59.457066,2023-02-28,POINT (59.457066 24.679054),True
+FIN92,Tallinna Lasteaed Kajakas,Early childhood education,-,ISCED11_0,ISCED11_0,public,106.0,24.688561,59.447743,2023-02-28,POINT (59.447743 24.688561),True
+FIN93,Tallinna Lasteaed Kelluke,Early childhood education,-,ISCED11_0,ISCED11_0,public,212.0,24.735765,59.447667,2023-02-28,POINT (59.447667 24.735765),True
+FIN94,Tallinna Lasteaed Maasikas,Early childhood education,-,ISCED11_0,ISCED11_0,public,68.0,24.67786,59.4543315,2023-02-28,POINT (59.4543315 24.67786),True
+FIN95,Tallinna Lasteaed Mesipuu,Early childhood education,-,ISCED11_0,ISCED11_0,public,117.0,24.690313,59.452933,2023-02-28,POINT (59.452933 24.690313),True
+FIN96,Tallinna Lasteaed Mudila,Early childhood education,-,ISCED11_0,ISCED11_0,public,135.0,24.739439,59.444807,2023-02-28,POINT (59.444807 24.739439),True
+FIN97,Tallinna Lasteaed Naeratus,Early childhood education,-,ISCED11_0,ISCED11_0,public,90.0,24.696367,59.45185,2023-02-28,POINT (59.45185 24.696367),True
+FIN98,Tallinna Lasteaed Ojake,Early childhood education,-,ISCED11_0,ISCED11_0,public,184.0,24.710288,59.434832,2023-02-28,POINT (59.434832 24.710288),True
+FIN99,Tallinna Lasteaed Päikene,Early childhood education,-,ISCED11_0,ISCED11_0,public,249.0,24.70162,59.44196,2023-02-28,POINT (59.44196 24.70162),True
+FIN100,Tallinna Lasteaed Pääsupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,194.0,24.692438,59.442845,2023-02-28,POINT (59.442845 24.692438),True
+FIN101,Tallinna Lasteaed Rukkirääk,Early childhood education,-,ISCED11_0,ISCED11_0,public,82.0,24.708964,59.444596,2023-02-28,POINT (59.444596 24.708964),True
+FIN102,Tallinna Lastesõim Planeedi Mudila,Early childhood education,-,ISCED11_0,ISCED11_0,public,73.0,24.741207,59.422971,2023-02-28,POINT (59.422971 24.741207),True
+FIN103,Tallinna Lastesõim Päkapikk,Early childhood education,-,ISCED11_0,ISCED11_0,public,64.0,24.694662,59.452586,2023-02-28,POINT (59.452586 24.694662),True
+FIN104,Merivälja Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,154.0,24.84729,59.490649,2023-02-28,POINT (59.490649 24.84729),True
+FIN105,Pelguranna Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,119.0,24.688622,59.445416,2023-02-28,POINT (59.445416 24.688622),True
+FIN106,Pirita Kose Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,184.0,24.847244,59.458139,2023-02-28,POINT (59.458139 24.847244),True
+FIN107,Pirita Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,131.0,24.840842,59.471646,2023-02-28,POINT (59.471646 24.840842),True
+FIN108,Tallinna Rõõmutarekese Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,165.0,24.736745,59.428198,2023-02-28,POINT (59.428198 24.736745),True
+FIN109,Sitsi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,210.0,24.696059,59.446407,2023-02-28,POINT (59.446407 24.696059),True
+FIN110,Taime Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,87.0,24.70952,59.442824,2023-02-28,POINT (59.442824 24.70952),True
+FIN111,Tallinna Kiisa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,170.0,24.740373,59.413266,2023-02-28,POINT (59.413266 24.740373),True
+FIN112,Tallinna Jaan Poska Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,116.0,24.773462,59.432812,2023-02-28,POINT (59.432812 24.773462),True
+FIN113,Tallinna Allika Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,217.0,24.698798,59.400241,2023-02-28,POINT (59.400241 24.698798),True
+FIN114,Tallinna Arbu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,260.0,24.843428,59.442947,2023-02-28,POINT (59.442947 24.843428),True
+FIN115,Tallinna Asunduse Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,140.0,24.790361,59.430067,2023-02-28,POINT (59.430067 24.790361),True
+FIN116,Tallinna Endla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,83.0,24.733394,59.428667,2023-02-28,POINT (59.428667 24.733394),True
+FIN117,Tallinna Haraka Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,93.0,24.726847,59.409219,2023-02-28,POINT (59.409219 24.726847),True
+FIN118,Tallinna Järveotsa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,225.0,24.636413,59.409601,2023-02-28,POINT (59.409601 24.636413),True
+FIN119,Tallinna Kadaka Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,239.0,24.659124,59.403835,2023-02-28,POINT (59.403835 24.659124),True
+FIN120,Tallinna Kiisupere Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,139.0,24.758478,59.435774,2023-02-28,POINT (59.435774 24.758478),True
+FIN121,Tallinna Kivila Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,171.0,24.872767,59.44671,2023-02-28,POINT (59.44671 24.872767),True
+FIN122,Tallinna Kivimurru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,92.0,24.791152,59.427092,2023-02-28,POINT (59.427092 24.791152),True
+FIN123,Tallinna Komeedi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,95.0,24.732693,59.427016,2023-02-28,POINT (59.427016 24.732693),True
+FIN124,Tallinna Kullatera Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,202.0,24.736844,59.414681,2023-02-28,POINT (59.414681 24.736844),True
+FIN125,Tallinna Kullerkupu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,95.0,24.714771,59.429811,2023-02-28,POINT (59.429811 24.714771),True
+FIN126,Tallinna Kuristiku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,240.0,24.88047,59.452543,2023-02-28,POINT (59.452543 24.88047),True
+FIN127,Tallinna Kannikese Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,51.0,24.716598,59.428318,2023-02-28,POINT (59.428318 24.716598),True
+FIN128,Tallinna Lasteaed Õunake,Early childhood education,-,ISCED11_0,ISCED11_0,public,40.0,24.667999,59.399377,2023-02-28,POINT (59.399377 24.667999),True
+FIN129,Tallinna Lasteaed Delfiin,Early childhood education,-,ISCED11_0,ISCED11_0,public,228.0,24.694305,59.399455,2023-02-28,POINT (59.399455 24.694305),True
+FIN130,Tallinna Lasteaed Karikakar,Early childhood education,-,ISCED11_0,ISCED11_0,public,211.0,24.650125,59.416403,2023-02-28,POINT (59.416403 24.650125),True
+FIN131,Tallinna Lasteaed Kaseke,Early childhood education,-,ISCED11_0,ISCED11_0,public,164.0,24.619206,59.354983,2023-02-28,POINT (59.354983 24.619206),True
+FIN132,Tallinna Lasteaed Kiikhobu,Early childhood education,-,ISCED11_0,ISCED11_0,public,195.0,24.689221,59.405521,2023-02-28,POINT (59.405521 24.689221),True
+FIN133,Tallinna Lasteaed Kikas,Early childhood education,-,ISCED11_0,ISCED11_0,public,145.0,24.687573,59.401045,2023-02-28,POINT (59.401045 24.687573),True
+FIN134,Tallinna Lasteaed Kraavikrõll,Early childhood education,-,ISCED11_0,ISCED11_0,public,224.0,24.71414,59.37491,2023-02-28,POINT (59.37491 24.71414),True
+FIN135,Tallinna Lasteaed Laagna Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,183.0,24.844717,59.438163,2023-02-28,POINT (59.438163 24.844717),True
+FIN136,Tallinna Lasteaed Mooniõied,Early childhood education,-,ISCED11_0,ISCED11_0,public,222.0,24.697083,59.410543,2023-02-28,POINT (59.410543 24.697083),True
+FIN137,Tallinna Lasteaed Männimudila,Early childhood education,-,ISCED11_0,ISCED11_0,public,90.0,24.64739,59.36964,2023-02-28,POINT (59.36964 24.64739),True
+FIN138,Tallinna Lasteaed Nõmmekannike,Early childhood education,-,ISCED11_0,ISCED11_0,public,160.0,24.670063,59.373692,2023-02-28,POINT (59.373692 24.670063),True
+FIN139,Tallinna Lasteaed Pallipõnn,Early childhood education,-,ISCED11_0,ISCED11_0,public,203.0,24.663531,59.400887,2023-02-28,POINT (59.400887 24.663531),True
+FIN140,Tallinna Lasteaed Pääsusilm,Early childhood education,-,ISCED11_0,ISCED11_0,public,265.0,24.646366,59.408338,2023-02-28,POINT (59.408338 24.646366),True
+FIN141,Tallinna Lasteaed Rabarüblik,Early childhood education,-,ISCED11_0,ISCED11_0,public,136.0,24.640659,59.366777,2023-02-28,POINT (59.366777 24.640659),True
+FIN142,Tallinna Lasteaed Sinilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,277.0,24.644401,59.40875,2023-02-28,POINT (59.40875 24.644401),True
+FIN143,Tallinna Lasteaed Sinilind,Early childhood education,-,ISCED11_0,ISCED11_0,public,227.0,24.680748,59.40823,2023-02-28,POINT (59.40823 24.680748),True
+FIN144,Tallinna Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,133.0,24.745905,59.429016,2023-02-28,POINT (59.429016 24.745905),True
+FIN145,Tallinna Lasteaed Südameke,Early childhood education,-,ISCED11_0,ISCED11_0,public,183.0,24.741966,59.41576,2023-02-28,POINT (59.41576 24.741966),True
+FIN146,Tallinna Lasteaed Vesiroos,Early childhood education,-,ISCED11_0,ISCED11_0,public,194.0,24.695368,59.398671,2023-02-28,POINT (59.398671 24.695368),True
+FIN147,Tallinna Lasteaed Vikerkaar,Early childhood education,-,ISCED11_0,ISCED11_0,public,233.0,24.644174,59.416115,2023-02-28,POINT (59.416115 24.644174),True
+FIN148,Tallinna Lastesõim Hellik,Early childhood education,-,ISCED11_0,ISCED11_0,public,36.0,24.70798,59.384572,2023-02-28,POINT (59.384572 24.70798),True
+FIN149,Tallinna Lastesõim Mõmmik,Early childhood education,-,ISCED11_0,ISCED11_0,public,36.0,24.680836,59.380929,2023-02-28,POINT (59.380929 24.680836),True
+FIN150,Tallinna Lauliku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,165.0,24.651591,59.379709,2023-02-28,POINT (59.379709 24.651591),True
+FIN151,Tallinna Lehola Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,189.0,24.682299,59.402437,2023-02-28,POINT (59.402437 24.682299),True
+FIN152,Tallinna Lepatriinu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,248.0,24.704202,59.422796,2023-02-28,POINT (59.422796 24.704202),True
+FIN153,Tallinna Liikuri Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,235.0,24.818528,59.440838,2023-02-28,POINT (59.440838 24.818528),True
+FIN154,Tallinna Liivaku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,206.0,24.684397,59.39658,2023-02-28,POINT (59.39658 24.684397),True
+FIN155,Tallinna Liivalossi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,158.0,24.754503,59.428712,2023-02-28,POINT (59.428712 24.754503),True
+FIN156,Tallinna Liivamäe Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,186.0,24.767542,59.427983,2023-02-28,POINT (59.427983 24.767542),True
+FIN157,Tallinna Lille Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,86.0,24.710129,59.4272,2023-02-28,POINT (59.4272 24.710129),True
+FIN158,Tallinna Lindakivi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,225.0,24.82939,59.442048,2023-02-28,POINT (59.442048 24.82939),True
+FIN159,Tallinna Linnamäe Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,246.0,24.868246,59.448924,2023-02-28,POINT (59.448924 24.868246),True
+FIN160,Tallinna Linnupesa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,248.0,24.727068,59.418229,2023-02-28,POINT (59.418229 24.727068),True
+FIN161,Tallinna Loitsu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,215.0,24.841704,59.442598,2023-02-28,POINT (59.442598 24.841704),True
+FIN162,Tallinna Luha Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,138.0,24.73852,59.424531,2023-02-28,POINT (59.424531 24.73852),True
+FIN163,Tallinna Läänemere Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,227.0,24.882182,59.452432,2023-02-28,POINT (59.452432 24.882182),True
+FIN164,Tallinna Mahtra Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,194.0,24.876485,59.440266,2023-02-28,POINT (59.440266 24.876485),True
+FIN165,Tallinna Mardi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,169.0,24.763779,59.430461,2023-02-28,POINT (59.430461 24.763779),True
+FIN166,Tallinna Meelespea Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,261.0,24.644001,59.415232,2023-02-28,POINT (59.415232 24.644001),True
+FIN167,Tallinna Mesimummu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,91.0,24.772609,59.431292,2023-02-28,POINT (59.431292 24.772609),True
+FIN168,Tallinna Muhu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,202.0,24.870209,59.449337,2023-02-28,POINT (59.449337 24.870209),True
+FIN169,Tallinna Muinasjutu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,83.0,24.714032,59.396922,2023-02-28,POINT (59.396922 24.714032),True
+FIN170,Tallinna Mustakivi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,243.0,24.871083,59.446366,2023-02-28,POINT (59.446366 24.871083),True
+FIN171,Tallinna Mutionu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,79.0,24.703716,59.425996,2023-02-28,POINT (59.425996 24.703716),True
+FIN172,Tallinna Männi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,229.0,24.675318,59.403593,2023-02-28,POINT (59.403593 24.675318),True
+FIN173,Tallinna Männiku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,165.0,24.714974,59.376687,2023-02-28,POINT (59.376687 24.714974),True
+FIN174,Tallinna Männikäbi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,196.0,24.662822,59.405907,2023-02-28,POINT (59.405907 24.662822),True
+FIN175,Tallinna Mürakaru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,118.0,24.763019,59.436602,2023-02-28,POINT (59.436602 24.763019),True
+FIN176,Tallinna Nurmenuku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,177.0,24.65002,59.414618,2023-02-28,POINT (59.414618 24.65002),True
+FIN177,Tallinna Pae Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,83.0,24.815729,59.433975,2023-02-28,POINT (59.433975 24.815729),True
+FIN178,Tallinna Paekaare Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,246.0,24.818196,59.43699,2023-02-28,POINT (59.43699 24.818196),True
+FIN179,Tallinna Pallasti Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,148.0,24.794829,59.432935,2023-02-28,POINT (59.432935 24.794829),True
+FIN180,Tallinna Priisle Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,137.0,24.88916,59.447978,2023-02-28,POINT (59.447978 24.88916),True
+FIN181,Tallinna Päevalille Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,90.0,24.771859,59.437617,2023-02-28,POINT (59.437617 24.771859),True
+FIN182,Tallinna Päikesejänku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,156.0,24.751244,59.425386,2023-02-28,POINT (59.425386 24.751244),True
+FIN183,Tallinna Raadiku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,209.0,24.875783,59.441136,2023-02-28,POINT (59.441136 24.875783),True
+FIN184,Tallinna Raku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,84.0,24.742473,59.375478,2023-02-28,POINT (59.375478 24.742473),True
+FIN185,Tallinna Rukkilille Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,244.0,24.643808,59.414447,2023-02-28,POINT (59.414447 24.643808),True
+FIN186,Tallinna Rõõmupesa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,131.0,24.672722,59.408272,2023-02-28,POINT (59.408272 24.672722),True
+FIN187,Tallinna Seli Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,239.0,24.887447,59.447626,2023-02-28,POINT (59.447626 24.887447),True
+FIN188,Tallinna Sikupilli Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,134.0,24.784937,59.428922,2023-02-28,POINT (59.428922 24.784937),True
+FIN189,Tallinna Suitsupääsupesa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,124.0,24.749297,59.411753,2023-02-28,POINT (59.411753 24.749297),True
+FIN190,Tallinna Suur-Pae Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,270.0,24.822266,59.434466,2023-02-28,POINT (59.434466 24.822266),True
+FIN191,Tallinna Sõbrakese Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,212.0,24.698969,59.410514,2023-02-28,POINT (59.410514 24.698969),True
+FIN192,Tallinna Tihase Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,85.0,24.724131,59.420711,2023-02-28,POINT (59.420711 24.724131),True
+FIN193,Tallinna Tähekese Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,217.0,24.671933,59.40258,2023-02-28,POINT (59.40258 24.671933),True
+FIN194,Tallinna Unistuse Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,131.0,24.769209,59.429467,2023-02-28,POINT (59.429467 24.769209),True
+FIN195,Tallinna Vindi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,144.0,24.726664,59.419736,2023-02-28,POINT (59.419736 24.726664),True
+FIN196,Tallinna Virmalise Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,83.0,24.738371,59.423433,2023-02-28,POINT (59.423433 24.738371),True
+FIN197,Tallinna Vormsi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,234.0,24.86695,59.452721,2023-02-28,POINT (59.452721 24.86695),True
+FIN198,Tallinna Ülemiste Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,80.0,24.802399,59.425051,2023-02-28,POINT (59.425051 24.802399),True
+FIN199,Tallinna Ümera Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,248.0,24.891966,59.442621,2023-02-28,POINT (59.442621 24.891966),True
+FIN200,Tallinna Kelmiküla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,100.0,24.726708,59.435337,2023-02-28,POINT (59.435337 24.726708),True
+FIN201,Tallinna Magdaleena Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,58.0,24.734448,59.415668,2023-02-28,POINT (59.415668 24.734448),True
+FIN202,Tallinna Lasteaed Kirsike,Early childhood education,-,ISCED11_0,ISCED11_0,public,257.0,24.827505,59.434758,2023-02-28,POINT (59.434758 24.827505),True
+FIN203,Paldiski Lasteaed Naerulind,Early childhood education,-,ISCED11_0,ISCED11_0,public,94.0,24.058003,59.351293,2023-02-28,POINT (59.351293 24.058003),True
+FIN204,Paldiski lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,90.0,24.0544,59.355413,2023-02-28,POINT (59.355413 24.0544),True
+FIN205,Aruküla Lasteaed Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,244.0,25.078597,59.364586,2023-02-28,POINT (59.364586 25.078597),True
+FIN206,Kanepi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,73.0,26.756669,57.987842,2023-02-28,POINT (57.987842 26.756669),True
+FIN207,Krootuse Lasteaed Pesapuu,Early childhood education,-,ISCED11_0,ISCED11_0,public,30.0,26.842606,58.072485,2023-02-28,POINT (58.072485 26.842606),True
+FIN208,Tilsi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,35.0,27.000419,57.970389,2023-02-28,POINT (57.970389 27.000419),True
+FIN209,Mooste Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,53.0,27.190454,58.158794,2023-02-28,POINT (58.158794 27.190454),True
+FIN210,Põlva Lasteaed Lepatriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,129.0,27.050462,58.050724,2023-02-28,POINT (58.050724 27.050462),True
+FIN211,Põlva Lasteaed Mesimumm,Early childhood education,-,ISCED11_0,ISCED11_0,public,110.0,27.072198,58.059667,2023-02-28,POINT (58.059667 27.072198),True
+FIN212,Räpina Lasteaed Vikerkaar,Early childhood education,-,ISCED11_0,ISCED11_0,public,180.0,27.469633,58.093607,2023-02-28,POINT (58.093607 27.469633),True
+FIN213,Saverna Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,59.0,26.737714,58.070924,2023-02-28,POINT (58.070924 26.737714),True
+FIN214,Põlva valla Lasteaed Sinilind,Early childhood education,-,ISCED11_0,ISCED11_0,public,98.0,26.932667,58.164379,2023-02-28,POINT (58.164379 26.932667),True
+FIN215,Veriora Lasteaed Õnneseen,Early childhood education,-,ISCED11_0,ISCED11_0,public,41.0,27.329892,57.993686,2023-02-28,POINT (57.993686 27.329892),True
+FIN216,Värska Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,65.0,27.636551,57.958139,2023-02-28,POINT (57.958139 27.636551),True
+FIN217,Emmaste Lasteaed Naksitrallid,Early childhood education,-,ISCED11_0,ISCED11_0,public,32.0,22.599982,58.705179,2023-02-28,POINT (58.705179 22.599982),True
+FIN218,Kärdla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,115.0,22.74746,59.001044,2023-02-28,POINT (59.001044 22.74746),True
+FIN219,Palade Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,35.0,22.834065,58.957596,2023-02-28,POINT (58.957596 22.834065),True
+FIN220,Käina Lasteaed Tirtspõnni,Early childhood education,-,ISCED11_0,ISCED11_0,public,71.0,22.782251,58.830301,2023-02-28,POINT (58.830301 22.782251),True
+FIN221,Avinurme Lasteaed Naerulind,Early childhood education,-,ISCED11_0,ISCED11_0,public,45.0,26.869862,58.984343,2023-02-28,POINT (58.984343 26.869862),True
+FIN222,Iisaku Lasteaed Kurekell,Early childhood education,-,ISCED11_0,ISCED11_0,public,61.0,27.312001,59.097194,2023-02-28,POINT (59.097194 27.312001),True
+FIN223,Kiviõli linna lasteaed Kannike,Early childhood education,-,ISCED11_0,ISCED11_0,public,178.0,26.97658,59.361902,2023-02-28,POINT (59.361902 26.97658),True
+FIN224,Mäetaguse Lasteaed Tõruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,74.0,27.298628,59.223394,2023-02-28,POINT (59.223394 27.298628),True
+FIN225,Narva-Jõesuu Lasteaed Karikakar,Early childhood education,-,ISCED11_0,ISCED11_0,public,55.0,28.046714,59.456411,2023-02-28,POINT (59.456411 28.046714),True
+FIN226,Püssi Marjakese Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,52.0,27.035418,59.361094,2023-02-28,POINT (59.361094 27.035418),True
+FIN227,Sillamäe Lasteaed Jaaniussike,Early childhood education,-,ISCED11_0,ISCED11_0,public,120.0,27.779934,59.393461,2023-02-28,POINT (59.393461 27.779934),True
+FIN228,Sillamäe Lasteaed Päikseke,Early childhood education,-,ISCED11_0,ISCED11_0,public,156.0,27.786069,59.39314,2023-02-28,POINT (59.39314 27.786069),True
+FIN229,Sillamäe Lasteaed Pääsupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,50.0,27.766619,59.393314,2023-02-28,POINT (59.393314 27.766619),True
+FIN230,Sillamäe Lasteaed Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,124.0,27.758153,59.395908,2023-02-28,POINT (59.395908 27.758153),True
+FIN231,Voka Lasteaed Naksitrallid,Early childhood education,-,ISCED11_0,ISCED11_0,public,60.0,27.584828,59.405755,2023-02-28,POINT (59.405755 27.584828),True
+FIN232,Vaivara Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,50.0,28.133215,59.39243,2023-02-28,POINT (59.39243 28.133215),True
+FIN233,Toila Lasteaed Naerumeri,Early childhood education,-,ISCED11_0,ISCED11_0,private,46.0,27.51604,59.421473,2023-02-28,POINT (59.421473 27.51604),True
+FIN234,Kohtla-Järve Lasteaed Aljonuška,Early childhood education,-,ISCED11_0,ISCED11_0,public,118.0,27.288923,59.406449,2023-02-28,POINT (59.406449 27.288923),True
+FIN235,Kohtla-Järve Lasteaed Buratino,Early childhood education,-,ISCED11_0,ISCED11_0,public,62.0,27.28942,59.399511,2023-02-28,POINT (59.399511 27.28942),True
+FIN236,Kohtla-Järve Lasteaed Kakuke,Early childhood education,-,ISCED11_0,ISCED11_0,public,72.0,27.412435,59.32549,2023-02-28,POINT (59.32549 27.412435),True
+FIN237,Kohtla-Järve Lasteaed Karuke,Early childhood education,-,ISCED11_0,ISCED11_0,public,120.0,27.28941,59.408846,2023-02-28,POINT (59.408846 27.28941),True
+FIN238,Kohtla-Järve Lasteaed Kirju-Mirju,Early childhood education,-,ISCED11_0,ISCED11_0,public,141.0,27.288458,59.403908,2023-02-28,POINT (59.403908 27.288458),True
+FIN239,Kohtla-Järve Lasteaed Lepatriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,21.0,27.283062,59.403782,2023-02-28,POINT (59.403782 27.283062),True
+FIN240,Kohtla-Järve Lasteaed Muinasjutt,Early childhood education,-,ISCED11_0,ISCED11_0,public,43.0,27.573043,59.370847,2023-02-28,POINT (59.370847 27.573043),True
+FIN241,Kohtla-Järve Lasteaed Punamütsike,Early childhood education,-,ISCED11_0,ISCED11_0,public,164.0,27.426872,59.32442,2023-02-28,POINT (59.32442 27.426872),True
+FIN242,Kohtla-Järve Lasteaed Pääsuke,Early childhood education,-,ISCED11_0,ISCED11_0,public,67.0,27.275833,59.399307,2023-02-28,POINT (59.399307 27.275833),True
+FIN243,Kohtla-Järve Lasteaed Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,144.0,27.418312,59.332422,2023-02-28,POINT (59.332422 27.418312),True
+FIN244,Kohtla-Järve Lasteaed Tareke,Early childhood education,-,ISCED11_0,ISCED11_0,public,158.0,27.4189,59.331467,2023-02-28,POINT (59.331467 27.4189),True
+FIN245,Kohtla-Järve Lasteaed Tuhkatriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,150.0,27.410928,59.3357,2023-02-28,POINT (59.3357 27.410928),True
+FIN246,Kohtla-Järve Lasteaed Tuvike,Early childhood education,-,ISCED11_0,ISCED11_0,public,18.0,27.343539,59.397355,2023-02-28,POINT (59.397355 27.343539),True
+FIN247,Kohtla-Järve Lasteaed Väikemees,Early childhood education,-,ISCED11_0,ISCED11_0,public,64.0,27.290295,59.404064,2023-02-28,POINT (59.404064 27.290295),True
+FIN248,Eralasteaed Mesimumm,Early childhood education,-,ISCED11_0,ISCED11_0,private,83.0,27.29615,59.39647,2023-02-28,POINT (59.39647 27.29615),True
+FIN249,Narva Lasteaed Pääsuke,Early childhood education,-,ISCED11_0,ISCED11_0,public,60.0,28.20184,59.382658,2023-02-28,POINT (59.382658 28.20184),True
+FIN250,Narva Lasteaed Tuluke,Early childhood education,-,ISCED11_0,ISCED11_0,public,95.0,28.174578,59.385363,2023-02-28,POINT (59.385363 28.174578),True
+FIN251,Narva Lasteaed Karikakar,Early childhood education,-,ISCED11_0,ISCED11_0,public,45.0,28.195975,59.371294,2023-02-28,POINT (59.371294 28.195975),True
+FIN252,Narva Lasteaed Muinasjutt,Early childhood education,-,ISCED11_0,ISCED11_0,public,55.0,28.193823,59.373976,2023-02-28,POINT (59.373976 28.193823),True
+FIN253,Narva Lasteaed Potsataja,Early childhood education,-,ISCED11_0,ISCED11_0,public,180.0,28.168677,59.37994,2023-02-28,POINT (59.37994 28.168677),True
+FIN254,Narva Lasteaed Kaseke,Early childhood education,-,ISCED11_0,ISCED11_0,public,0.0,28.184079,59.376394,2023-02-28,POINT (59.376394 28.184079),True
+FIN255,Narva lasteaed Punamütsike,Early childhood education,-,ISCED11_0,ISCED11_0,public,115.0,28.178426,59.376313,2023-02-28,POINT (59.376313 28.178426),True
+FIN256,Narva Lasteaed Päikene,Early childhood education,-,ISCED11_0,ISCED11_0,public,182.0,28.184662,59.380252,2023-02-28,POINT (59.380252 28.184662),True
+FIN257,Narva Lasteaed Põngerjas,Early childhood education,-,ISCED11_0,ISCED11_0,public,176.0,28.190268,59.367029,2023-02-28,POINT (59.367029 28.190268),True
+FIN258,Narva lasteaed Tareke,Early childhood education,-,ISCED11_0,ISCED11_0,public,135.0,28.165562,59.379871,2023-02-28,POINT (59.379871 28.165562),True
+FIN259,Narva Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,192.0,28.178991,59.367359,2023-02-28,POINT (59.367359 28.178991),True
+FIN260,Narva Lasteaed Sädemeke,Early childhood education,-,ISCED11_0,ISCED11_0,public,158.0,28.168988,59.385997,2023-02-28,POINT (59.385997 28.168988),True
+FIN261,Narva Lasteaed Pingviin,Early childhood education,-,ISCED11_0,ISCED11_0,public,154.0,28.173133,59.378901,2023-02-28,POINT (59.378901 28.173133),True
+FIN262,Narva Lasteaed Kirsike,Early childhood education,-,ISCED11_0,ISCED11_0,public,191.0,28.162132,59.380932,2023-02-28,POINT (59.380932 28.162132),True
+FIN263,Narva Lasteaed Vikerkaar,Early childhood education,-,ISCED11_0,ISCED11_0,public,99.0,28.180797,59.385551,2023-02-28,POINT (59.385551 28.180797),True
+FIN264,Narva Lasteaed Cipollino,Early childhood education,-,ISCED11_0,ISCED11_0,public,222.0,28.182594,59.387372,2023-02-28,POINT (59.387372 28.182594),True
+FIN265,Narva Lasteaed Käoke,Early childhood education,-,ISCED11_0,ISCED11_0,public,169.0,28.169699,59.389594,2023-02-28,POINT (59.389594 28.169699),True
+FIN266,Lasva Lasteaed Pargihaldjas,Early childhood education,-,ISCED11_0,ISCED11_0,public,71.0,27.18117,57.861637,2023-02-28,POINT (57.861637 27.18117),True
+FIN267,Lusti Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,124.0,26.508111,57.826731,2023-02-28,POINT (57.826731 26.508111),True
+FIN268,Parksepa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,55.0,26.983628,57.90776,2023-02-28,POINT (57.90776 26.983628),True
+FIN269,Puiga Lasteaed Siilike,Early childhood education,-,ISCED11_0,ISCED11_0,public,99.0,27.031013,57.798364,2023-02-28,POINT (57.798364 27.031013),True
+FIN270,Rõuge Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,98.0,26.907411,57.728991,2023-02-28,POINT (57.728991 26.907411),True
+FIN271,Sõmerpalu Lasteaed Lepatriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,58.0,26.833416,57.84703,2023-02-28,POINT (57.84703 26.833416),True
+FIN272,Vastseliina Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,74.0,27.278914,57.731675,2023-02-28,POINT (57.731675 27.278914),True
+FIN273,Väimela Lasteaed Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,85.0,27.014984,57.889501,2023-02-28,POINT (57.889501 27.014984),True
+FIN274,Sindi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,217.0,24.653623,58.405623,2023-02-28,POINT (58.405623 24.653623),True
+FIN275,Audru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,182.0,24.353885,58.414433,2023-02-28,POINT (58.414433 24.353885),True
+FIN276,Pärnu-Jaagupi Lasteaed Pesamuna,Early childhood education,-,ISCED11_0,ISCED11_0,public,159.0,24.505936,58.604743,2023-02-28,POINT (58.604743 24.505936),True
+FIN277,Häädemeeste Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,67.0,24.496903,58.080861,2023-02-28,POINT (58.080861 24.496903),True
+FIN278,Paikuse Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,254.0,24.612826,58.375054,2023-02-28,POINT (58.375054 24.612826),True
+FIN279,Jänesselja Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,192.0,24.493734,58.429191,2023-02-28,POINT (58.429191 24.493734),True
+FIN280,Uulu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,97.0,24.578363,58.278952,2023-02-28,POINT (58.278952 24.578363),True
+FIN281,Tori Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,88.0,24.806748,58.478943,2023-02-28,POINT (58.478943 24.806748),True
+FIN282,Tõstamaa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,44.0,23.98847,58.335953,2023-02-28,POINT (58.335953 23.98847),True
+FIN283,Kilingi-Nõmme Lasteaed Krõll,Early childhood education,-,ISCED11_0,ISCED11_0,public,112.0,24.958027,58.147635,2023-02-28,POINT (58.147635 24.958027),True
+FIN284,Salme Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,48.0,22.248998,58.162818,2023-02-28,POINT (58.162818 22.248998),True
+FIN285,Orissaare Lasteaed Päikesekiir,Early childhood education,-,ISCED11_0,ISCED11_0,public,71.0,23.085102,58.557744,2023-02-28,POINT (58.557744 23.085102),True
+FIN286,Kärla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,69.0,22.258953,58.328931,2023-02-28,POINT (58.328931 22.258953),True
+FIN287,Lümanda Karu-Kati Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,45.0,22.021456,58.286841,2023-02-28,POINT (58.286841 22.021456),True
+FIN288,Valjala Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,77.0,22.792566,58.407432,2023-02-28,POINT (58.407432 22.792566),True
+FIN289,Kuressaare Tuulte Roosi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,113.0,22.45501,58.24781,2023-02-28,POINT (58.24781 22.45501),True
+FIN290,Kuressaare Ristiku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,249.0,22.492478,58.261147,2023-02-28,POINT (58.261147 22.492478),True
+FIN291,Muhu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,63.0,23.228756,58.602248,2023-02-28,POINT (58.602248 23.228756),True
+FIN292,Kuressaare Ida-Niidu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,217.0,22.508529,58.258976,2023-02-28,POINT (58.258976 22.508529),True
+FIN293,Kuressaare Pargi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,170.0,22.480542,58.251252,2023-02-28,POINT (58.251252 22.480542),True
+FIN294,Tõrva Lasteaed Mõmmik,Early childhood education,-,ISCED11_0,ISCED11_0,public,147.0,25.937927,57.99571,2023-02-28,POINT (57.99571 25.937927),True
+FIN295,Tõrva Lasteaed Tõrvalill,Early childhood education,-,ISCED11_0,ISCED11_0,public,60.0,25.926517,58.003788,2023-02-28,POINT (58.003788 25.926517),True
+FIN296,Valga Lasteaed Buratino,Early childhood education,-,ISCED11_0,ISCED11_0,public,182.0,26.038405,57.77505,2023-02-28,POINT (57.77505 26.038405),True
+FIN297,Valga Lasteaed Kaseke,Early childhood education,-,ISCED11_0,ISCED11_0,public,125.0,26.058823,57.780334,2023-02-28,POINT (57.780334 26.058823),True
+FIN298,Valga Lasteaed Walko,Early childhood education,-,ISCED11_0,ISCED11_0,public,164.0,26.027125,57.775818,2023-02-28,POINT (57.775818 26.027125),True
+FIN299,Abja Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,89.0,25.349052,58.127513,2023-02-28,POINT (58.127513 25.349052),True
+FIN300,Halliste Lasteaed Pääsuke,Early childhood education,-,ISCED11_0,ISCED11_0,public,18.0,25.436729,58.153758,2023-02-28,POINT (58.153758 25.436729),True
+FIN301,Karksi-Nuia Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,137.0,25.554169,58.101395,2023-02-28,POINT (58.101395 25.554169),True
+FIN302,Olustvere Lasteaed Piilu,Early childhood education,-,ISCED11_0,ISCED11_0,public,44.0,25.561732,58.557633,2023-02-28,POINT (58.557633 25.561732),True
+FIN303,Suure-Jaani Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,105.0,25.470054,58.539281,2023-02-28,POINT (58.539281 25.470054),True
+FIN304,Uusna Lasteaed Tõruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,42.0,25.837906,58.391315,2023-02-28,POINT (58.391315 25.837906),True
+FIN305,Vastemõisa Lasteaed Päevalill,Early childhood education,-,ISCED11_0,ISCED11_0,public,52.0,25.442838,58.441849,2023-02-28,POINT (58.441849 25.442838),True
+FIN306,Vana-Võidu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,30.0,25.660624,58.393616,2023-02-28,POINT (58.393616 25.660624),True
+FIN307,Viiratsi Lasteaed Rüblik,Early childhood education,-,ISCED11_0,ISCED11_0,public,127.0,25.637943,58.359562,2023-02-28,POINT (58.359562 25.637943),True
+FIN308,Viljandi Lasteaed Karlsson,Early childhood education,-,ISCED11_0,ISCED11_0,public,136.0,25.579159,58.372892,2023-02-28,POINT (58.372892 25.579159),True
+FIN309,Viljandi Lasteaed Krõllipesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,330.0,25.583841,58.369037,2023-02-28,POINT (58.369037 25.583841),True
+FIN310,Viljandi Kesklinna Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,241.0,25.60206,58.365451,2023-02-28,POINT (58.365451 25.60206),True
+FIN311,Viljandi Lasteaed Männimäe,Early childhood education,-,ISCED11_0,ISCED11_0,public,176.0,25.583387,58.344985,2023-02-28,POINT (58.344985 25.583387),True
+FIN312,Võhma Lasteaed Mänguveski,Early childhood education,-,ISCED11_0,ISCED11_0,public,68.0,25.549552,58.631855,2023-02-28,POINT (58.631855 25.549552),True
+FIN313,Õisu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,17.0,25.54737,58.1968,2023-02-28,POINT (58.1968 25.54737),True
+FIN314,Elva Lasteaed Murumuna,Early childhood education,-,ISCED11_0,ISCED11_0,public,145.0,26.416751,58.222373,2023-02-28,POINT (58.222373 26.416751),True
+FIN315,Elva Lasteaed Õnneseen,Early childhood education,-,ISCED11_0,ISCED11_0,public,190.0,26.409789,58.231219,2023-02-28,POINT (58.231219 26.409789),True
+FIN316,Kõrveküla lasteaed Päikeseratas,Early childhood education,-,ISCED11_0,ISCED11_0,public,386.0,26.759816,58.424903,2023-02-28,POINT (58.424903 26.759816),True
+FIN317,Lähte Lasteaed Kiisupere,Early childhood education,-,ISCED11_0,ISCED11_0,public,142.0,26.678152,58.495744,2023-02-28,POINT (58.495744 26.678152),True
+FIN318,Luunja Lasteaed Midrimaa,Early childhood education,-,ISCED11_0,ISCED11_0,public,138.0,26.875956,58.35495,2023-02-28,POINT (58.35495 26.875956),True
+FIN319,Nõo Lasteaed Krõll,Early childhood education,-,ISCED11_0,ISCED11_0,public,206.0,26.530007,58.27225,2023-02-28,POINT (58.27225 26.530007),True
+FIN320,Puhja Lasteaed Pääsusilm,Early childhood education,-,ISCED11_0,ISCED11_0,public,119.0,26.311417,58.334617,2023-02-28,POINT (58.334617 26.311417),True
+FIN321,Rannu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,68.0,26.219629,58.238041,2023-02-28,POINT (58.238041 26.219629),True
+FIN322,Alatskivi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,83.0,27.134641,58.598365,2023-02-28,POINT (58.598365 27.134641),True
+FIN323,Ilmatsalu Lasteaed Lepatriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,142.0,26.557635,58.387307,2023-02-28,POINT (58.387307 26.557635),True
+FIN324,Kambja Lasteaed Mesimumm,Early childhood education,-,ISCED11_0,ISCED11_0,public,129.0,26.698958,58.234836,2023-02-28,POINT (58.234836 26.698958),True
+FIN325,Nõgiaru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,26.544771,58.311552,2023-02-28,POINT (58.311552 26.544771),True
+FIN326,Rõngu Lasteaed Pihlakobar,Early childhood education,-,ISCED11_0,ISCED11_0,public,136.0,26.243937,58.145407,2023-02-28,POINT (58.145407 26.243937),True
+FIN327,Nõo Lasteaed Tõruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,51.0,26.47,58.266267,2023-02-28,POINT (58.266267 26.47),True
+FIN328,Tõrvandi Lasteaed Rüblik,Early childhood education,-,ISCED11_0,ISCED11_0,public,289.0,26.70857,58.321316,2023-02-28,POINT (58.321316 26.70857),True
+FIN329,Vara Lasteaed Õnnetriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,64.0,26.886582,58.510462,2023-02-28,POINT (58.510462 26.886582),True
+FIN330,Võnnu Lasteaed Värvuke,Early childhood education,-,ISCED11_0,ISCED11_0,public,73.0,27.04989,58.283966,2023-02-28,POINT (58.283966 27.04989),True
+FIN331,Ülenurme Lasteaed Nurmepesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,136.0,26.723537,58.312819,2023-02-28,POINT (58.312819 26.723537),True
+FIN332,Tartu Lasteaed Annike,Early childhood education,-,ISCED11_0,ISCED11_0,public,216.0,26.743815,58.380793,2023-02-28,POINT (58.380793 26.743815),True
+FIN333,Tartu Lasteaed Helika,Early childhood education,-,ISCED11_0,ISCED11_0,public,111.0,26.7356,58.370909,2023-02-28,POINT (58.370909 26.7356),True
+FIN334,Tartu Lasteaed Hellik,Early childhood education,-,ISCED11_0,ISCED11_0,public,228.0,26.684503,58.352602,2023-02-28,POINT (58.352602 26.684503),True
+FIN335,Tartu Lasteaed Kannike,Early childhood education,-,ISCED11_0,ISCED11_0,public,256.0,26.685677,58.375811,2023-02-28,POINT (58.375811 26.685677),True
+FIN336,Tartu Karlova Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,264.0,26.725511,58.370762,2023-02-28,POINT (58.370762 26.725511),True
+FIN337,Tartu Lasteaed Kelluke,Early childhood education,-,ISCED11_0,ISCED11_0,public,245.0,26.768594,58.37694,2023-02-28,POINT (58.37694 26.768594),True
+FIN338,Tartu Lasteaed Kivike,Early childhood education,-,ISCED11_0,ISCED11_0,public,244.0,26.733184,58.385075,2023-02-28,POINT (58.385075 26.733184),True
+FIN339,Tartu Lasteaed Krõll,Early childhood education,-,ISCED11_0,ISCED11_0,public,195.0,26.760695,58.37613,2023-02-28,POINT (58.37613 26.760695),True
+FIN340,Tartu Lasteaed Lotte,Early childhood education,-,ISCED11_0,ISCED11_0,public,130.0,26.757363,58.383919,2023-02-28,POINT (58.383919 26.757363),True
+FIN341,Tartu Lasteaed Meelespea,Early childhood education,-,ISCED11_0,ISCED11_0,public,165.0,26.687244,58.376089,2023-02-28,POINT (58.376089 26.687244),True
+FIN342,Tartu Lasteaed Rõõmumaa,Early childhood education,-,ISCED11_0,ISCED11_0,public,232.0,26.720158,58.375107,2023-02-28,POINT (58.375107 26.720158),True
+FIN343,Tartu Lasteaed Mõmmik,Early childhood education,-,ISCED11_0,ISCED11_0,public,208.0,26.777738,58.371161,2023-02-28,POINT (58.371161 26.777738),True
+FIN344,Tartu Lasteaed Piilupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,244.0,26.729839,58.357572,2023-02-28,POINT (58.357572 26.729839),True
+FIN345,Tartu Lasteaed Poku,Early childhood education,-,ISCED11_0,ISCED11_0,public,194.0,26.760428,58.375141,2023-02-28,POINT (58.375141 26.760428),True
+FIN346,Tartu Lasteaed Naerumaa,Early childhood education,-,ISCED11_0,ISCED11_0,public,215.0,26.712506,58.375723,2023-02-28,POINT (58.375723 26.712506),True
+FIN347,Tartu Lasteaed Pääsupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,165.0,26.753195,58.375658,2023-02-28,POINT (58.375658 26.753195),True
+FIN348,Tartu Lasteaed Ristikhein,Early childhood education,-,ISCED11_0,ISCED11_0,public,175.0,26.736688,58.355988,2023-02-28,POINT (58.355988 26.736688),True
+FIN349,Tartu Lasteaed Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,137.0,26.725762,58.35058,2023-02-28,POINT (58.35058 26.725762),True
+FIN350,Tartu Lasteaed Sirel,Early childhood education,-,ISCED11_0,ISCED11_0,public,51.0,26.721414,58.393286,2023-02-28,POINT (58.393286 26.721414),True
+FIN351,Tartu Lasteaed Tripsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,338.0,26.76987,58.374086,2023-02-28,POINT (58.374086 26.76987),True
+FIN352,Tartu Lasteaed Tõruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,80.0,26.700372,58.361436,2023-02-28,POINT (58.361436 26.700372),True
+FIN353,Tartu Lasteaed Tähtvere,Early childhood education,-,ISCED11_0,ISCED11_0,public,218.0,26.693212,58.384915,2023-02-28,POINT (58.384915 26.693212),True
+FIN354,Tartu Maarjamõisa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,248.0,26.698868,58.372758,2023-02-28,POINT (58.372758 26.698868),True
+FIN355,Lasteaed Väike Pauline,Early childhood education,-,ISCED11_0,ISCED11_0,private,50.0,26.710083,58.383705,2023-02-28,POINT (58.383705 26.710083),True
+FIN356,Anni Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,26.0,26.69814,58.35696,2023-02-28,POINT (58.35696 26.69814),True
+FIN357,Oru lasteaed Mesimumm,Early childhood education,-,ISCED11_0,ISCED11_0,public,97.0,24.990954,59.191076,2023-02-28,POINT (59.191076 24.990954),True
+FIN358,Maardu Lasteaed Rukkilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,254.0,25.021218,59.488357,2023-02-28,POINT (59.488357 25.021218),True
+FIN359,Maardu Lasteaed Rõõm,Early childhood education,-,ISCED11_0,ISCED11_0,public,190.0,25.020302,59.478054,2023-02-28,POINT (59.478054 25.020302),True
+FIN360,Kose Lasteaed PäevaLill,Early childhood education,-,ISCED11_0,ISCED11_0,public,312.0,25.166415,59.181968,2023-02-28,POINT (59.181968 25.166415),True
+FIN361,Veskitammi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,220.0,24.61806,59.34997,2023-02-28,POINT (59.34997 24.61806),True
+FIN362,Kolga Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,76.0,25.61435,59.49151,2023-02-28,POINT (59.49151 25.61435),True
+FIN363,Saku Lasteaed Terake,Early childhood education,-,ISCED11_0,ISCED11_0,public,308.0,24.670421,59.303273,2023-02-28,POINT (59.303273 24.670421),True
+FIN364,Laagri Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,216.0,24.610017,59.353433,2023-02-28,POINT (59.353433 24.610017),True
+FIN365,Tabasalu Teelahkme Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,125.0,24.557465,59.43192,2023-02-28,POINT (59.43192 24.557465),True
+FIN366,Loksa Lasteaed Õnnetriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,88.0,25.729076,59.584767,2023-02-28,POINT (59.584767 25.729076),True
+FIN367,Harku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,103.0,24.580353,59.388349,2023-02-28,POINT (59.388349 24.580353),True
+FIN368,Keila Lasteaed Vikerkaar,Early childhood education,-,ISCED11_0,ISCED11_0,public,350.0,24.423416,59.312663,2023-02-28,POINT (59.312663 24.423416),True
+FIN369,Maardu Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,170.0,25.023322,59.475861,2023-02-28,POINT (59.475861 25.023322),True
+FIN370,Pangapealse Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,136.0,24.457396,59.457214,2023-02-28,POINT (59.457214 24.457396),True
+FIN371,Vaida Lasteaed Pillerpall,Early childhood education,-,ISCED11_0,ISCED11_0,public,75.0,24.977007,59.283526,2023-02-28,POINT (59.283526 24.977007),True
+FIN372,Tornimäe Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,29.0,23.11465,58.504971,2023-02-28,POINT (58.504971 23.11465),True
+FIN373,Kuressaare Rohu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,143.0,22.48672,58.256884,2023-02-28,POINT (58.256884 22.48672),True
+FIN374,Eralasteaed Lillelapsed,Early childhood education,-,ISCED11_0,ISCED11_0,private,53.0,24.822733,59.512714,2023-02-28,POINT (59.512714 24.822733),True
+FIN375,Lasteaed Taaramäe,Early childhood education,-,ISCED11_0,ISCED11_0,public,138.0,24.913323,59.356864,2023-02-28,POINT (59.356864 24.913323),True
+FIN376,Rummu Lasteaed Lepatriinu,Early childhood education,-,ISCED11_0,ISCED11_0,public,87.0,24.195589,59.231978,2023-02-28,POINT (59.231978 24.195589),True
+FIN377,Eralasteaed Kõige Suurem Sõber,Early childhood education,-,ISCED11_0,ISCED11_0,private,20.0,22.485787,58.244468,2023-02-28,POINT (58.244468 22.485787),True
+FIN378,Eralasteaed Pääsupoeg,Early childhood education,-,ISCED11_0,ISCED11_0,private,76.0,24.795322,59.537392,2023-02-28,POINT (59.537392 24.795322),True
+FIN379,Kelvingi Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,40.0,24.839992,59.546596,2023-02-28,POINT (59.546596 24.839992),True
+FIN380,Kiili Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,377.0,24.836103,59.302591,2023-02-28,POINT (59.302591 24.836103),True
+FIN381,Loo Lasteaed Pääsupesa,Early childhood education,-,ISCED11_0,ISCED11_0,public,254.0,24.94633,59.432254,2023-02-28,POINT (59.432254 24.94633),True
+FIN382,Kesklinna Eralasteaed NAERUSUU,Early childhood education,-,ISCED11_0,ISCED11_0,private,59.0,22.488583,58.253064,2023-02-28,POINT (58.253064 22.488583),True
+FIN383,Kostivere Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,127.0,25.093146,59.42679,2023-02-28,POINT (59.42679 25.093146),True
+FIN384,Munitsipaallasteasutus Viimsi Lasteaiad,Early childhood education,-,ISCED11_0,ISCED11_0,public,773.0,24.836793,59.512277,2023-02-28,POINT (59.512277 24.836793),True
+FIN385,Saku Lasteaed Päikesekild,Early childhood education,-,ISCED11_0,ISCED11_0,public,349.0,24.657523,59.29611,2023-02-28,POINT (59.29611 24.657523),True
+FIN386,Rannamõisa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,193.0,24.515549,59.438975,2023-02-28,POINT (59.438975 24.515549),True
+FIN387,Õie Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,156.0,24.906149,59.351015,2023-02-28,POINT (59.351015 24.906149),True
+FIN388,Rocca al Mare Kooli AS Veskimöldre Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,81.0,24.606776,59.354308,2023-02-28,POINT (59.354308 24.606776),True
+FIN389,Tallinna Tuule Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,219.0,24.825571,59.437272,2023-02-28,POINT (59.437272 24.825571),True
+FIN390,Tallinna Kristiine Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,231.0,24.718898,59.41723,2023-02-28,POINT (59.41723 24.718898),True
+FIN391,Aste Lasteaed Mõmmik,Early childhood education,-,ISCED11_0,ISCED11_0,public,61.0,22.444702,58.344262,2023-02-28,POINT (58.344262 22.444702),True
+FIN392,Tallinna Padriku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,136.0,24.853539,59.482804,2023-02-28,POINT (59.482804 24.853539),True
+FIN393,Eralasteaed Adelion,Early childhood education,-,ISCED11_0,ISCED11_0,private,52.0,24.883706,59.480248,2023-02-28,POINT (59.480248 24.883706),True
+FIN394,Kohila Lasteaed Sipsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,161.0,24.751975,59.173079,2023-02-28,POINT (59.173079 24.751975),True
+FIN395,Põlgaste Lasteaed Sinilill,Early childhood education,-,ISCED11_0,ISCED11_0,public,28.0,26.874434,57.979978,2023-02-28,POINT (57.979978 26.874434),True
+FIN396,Tallinna Rännaku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,139.0,24.64769,59.365827,2023-02-28,POINT (59.365827 24.64769),True
+FIN397,Eralasteaed TERAKE,Early childhood education,-,ISCED11_0,ISCED11_0,private,179.0,26.726293,58.373898,2023-02-28,POINT (58.373898 26.726293),True
+FIN398,Lasteaed Puhhi,Early childhood education,-,ISCED11_0,ISCED11_0,private,52.0,26.776199,58.377406,2023-02-28,POINT (58.377406 26.776199),True
+FIN399,Tartu Lasteaed Klaabu,Early childhood education,-,ISCED11_0,ISCED11_0,public,120.0,26.719807,58.400839,2023-02-28,POINT (58.400839 26.719807),True
+FIN400,Lohkva Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,124.0,26.795397,58.369542,2023-02-28,POINT (58.369542 26.795397),True
+FIN401,Lasteaed Väike Päike,Early childhood education,-,ISCED11_0,ISCED11_0,private,149.0,24.856804,59.499776,2023-02-28,POINT (59.499776 24.856804),True
+FIN402,Alasniidu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,178.0,24.582514,59.416511,2023-02-28,POINT (59.416511 24.582514),True
+FIN403,Vändra Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,173.0,24.482849,58.658497,2023-02-28,POINT (58.658497 24.482849),True
+FIN404,Sipa-Laukna Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,21.0,24.160303,58.914283,2023-02-28,POINT (58.914283 24.160303),True
+FIN405,Eralasteaed Kalli-kalli,Early childhood education,-,ISCED11_0,ISCED11_0,private,79.0,24.79924,59.422542,2023-02-28,POINT (59.422542 24.79924),True
+FIN406,Lasteaed Aiake,Early childhood education,-,ISCED11_0,ISCED11_0,private,57.0,24.749807,59.441284,2023-02-28,POINT (59.441284 24.749807),True
+FIN407,Otepää Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,167.0,26.493506,58.055175,2023-02-28,POINT (58.055175 26.493506),True
+FIN408,Nõlvaku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,132.0,24.636371,59.352392,2023-02-28,POINT (59.352392 24.636371),True
+FIN409,Koosa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,46.0,27.080327,58.525043,2023-02-28,POINT (58.525043 27.080327),True
+FIN410,Eesti Rahvusvaheline Eelkool,Early childhood education,-,ISCED11_0,ISCED11_0,private,15.0,24.76276,59.427443,2023-02-28,POINT (59.427443 24.76276),True
+FIN411,Assaku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,372.0,24.857157,59.374608,2023-02-28,POINT (59.374608 24.857157),True
+FIN412,Tallinna Lepistiku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,231.0,24.704773,59.402968,2023-02-28,POINT (59.402968 24.704773),True
+FIN413,Ilmapuu Waldorflasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,41.0,24.691385,59.4499,2023-02-28,POINT (59.4499 24.691385),True
+FIN414,Eralasteaed Aarete saar,Early childhood education,-,ISCED11_0,ISCED11_0,private,43.0,24.627799,59.426419,2023-02-28,POINT (59.426419 24.627799),True
+FIN415,Jõhvi Lasteaiad,Early childhood education,-,ISCED11_0,ISCED11_0,public,510.0,27.415513,59.348675,2023-02-28,POINT (59.348675 27.415513),True
+FIN416,Põnnipesa Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,109.0,24.824531,59.509553,2023-02-28,POINT (59.509553 24.824531),True
+FIN417,Eralasteaed Garant,Early childhood education,-,ISCED11_0,ISCED11_0,private,0.0,24.78078,59.429712,2023-02-28,POINT (59.429712 24.78078),True
+FIN418,Soinaste Lasteaed Laululind,Early childhood education,-,ISCED11_0,ISCED11_0,public,263.0,26.722668,58.332212,2023-02-28,POINT (58.332212 26.722668),True
+FIN419,Eralasteaed Õnnetriinu,Early childhood education,-,ISCED11_0,ISCED11_0,private,0.0,26.756018,58.376815,2023-02-28,POINT (58.376815 26.756018),True
+FIN420,Lasteaed Aviv,Early childhood education,-,ISCED11_0,ISCED11_0,private,44.0,24.765878,59.438596,2023-02-28,POINT (59.438596 24.765878),True
+FIN421,Terve Pere Aed,Early childhood education,-,ISCED11_0,ISCED11_0,private,22.0,26.983628,57.90776,2023-02-28,POINT (57.90776 26.983628),True
+FIN422,Rakvere Rohuaia Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,235.0,26.36491,59.35239,2023-02-28,POINT (59.35239 26.36491),True
+FIN423,Tupsiku Eralasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,55.0,26.774897,58.370279,2023-02-28,POINT (58.370279 26.774897),True
+FIN424,Meie Mängurühm,Early childhood education,-,ISCED11_0,ISCED11_0,private,30.0,26.730018,58.358684,2023-02-28,POINT (58.358684 26.730018),True
+FIN425,Tallinna Kihnu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,257.0,24.865396,59.453035,2023-02-28,POINT (59.453035 24.865396),True
+FIN426,Eralasteaed Rüblik,Early childhood education,-,ISCED11_0,ISCED11_0,private,44.0,26.725393,58.352059,2023-02-28,POINT (58.352059 26.725393),True
+FIN427,Tallinna Tammetõru Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,225.0,24.695975,59.405078,2023-02-28,POINT (59.405078 24.695975),True
+FIN428,Kiiu Kiigepõnni Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,109.0,25.393153,59.448769,2023-02-28,POINT (59.448769 25.393153),True
+FIN429,Elva Järve Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,62.0,26.40366,58.228526,2023-02-28,POINT (58.228526 26.40366),True
+FIN430,Waldorflasteaed Pauliine,Early childhood education,-,ISCED11_0,ISCED11_0,private,33.0,24.516948,58.382122,2023-02-28,POINT (58.382122 24.516948),True
+FIN431,Võsukese Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,226.0,24.905944,59.35425,2023-02-28,POINT (59.35425 24.905944),True
+FIN432,Viljandi valla lasteaed Päikesekiir,Early childhood education,-,ISCED11_0,ISCED11_0,public,68.0,25.497103,58.339274,2023-02-28,POINT (58.339274 25.497103),True
+FIN433,Ramsi Lasteaed Taruke,Early childhood education,-,ISCED11_0,ISCED11_0,public,80.0,25.541694,58.306607,2023-02-28,POINT (58.306607 25.541694),True
+FIN434,Ääsmäe Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,111.0,24.504765,59.243704,2023-02-28,POINT (59.243704 24.504765),True
+FIN435,Põlva Lasteaed Pihlapuu,Early childhood education,-,ISCED11_0,ISCED11_0,public,175.0,27.04342,58.054332,2023-02-28,POINT (58.054332 27.04342),True
+FIN436,Tarvastu Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,151.0,25.928029,58.212899,2023-02-28,POINT (58.212899 25.928029),True
+FIN437,Tuleviku Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,124.0,24.618833,59.3518,2023-02-28,POINT (59.3518 24.618833),True
+FIN438,Tartu Väike Päike Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,74.0,26.711194,58.373802,2023-02-28,POINT (58.373802 26.711194),True
+FIN439,Tallinna Veerise Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,145.0,24.603861,59.443678,2023-02-28,POINT (59.443678 24.603861),True
+FIN440,Tallinna Lotte Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,130.0,24.775908,59.437358,2023-02-28,POINT (59.437358 24.775908),True
+FIN441,Kasti-Orgita Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,95.0,24.444152,58.919533,2023-02-28,POINT (58.919533 24.444152),True
+FIN442,Anija Valla Lasteaiad,Early childhood education,-,ISCED11_0,ISCED11_0,public,285.0,25.334921,59.33083,2023-02-28,POINT (59.33083 25.334921),True
+FIN443,Muuga Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,148.0,24.945563,59.478775,2023-02-28,POINT (59.478775 24.945563),True
+FIN444,Järveküla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,377.0,24.831947,59.380355,2023-02-28,POINT (59.380355 24.831947),True
+FIN445,Raadi Lasteaed Ripsik,Early childhood education,-,ISCED11_0,ISCED11_0,public,246.0,26.739374,58.402722,2023-02-28,POINT (58.402722 26.739374),True
+FIN446,Lasteaed Vigri,Early childhood education,-,ISCED11_0,ISCED11_0,public,37.0,22.464265,58.981271,2023-02-28,POINT (58.981271 22.464265),True
+FIN447,Eralasteaed Tiki-Triki,Early childhood education,-,ISCED11_0,ISCED11_0,private,4.0,26.346768,59.322171,2023-02-28,POINT (59.322171 26.346768),True
+FIN448,Harkujärve Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,127.0,24.603002,59.415456,2023-02-28,POINT (59.415456 24.603002),True
+FIN449,Eralasteaed Tiki-Triki,Early childhood education,-,ISCED11_0,ISCED11_0,private,43.0,26.346768,59.322171,2023-02-28,POINT (59.322171 26.346768),True
+FIN450,Eralasteaed Tiki-Triki,Early childhood education,-,ISCED11_0,ISCED11_0,private,60.0,26.346768,59.322171,2023-02-28,POINT (59.322171 26.346768),True
+FIN451,Pärnu Raja Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,197.0,24.54663,58.364378,2023-02-28,POINT (58.364378 24.54663),True
+FIN452,Tallinna Lasteaed Naksitrallid,Early childhood education,-,ISCED11_0,ISCED11_0,public,274.0,24.642355,59.40917,2023-02-28,POINT (59.40917 24.642355),True
+FIN453,Eco Planet Eralasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,private,6.0,24.92352,59.478674,2023-02-28,POINT (59.478674 24.92352),True
+FIN454,Põltsamaa Valla Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,433.0,25.979645,58.660309,2023-02-28,POINT (58.660309 25.979645),True
+FIN455,Lasteaed Loomelind,Early childhood education,-,ISCED11_0,ISCED11_0,private,40.0,26.779947,58.372105,2023-02-28,POINT (58.372105 26.779947),True
+FIN456,Tartu Waldorflasteaed Taevasina,Early childhood education,-,ISCED11_0,ISCED11_0,private,32.0,26.684823,58.394009,2023-02-28,POINT (58.394009 26.684823),True
+FIN457,Kotka Lasteaed,Early childhood education,-,ISCED11_0,ISCED11_0,public,45.0,24.579239,59.361802,2023-02-28,POINT (59.361802 24.579239),True
+FIN4,Ala Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,13.0,25.69526388888889,58.01246944444444,2023-02-28,POINT (58.01246944444444 25.69526388888889),True
+FIN6,Albu Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,60.0,25.657241666666664,59.152255555555556,2023-02-28,POINT (59.152255555555556 25.657241666666664),True
+FIN7,Alu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,91.0,24.763669444444446,59.02518888888889,2023-02-28,POINT (59.02518888888889 24.763669444444446),True
+FIN8,Ambla-Aravete Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,58.0,25.845977777777776,59.19195,2023-02-28,POINT (59.19195 25.845977777777776),True
+FIN9,Anna Haava nimeline Pala Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,47.0,27.017363888888887,58.67169444444444,2023-02-28,POINT (58.67169444444444 27.017363888888887),True
+FIN12,Ardu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,54.0,25.358333333333334,59.10210277777778,2023-02-28,POINT (59.10210277777778 25.358333333333334),True
+FIN13,Are Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,69.0,24.55946666666667,58.527988888888885,2023-02-28,POINT (58.527988888888885 24.55946666666667),True
+FIN15,Aruküla Vaba Waldorfkool,Early childhood education,-,ISCED11_0,ISCED11_0,private,28.0,25.08083611111111,59.35855277777778,2023-02-28,POINT (59.35855277777778 25.08083611111111),True
+FIN26,Carl Robert Jakobsoni nimeline Torma Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,51.0,26.714008333333332,58.818675000000006,2023-02-28,POINT (58.818675000000006 26.714008333333332),True
+FIN31,Eidapere Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,22.0,24.941819444444445,58.752380555555554,2023-02-28,POINT (58.752380555555554 24.941819444444445),True
+FIN44,Haanja Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,37.0,27.051180555555558,57.717422222222226,2023-02-28,POINT (57.717422222222226 27.051180555555558),True
+FIN48,Hagudi Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,43.0,24.80849166666667,59.06460833333333,2023-02-28,POINT (59.06460833333333 24.80849166666667),True
+FIN51,Hargla Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,26.41615,57.614805555555556,2023-02-28,POINT (57.614805555555556 26.41615),True
+FIN55,Hiiumaa Vabakool,Early childhood education,-,ISCED11_0,ISCED11_0,private,8.0,22.368125000000003,59.518880555555555,2023-02-28,POINT (59.518880555555555 22.368125000000003),True
+FIN57,Holstre Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,35.0,25.692725,58.27578333333333,2023-02-28,POINT (58.27578333333333 25.692725),True
+FIN62,Illuka Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,39.0,27.49525277777778,59.23588055555555,2023-02-28,POINT (59.23588055555555 27.49525277777778),True
+FIN64,Imavere Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,43.0,25.76854722222222,58.73127777777778,2023-02-28,POINT (58.73127777777778 25.76854722222222),True
+FIN65,Jaagu Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,private,10.0,25.57697222222222,58.38131388888889,2023-02-28,POINT (58.38131388888889 25.57697222222222),True
+FIN67,Johannes Voldemar Veski nimeline Maarja-Magdaleena Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,37.0,26.73849722222222,58.618202777777775,2023-02-28,POINT (58.618202777777775 26.73849722222222),True
+FIN68,Johannese Kool ja Lasteaed Rosmal,Early childhood education,-,ISCED11_0,ISCED11_0,private,57.0,27.072466666666667,58.04238611111111,2023-02-28,POINT (58.04238611111111 27.072466666666667),True
+FIN77,Jõõpre Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,86.0,24.332580555555555,58.47523888888889,2023-02-28,POINT (58.47523888888889 24.332580555555555),True
+FIN78,Jäneda Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,22.0,25.68669166666667,59.24243888888889,2023-02-28,POINT (59.24243888888889 25.68669166666667),True
+FIN83,Kaali Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,28.0,22.670758333333335,58.371855555555555,2023-02-28,POINT (58.371855555555555 22.670758333333335),True
+FIN84,Kaarli Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,77.0,24.73735,59.43230555555555,2023-02-28,POINT (59.43230555555555 24.73735),True
+FIN85,Kabala Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,66.0,24.652863888888888,58.92263333333333,2023-02-28,POINT (58.92263333333333 24.652863888888888),True
+FIN88,Kahtla Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,16.0,22.998144444444446,58.40356111111111,2023-02-28,POINT (58.40356111111111 22.998144444444446),True
+FIN89,Kaiu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,59.0,25.051255555555556,59.014094444444446,2023-02-28,POINT (59.014094444444446 25.051255555555556),True
+FIN99,Keeni Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,49.0,26.272655555555556,57.95731666666667,2023-02-28,POINT (57.95731666666667 26.272655555555556),True
+FIN103,Kergu Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,12.0,24.76165,58.680527777777776,2023-02-28,POINT (58.680527777777776 24.76165),True
+FIN104,Kernu Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,37.0,24.497141666666668,59.13397777777778,2023-02-28,POINT (59.13397777777778 24.497141666666668),True
+FIN105,Kihelkonna Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,27.0,22.029166666666665,58.36225,2023-02-28,POINT (58.36225 22.029166666666665),True
+FIN106,Kihnu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,12.0,23.98226111111111,58.13241388888889,2023-02-28,POINT (58.13241388888889 23.98226111111111),True
+FIN112,Kirivere Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,41.0,25.702377777777777,58.634616666666666,2023-02-28,POINT (58.634616666666666 25.702377777777777),True
+FIN113,Kivi-Vigala Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,19.0,24.361275000000003,58.711983333333336,2023-02-28,POINT (58.711983333333336 24.361275000000003),True
+FIN126,Kohtla-Nõmme Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,40.0,27.193080555555557,59.35461111111111,2023-02-28,POINT (59.35461111111111 27.193080555555557),True
+FIN127,Koigi Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,33.0,25.75037777777778,58.83347777777778,2023-02-28,POINT (58.83347777777778 25.75037777777778),True
+FIN129,Kolga-Jaani Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,41.0,25.943775,58.53328055555556,2023-02-28,POINT (58.53328055555556 25.943775),True
+FIN130,Kolkja Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,22.0,27.219430555555554,58.540283333333335,2023-02-28,POINT (58.540283333333335 27.219430555555554),True
+FIN131,Konguta Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,47.0,26.308777777777777,58.26631388888889,2023-02-28,POINT (58.26631388888889 26.308777777777777),True
+FIN133,Koonga Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,26.0,24.149544444444444,58.58011666666667,2023-02-28,POINT (58.58011666666667 24.149544444444444),True
+FIN135,Kose-Uuemõisa Lasteaed-Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,100.0,25.099024999999997,59.20478055555556,2023-02-28,POINT (59.20478055555556 25.099024999999997),True
+FIN138,Kuldre Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,48.0,26.50125,57.893277777777776,2023-02-28,POINT (57.893277777777776 26.50125),True
+FIN141,Kuremaa Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,26.538950000000003,58.73585555555556,2023-02-28,POINT (58.73585555555556 26.538950000000003),True
+FIN144,Kurtna Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,129.0,24.72017222222222,59.23101666666667,2023-02-28,POINT (59.23101666666667 24.72017222222222),True
+FIN146,Kuuste Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,47.0,26.782291666666666,58.25283888888889,2023-02-28,POINT (58.25283888888889 26.782291666666666),True
+FIN147,Kõmsi Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,26.0,23.634166666666665,58.62495277777778,2023-02-28,POINT (58.62495277777778 23.634166666666665),True
+FIN148,Kõpu Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,30.0,25.308577777777778,58.31898055555556,2023-02-28,POINT (58.31898055555556 25.308577777777778),True
+FIN154,Käru Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,25.14667777777778,58.83246944444445,2023-02-28,POINT (58.83246944444445 25.14667777777778),True
+FIN157,Laeva Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,31.0,26.37981388888889,58.486155555555555,2023-02-28,POINT (58.486155555555555 26.37981388888889),True
+FIN158,Lagedi Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,120.0,24.943108333333335,59.401583333333335,2023-02-28,POINT (59.401583333333335 24.943108333333335),True
+FIN160,Laiuse Jaan Poska Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,21.0,26.497033333333334,58.783202777777774,2023-02-28,POINT (58.783202777777774 26.497033333333334),True
+FIN161,Lasila Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,26.21609722222222,59.250883333333334,2023-02-28,POINT (59.250883333333334 26.21609722222222),True
+FIN166,Laulasmaa Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,242.0,24.242194444444447,59.37646388888889,2023-02-28,POINT (59.37646388888889 24.242194444444447),True
+FIN168,Lehtse Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,30.0,25.825091666666665,59.249941666666665,2023-02-28,POINT (59.249941666666665 25.825091666666665),True
+FIN170,Leisi Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,62.0,22.684630555555557,58.567127777777785,2023-02-28,POINT (58.567127777777785 22.684630555555557),True
+FIN174,Lindi Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,52.0,24.28718611111111,58.32736388888889,2023-02-28,POINT (58.32736388888889 24.28718611111111),True
+FIN175,Lohusuu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,12.0,27.044655555555558,58.952619444444444,2023-02-28,POINT (58.952619444444444 27.044655555555558),True
+FIN181,Lõpe Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,21.0,23.988175000000002,58.571244444444446,2023-02-28,POINT (58.571244444444446 23.988175000000002),True
+FIN185,Lüllemäe Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,50.0,26.379325,57.75312777777778,2023-02-28,POINT (57.75312777777778 26.379325),True
+FIN190,Maidla Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,63.0,27.017552777777777,59.33643333333334,2023-02-28,POINT (59.33643333333334 27.017552777777777),True
+FIN194,Meremäe Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,26.0,27.458644444444445,57.748275,2023-02-28,POINT (57.748275 27.458644444444445),True
+FIN200,Mikitamäe Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,16.0,27.535344444444448,57.99783611111111,2023-02-28,POINT (57.99783611111111 27.535344444444448),True
+FIN204,Mustjala Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,13.0,22.232602777777775,58.463175,2023-02-28,POINT (58.463175 22.232602777777775),True
+FIN208,Mõniste Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,23.0,26.55533611111111,57.594230555555555,2023-02-28,POINT (57.594230555555555 26.55533611111111),True
+FIN226,Noarootsi Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,23.0,23.520238888888887,59.00728888888889,2023-02-28,POINT (59.00728888888889 23.520238888888887),True
+FIN231,Nõva Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,6.0,23.930961111111113,58.762766666666664,2023-02-28,POINT (58.762766666666664 23.930961111111113),True
+FIN234,Orava Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,9.0,27.445908333333332,57.88788611111111,2023-02-28,POINT (57.88788611111111 27.445908333333332),True
+FIN246,Paistu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,32.0,25.591838888888887,58.24073055555556,2023-02-28,POINT (58.24073055555556 25.591838888888887),True
+FIN253,Peetri Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,37.0,25.83223611111111,58.94438333333333,2023-02-28,POINT (58.94438333333333 25.83223611111111),True
+FIN254,Peetri Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,337.0,24.809855555555558,59.39640277777778,2023-02-28,POINT (59.39640277777778 24.809855555555558),True
+FIN257,Pihtla Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,33.0,22.645719444444445,58.42295277777777,2023-02-28,POINT (58.42295277777777 22.645719444444445),True
+FIN258,Pikavere Mõisakool,Early childhood education,-,ISCED11_0,ISCED11_0,public,25.0,25.135966666666665,59.277563888888885,2023-02-28,POINT (59.277563888888885 25.135966666666665),True
+FIN264,Puka Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,28.0,26.22638611111111,58.05342777777778,2023-02-28,POINT (58.05342777777778 26.22638611111111),True
+FIN265,Puurmani Mõisakool,Early childhood education,-,ISCED11_0,ISCED11_0,public,50.0,26.28963888888889,58.57475277777778,2023-02-28,POINT (58.57475277777778 26.28963888888889),True
+FIN269,Pärnjõe Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,16.0,24.92435277777778,58.629377777777776,2023-02-28,POINT (58.629377777777776 24.92435277777778),True
+FIN285,Püha Johannese Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,20.0,24.676727777777778,59.38390555555556,2023-02-28,POINT (59.38390555555556 24.676727777777778),True
+FIN287,Pühajärve Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,55.0,26.436758333333334,58.012058333333336,2023-02-28,POINT (58.012058333333336 26.436758333333334),True
+FIN288,Püünsi Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,35.0,24.806155555555556,59.54638055555555,2023-02-28,POINT (59.54638055555555 24.806155555555556),True
+FIN289,Raasiku Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,97.0,25.185216666666665,59.369172222222225,2023-02-28,POINT (59.369172222222225 25.185216666666665),True
+FIN297,Rakvere Waldorfkool,Early childhood education,-,ISCED11_0,ISCED11_0,private,33.0,26.354558333333333,59.348708333333335,2023-02-28,POINT (59.348708333333335 26.354558333333333),True
+FIN303,Retla-Kabala Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,52.0,25.564819444444446,58.75703611111111,2023-02-28,POINT (58.75703611111111 25.564819444444446),True
+FIN304,Ridala Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,47.0,23.54148055555556,58.94881944444444,2023-02-28,POINT (58.94881944444444 23.54148055555556),True
+FIN305,Riidaja Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,18.0,25.89192222222222,58.091011111111115,2023-02-28,POINT (58.091011111111115 25.89192222222222),True
+FIN306,Risti Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,37.0,24.01401111111111,59.228033333333336,2023-02-28,POINT (59.228033333333336 24.01401111111111),True
+FIN309,Ritsu Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,38.0,25.846394444444442,58.03353333333333,2023-02-28,POINT (58.03353333333333 25.846394444444442),True
+FIN315,Ruila Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,92.0,24.43921388888889,59.19120833333333,2023-02-28,POINT (59.19120833333333 24.43921388888889),True
+FIN323,Saarepeedi Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,36.0,25.685358333333333,58.429063888888884,2023-02-28,POINT (58.429063888888884 25.685358333333333),True
+FIN324,Sadala Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,25.0,26.59993888888889,58.862430555555555,2023-02-28,POINT (58.862430555555555 26.59993888888889),True
+FIN328,Salu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,0.0,24.579594444444446,59.212205555555556,2023-02-28,POINT (59.212205555555556 24.579594444444446),True
+FIN334,Siimusti Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,64.0,26.34083611111111,58.72880555555556,2023-02-28,POINT (58.72880555555556 26.34083611111111),True
+FIN339,Sillaotsa Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,279.0,26.894716666666667,58.29257777777777,2023-02-28,POINT (58.29257777777777 26.894716666666667),True
+FIN340,Simuna Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,40.0,26.40673611111111,59.045833333333334,2023-02-28,POINT (59.045833333333334 26.40673611111111),True
+FIN343,Surju Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,60.0,24.72029444444444,58.241080555555556,2023-02-28,POINT (58.241080555555556 24.72029444444444),True
+FIN345,Suure-Jaani Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,34.0,25.46925,58.538238888888884,2023-02-28,POINT (58.538238888888884 25.46925),True
+FIN346,Suuremõisa Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,22.947375,58.86859166666667,2023-02-28,POINT (58.86859166666667 22.947375),True
+FIN352,Tahkuranna Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,22.0,24.489552777777778,58.218294444444446,2023-02-28,POINT (58.218294444444446 24.489552777777778),True
+FIN357,Tallinna Euroopa Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,70.0,24.72774722222222,59.436522222222216,2023-02-28,POINT (59.436522222222216 24.72774722222222),True
+FIN358,Tallinna Heleni Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,71.0,24.699441666666665,59.442386111111105,2023-02-28,POINT (59.442386111111105 24.699441666666665),True
+FIN372,Tallinna Laagna Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,91.0,24.833502777777777,59.43789722222222,2023-02-28,POINT (59.43789722222222 24.833502777777777),True
+FIN387,Tallinna Rahvusvaheline Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,23.0,24.800083333333333,59.42265555555555,2023-02-28,POINT (59.42265555555555 24.800083333333333),True
+FIN401,Tammiste Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,125.0,25.014266666666668,58.65799444444444,2023-02-28,POINT (58.65799444444444 25.014266666666668),True
+FIN405,Tarbja Lasteaed-Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,32.0,25.59038611111111,58.9291,2023-02-28,POINT (58.9291 25.59038611111111),True
+FIN418,Tartu Katoliku Hariduskeskus,Early childhood education,-,ISCED11_0,ISCED11_0,private,62.0,26.71067222222222,58.38341388888889,2023-02-28,POINT (58.38341388888889 26.71067222222222),True
+FIN424,Tartu Luterlik Peetri Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,91.0,26.72857222222222,58.39030277777778,2023-02-28,POINT (58.39030277777778 26.72857222222222),True
+FIN425,Tartu Luterlik Peetri Kool (Põlva),Early childhood education,-,ISCED11_0,ISCED11_0,private,17.0,27.05683611111111,58.05378333333333,2023-02-28,POINT (58.05378333333333 27.05683611111111),True
+FIN426,Tartu Maarja Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,8.0,26.74691111111111,58.383627777777775,2023-02-28,POINT (58.383627777777775 26.74691111111111),True
+FIN429,Tartu Rahvusvaheline Kool,Early childhood education,-,ISCED11_0,ISCED11_0,private,38.0,26.713833333333334,58.377586111111114,2023-02-28,POINT (58.377586111111114 26.713833333333334),True
+FIN438,Tootsi Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,41.0,24.78253611111111,58.5854,2023-02-28,POINT (58.5854 24.78253611111111),True
+FIN441,Tsirguliina Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,29.0,26.191455555555557,57.86448333333333,2023-02-28,POINT (57.86448333333333 26.191455555555557),True
+FIN442,Turba Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,66.0,24.24316388888889,59.082,2023-02-28,POINT (59.082 24.24316388888889),True
+FIN451,Uuemõisa Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,40.0,23.580394444444444,58.943349999999995,2023-02-28,POINT (58.943349999999995 23.580394444444444),True
+FIN454,Vaimastvere Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,15.0,26.284397222222225,58.813944444444445,2023-02-28,POINT (58.813944444444445 26.284397222222225),True
+FIN460,Valgu Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,20.0,24.443580555555556,58.69374166666666,2023-02-28,POINT (58.69374166666666 24.443580555555556),True
+FIN461,Valguta Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,16.0,26.205530555555555,58.190599999999996,2023-02-28,POINT (58.190599999999996 26.205530555555555),True
+FIN467,Varbla Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,17.0,23.754822222222224,58.42981666666667,2023-02-28,POINT (58.42981666666667 23.754822222222224),True
+FIN468,Varbola Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,34.0,24.45194722222222,59.045775,2023-02-28,POINT (59.045775 24.45194722222222),True
+FIN469,Varstu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,15.0,26.66593333333333,57.64745555555555,2023-02-28,POINT (57.64745555555555 26.66593333333333),True
+FIN474,Veltsi Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,31.0,26.277069444444443,59.39898888888889,2023-02-28,POINT (59.39898888888889 26.277069444444443),True
+FIN475,Vihasoo Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,18.0,25.79991111111111,59.54459444444444,2023-02-28,POINT (59.54459444444444 25.79991111111111),True
+FIN484,Viljandi Vaba Waldorfkool,Early childhood education,-,ISCED11_0,ISCED11_0,private,40.0,25.600094444444444,58.36181666666667,2023-02-28,POINT (58.36181666666667 25.600094444444444),True
+FIN487,Virtsu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,17.0,23.53584166666667,58.57844166666667,2023-02-28,POINT (58.57844166666667 23.53584166666667),True
+FIN489,Vohnja Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,29.0,26.04216388888889,59.37421666666667,2023-02-28,POINT (59.37421666666667 26.04216388888889),True
+FIN490,Voore Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,38.0,26.750666666666667,58.71443888888889,2023-02-28,POINT (58.71443888888889 26.750666666666667),True
+FIN491,Vormsi Lasteaed-Põhikool,Early childhood education,-,ISCED11_0,ISCED11_0,public,11.0,23.244111111111113,58.991905555555554,2023-02-28,POINT (58.991905555555554 23.244111111111113),True
+FIN498,Võsu Kool,Early childhood education,-,ISCED11_0,ISCED11_0,public,74.0,25.97274722222222,59.578225,2023-02-28,POINT (59.578225 25.97274722222222),True
+FIN503,Vääna Mõisakool,Early childhood education,-,ISCED11_0,ISCED11_0,public,31.0,24.418194444444445,59.38935277777778,2023-02-28,POINT (59.38935277777778 24.418194444444445),True
+FIN506,Õru Lasteaed-Algkool,Early childhood education,-,ISCED11_0,ISCED11_0,public,13.0,26.176783333333333,57.926605555555554,2023-02-28,POINT (57.926605555555554 26.176783333333333),True
+SLH000972,KiCaDaycare OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.41205665441791,24.737618968234216,2024-08-23,POINT (24.737618968234216 59.41205665441791),True
+SLH000970,Mesimummi Lastehoid OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.38213464309561,24.801840439812196,2024-08-23,POINT (24.801840439812196 59.38213464309561),True
+SLH000964,MTÜ Muhedad Mudilased,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,6.0,59.43937880892278,24.785112172730777,2024-08-23,POINT (24.785112172730777 59.43937880892278),True
+SLH000960,Tallinn International School OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,4.0,59.422592371433325,24.79865607097682,2024-08-23,POINT (24.79865607097682 59.422592371433325),True
+SLH000955,Tallinna Lastehoiud OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,28.0,59.41504111486256,24.720573027022454,2024-08-23,POINT (24.720573027022454 59.41504111486256),True
+SLH000951,Mittetulundusühing Lasnamäe Huvikool,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.44223980393366,24.83071500660418,2024-08-23,POINT (24.83071500660418 59.44223980393366),True
+SLH000944,Mooni Lastehoid OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,8.0,59.42162455498317,24.706109633998068,2024-08-23,POINT (24.706109633998068 59.42162455498317),True
+SLH000941,OÜ Mõmsik,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,25.0,59.424829375662284,24.70419780570279,2024-08-23,POINT (24.70419780570279 59.424829375662284),True
+SLH000937,Tugi Sinu Perele OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,58.371281227269805,25.604881581666348,2024-08-23,POINT (25.604881581666348 58.371281227269805),True
+SLH000936,Maria Maja OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.43853772684864,24.728145322170178,2024-08-23,POINT (24.728145322170178 59.43853772684864),True
+SLH000935,Coincraft OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.3972529142151,24.82642095760741,2024-08-23,POINT (24.82642095760741 59.3972529142151),True
+SLH000934,OÜ Pisipere Lastehoid,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,30.0,59.42909576437859,24.549811614933333,2024-08-23,POINT (24.549811614933333 59.42909576437859),True
+SLH000926,MTÜ Tartu Luterlik Peetri Kool,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,18.0,58.38071857969311,26.720951603129947,2024-08-23,POINT (26.720951603129947 58.38071857969311),True
+SLH000924,MTÜ Kristlik lastehoid Armastus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,58.37090420926498,26.72091991953596,2024-08-23,POINT (26.72091991953596 58.37090420926498),True
+SLH000922,OÜ Abilene,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,13.0,59.51935846801817,24.830799077093047,2024-08-23,POINT (24.830799077093047 59.51935846801817),True
+SLH000920,ÕNNERADA MTÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,29.0,59.46180568051608,24.881256625466648,2024-08-23,POINT (24.881256625466648 59.46180568051608),True
+SLH000918,OÜ Dilordy,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,58.336521097615616,26.696627152476765,2024-08-23,POINT (26.696627152476765 58.336521097615616),True
+SLH000915,LA-LA Lapsed OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,38.0,59.38605678704849,24.802255930752608,2024-08-23,POINT (24.802255930752608 59.38605678704849),True
+SLH000914,Raasiku Lastehoid Osaühing,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.37133925471983,25.14598336310405,2024-08-23,POINT (25.14598336310405 59.37133925471983),True
+SLH000910,Nöpsik OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,58.25671318371627,22.481394867636908,2024-08-23,POINT (22.481394867636908 58.25671318371627),True
+SLH000909,OÜ Aruotsa,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,12.0,59.37829577335077,24.934807347569063,2024-08-23,POINT (24.934807347569063 59.37829577335077),True
+SLH000908,"Naisteklubi ""Õnnelik Emadus""",Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.45001665942837,24.875123670732194,2024-08-23,POINT (24.875123670732194 59.45001665942837),True
+SLH000905,Tallinna Montessori Maja OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,30.0,59.47310788066736,24.882722201236874,2024-08-23,POINT (24.882722201236874 59.47310788066736),True
+SLH000899,Rakvere Rohuaia Lasteaed,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.35226786851524,26.365322790278725,2024-08-23,POINT (26.365322790278725 59.35226786851524),True
+SLH000886,LUFF OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.390717418580664,24.800528839603317,2024-08-23,POINT (24.800528839603317 59.390717418580664),True
+SLH000881,OÜ Loomelind,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,60.0,58.371792732911075,26.779457287294548,2024-08-23,POINT (26.779457287294548 58.371792732911075),True
+SLH000880,Toome Hoiuselts,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,8.0,58.3805435655548,26.720936850980365,2024-08-23,POINT (26.720936850980365 58.3805435655548),True
+SLH000861,Adelion Kids OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.480241760369495,24.883731885293372,2024-08-23,POINT (24.883731885293372 59.480241760369495),True
+SLH000858,Pillikoori Lastehoid OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,58.366207954644324,26.792209766242763,2024-08-23,POINT (26.792209766242763 58.366207954644324),True
+SLH000855,Väike Päike Tartu OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,14.0,58.37367627228315,26.71128433510256,2024-08-23,POINT (26.71128433510256 58.37367627228315),True
+SLH000851,Osaühing Maarjakase,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,8.0,58.64614830754982,25.067934517314626,2024-08-23,POINT (25.067934517314626 58.64614830754982),True
+SLH000849,Laste ja Noortetöö Ühendus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,9.0,57.82551547876815,26.52383321268661,2024-08-23,POINT (26.52383321268661 57.82551547876815),True
+SLH000842,Mittetulundusühing Maria ja lapsed,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.32925468279481,26.379536486407517,2024-08-23,POINT (26.379536486407517 59.32925468279481),True
+SLH000833,Peetrikese OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.40051142098406,24.791083524372,2024-08-23,POINT (24.791083524372 59.40051142098406),True
+SLH000830,Vandersellid Lastehoid OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,30.0,59.36105470143309,24.81511536278535,2024-08-23,POINT (24.81511536278535 59.36105470143309),True
+SLH000826,Tartu Laste Turvakodu,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,58.37540235760409,26.712599036615615,2024-08-23,POINT (26.712599036615615 58.37540235760409),True
+SLH000823,Õunakese Perehoid OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,14.0,58.219742369009055,26.40529357195146,2024-08-23,POINT (26.40529357195146 58.219742369009055),True
+SLH000810,Mittetulundusühing Meie Lapsed,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.40984764574554,24.729392633181703,2024-08-23,POINT (24.729392633181703 59.40984764574554),True
+SLH000801,OÜ Meie Päike,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.36377045529139,26.73898191505063,2024-08-23,POINT (26.73898191505063 58.36377045529139),True
+SLH000787,OÜ SÕBRAD KOOS,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.88427339907935,25.5672929368761,2024-08-23,POINT (25.5672929368761 58.88427339907935),True
+SLH000781,Maast Madalast OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,11.0,58.383895069539506,26.70451511009807,2024-08-23,POINT (26.70451511009807 58.383895069539506),True
+SLH000780,Mittetulundusühing Männirahu Mõttemaja,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.25725832546934,23.779806487159703,2024-08-23,POINT (23.779806487159703 59.25725832546934),True
+SLH000758,Sihtasutus Tartu Perekodu Käopesa,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,4.0,58.382402755498134,26.749184535233866,2024-08-23,POINT (26.749184535233866 58.382402755498134),True
+SLH000747,Valga Perekeskus Kurepesa,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,6.0,57.77650749672972,26.04366809411144,2024-08-23,POINT (26.04366809411144 57.77650749672972),True
+SLH000746,Tartu Vaba Waldorfkooli Selts,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,36.0,58.39468123782177,26.684707164151916,2024-08-23,POINT (26.684707164151916 58.39468123782177),True
+SLH000744,Mittetulundusühing Keelte Harmoonia,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.40772279138105,24.638626093342253,2024-08-23,POINT (24.638626093342253 59.40772279138105),True
+SLH000738,Tutrices OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,7.0,58.39667307138288,26.733644654384648,2024-08-23,POINT (26.733644654384648 58.39667307138288),True
+SLH000735,OÜ Laagri Lastehoid,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,66.0,59.348888285154885,24.63418997108667,2024-08-23,POINT (24.63418997108667 59.348888285154885),True
+SLH000722,Schmidt OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,19.0,59.51270889468151,24.83305464723756,2024-08-23,POINT (24.83305464723756 59.51270889468151),True
+SLH000719,Mittetulundusühing Roosiõis,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.33390156800576,24.776349647332154,2024-08-23,POINT (24.776349647332154 59.33390156800576),True
+SLH000715,Kohvipesa OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,60.0,59.42004268030638,24.751674497850075,2024-08-23,POINT (24.751674497850075 59.42004268030638),True
+SLH000714,Mittetulundusühing Hoolivus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,58.346028941844594,23.965836457892237,2024-08-23,POINT (23.965836457892237 58.346028941844594),True
+SLH000686,Mittetulundusühing Elite Perekeskus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.44091424785597,24.77965488321132,2024-08-23,POINT (24.77965488321132 59.44091424785597),True
+SLH000697,Võru Järve Kool,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,57.84383190695374,26.999673604499407,2024-08-23,POINT (26.999673604499407 57.84383190695374),True
+SLH000694,Majaemand OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.341970574735655,26.3862697530474,2024-08-23,POINT (26.3862697530474 59.341970574735655),True
+SLH000557,MTÜ Erivajadustega Laste ja Noorte Tugiühing,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,41.0,59.44238699015341,24.70586069147376,2024-08-23,POINT (24.70586069147376 59.44238699015341),True
+SLH000679,OÜ Avela,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,58.365470053798276,26.725373392331136,2024-08-23,POINT (26.725373392331136 58.365470053798276),True
+SLH000672,Sinilinnu Lastehoid OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.0010830149991,24.789263477916478,2024-08-23,POINT (24.789263477916478 59.0010830149991),True
+SLH000668,MTÜ Õnnekene,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,58.35851194260573,26.779457538751643,2024-08-23,POINT (26.779457538751643 58.35851194260573),True
+SLH000669,Mittetulundusühing LAPSED ÕUE,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,30.0,58.39372880216396,26.691666742177517,2024-08-23,POINT (26.691666742177517 58.39372880216396),True
+SLH000664,Alltrendo OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.40849484848255,24.674759975017395,2024-08-23,POINT (24.674759975017395 59.40849484848255),True
+SLH000661,Pikaliiva Kindergarten OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,43.0,59.42513950607977,24.623645955987115,2024-08-23,POINT (24.623645955987115 59.42513950607977),True
+SLH000660,OÜ Linnupojad,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.17211700657947,24.65283408977689,2024-08-23,POINT (24.65283408977689 59.17211700657947),True
+SLH000656,OÜ Flennert,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.422592371433325,24.79865607097682,2024-08-23,POINT (24.79865607097682 59.422592371433325),True
+SLH000654,K&Arens OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.40657111788474,24.684889924100077,2024-08-23,POINT (24.684889924100077 59.40657111788474),True
+SLH000653,Laste Hoolekande Asutus Lootus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.393939170704186,27.780357444556586,2024-08-23,POINT (27.780357444556586 59.393939170704186),True
+SLH000650,Mittetulundusühing LASTE PÄEVAKESKUS LAD,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.3816072537478,28.201976729650966,2024-08-23,POINT (28.201976729650966 59.3816072537478),True
+SLH000639,OÜ PISILAPS,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,7.0,59.38993760821873,24.716007404362784,2024-08-23,POINT (24.716007404362784 59.38993760821873),True
+SLH000632,ANGELS GRUPP OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,14.0,59.41101884907624,24.718462379983833,2024-08-23,POINT (24.718462379983833 59.41101884907624),True
+SLH000622,Siimusti Lastekeskus Metsatareke,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,4.0,58.725281478243545,26.3398362725693,2024-08-23,POINT (26.3398362725693 58.725281478243545),True
+SLH000618,Teiemeie OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,25.0,59.165132073296775,24.757442672158334,2024-08-23,POINT (24.757442672158334 59.165132073296775),True
+SLH000512,3Rähni Mittetulundusühing,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.38290003658406,24.690196590819482,2024-08-23,POINT (24.690196590819482 59.38290003658406),True
+SLH000592,HERE INVEST OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.000716683920814,24.80507853664693,2024-08-23,POINT (24.80507853664693 59.000716683920814),True
+SLH000588,Mängukaru OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,11.0,59.386799046484185,24.793896574896706,2024-08-23,POINT (24.793896574896706 59.386799046484185),True
+SLH000586,Hiiumaa Sotsiaalkeskus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,14.0,58.996236724311586,22.738984163263353,2024-08-23,POINT (22.738984163263353 58.996236724311586),True
+SLH000146,Naerusuud OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.35851194260573,26.779457538751643,2024-08-23,POINT (26.779457538751643 58.35851194260573),True
+SLH000575,PUUETEGA LASTE TUGIKODU PÄIKESEKIIR,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.357430240771464,27.40706134001121,2024-08-23,POINT (27.40706134001121 59.357430240771464),True
+SLH000410,Helde Puu OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.39122959477419,24.65829959356148,2024-08-23,POINT (24.65829959356148 59.39122959477419),True
+SLH000567,Mittetulundusühing LaNoor,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,11.0,59.415501700442064,24.64108928322844,2024-08-23,POINT (24.64108928322844 59.415501700442064),True
+SLH000493,OÜ Väikelaste Päevahoid,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.37435405765396,24.67145482295726,2024-08-23,POINT (24.67145482295726 59.37435405765396),True
+SLH000561,Emily Mängutuba OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,29.0,59.43709566231681,24.78461470677732,2024-08-23,POINT (24.78461470677732 59.43709566231681),True
+SLH000560,Kadriliis OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,4.0,59.46215713371623,24.832681987822383,2024-08-23,POINT (24.832681987822383 59.46215713371623),True
+SLH000571,Lehelinnu OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,23.0,58.38162558543573,26.759972296077734,2024-08-23,POINT (26.759972296077734 58.38162558543573),True
+SLH000552,Mittetulundusühing Metsküla Lastehoid,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,58.577570970439155,22.538353252475304,2024-08-23,POINT (22.538353252475304 58.577570970439155),True
+SLH000569,OÜ TIBUPOEG,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,6.0,58.236489537282154,26.452115134546574,2024-08-23,POINT (26.452115134546574 58.236489537282154),True
+SLH000539,Defigo OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.37966076628288,24.68779567847392,2024-08-23,POINT (24.68779567847392 59.37966076628288),True
+SLH000457,KALLI-KALLI LASTEHOID OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.32033721791595,24.53860970425356,2024-08-23,POINT (24.53860970425356 59.32033721791595),True
+SLH000514,Laste D?ungel OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.43195814240349,24.47323261968475,2024-08-23,POINT (24.47323261968475 59.43195814240349),True
+SLH000507,Osaühing Sternum,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.4133959568168,24.688923798822287,2024-08-23,POINT (24.688923798822287 59.4133959568168),True
+SLH000504,Nõmme Lastekaitse Liit,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,30.0,59.37785710644809,24.635224130300458,2024-08-23,POINT (24.635224130300458 59.37785710644809),True
+SLH000494,OÜ NABA,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,5.0,59.46942654879271,24.841769395788106,2024-08-23,POINT (24.841769395788106 59.46942654879271),True
+SLH000481,Põlva Roosi Kool,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.05932053740105,27.072210678398704,2024-08-23,POINT (27.072210678398704 58.05932053740105),True
+SLH000478,Mehikoorma Lastehoid,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,8.0,58.23545927565334,27.46948480953904,2024-08-23,POINT (27.46948480953904 58.23545927565334),True
+SLH000612,Tapa Lastekaitse ühing,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,9.0,59.25908553845207,25.961551678349053,2024-08-23,POINT (25.961551678349053 59.25908553845207),True
+SLH000467,Väike Päike Kesklinn OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,45.0,59.44024537198257,24.771987537281575,2024-08-23,POINT (24.771987537281575 59.44024537198257),True
+SLH000469,OÜ KULLAKALLI,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,74.0,58.380660451194586,26.699767683958527,2024-08-23,POINT (26.699767683958527 58.380660451194586),True
+SLH000451,17 Kevadet OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.36484166251722,25.58047113268657,2024-08-23,POINT (25.58047113268657 58.36484166251722),True
+SLH000440,Sihtasutus Kelmiküla Lapsed,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.43533043350806,24.72690756652827,2024-08-23,POINT (24.72690756652827 59.43533043350806),True
+SLH000485,MTÜ Loov Maailm,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,58.370093134404215,26.720664187670053,2024-08-23,POINT (26.720664187670053 58.370093134404215),True
+SLH000427,Pisi-Peetri OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,16.0,59.39980851458375,24.79151703640423,2024-08-23,POINT (24.79151703640423 59.39980851458375),True
+SLH000412,mittetulundusühing DIANA ARENDUSKESKUS,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.430536529715425,24.736390432685795,2024-08-23,POINT (24.736390432685795 59.430536529715425),True
+SLH000387,Eesti Evangeelse Luterliku Kiriku Tartu Pauluse Kogudus,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,35.0,58.37175656499889,26.715717607511067,2024-08-23,POINT (26.715717607511067 58.37175656499889),True
+SLH000396,URSULA OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,25.0,58.383808400660655,24.500975545729034,2024-08-23,POINT (24.500975545729034 58.383808400660655),True
+SLH000394,Mittetulundusühing Päikeseratas,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,9.0,58.37572200148168,26.720108635127588,2024-08-23,POINT (26.720108635127588 58.37572200148168),True
+SLH000289,OÜ Fortuna,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,42.0,58.343010283235,26.775204058166224,2024-08-23,POINT (26.775204058166224 58.343010283235),True
+SLH000393,Tedrepere OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,59.42976073602162,24.694249915832618,2024-08-23,POINT (24.694249915832618 59.42976073602162),True
+SLH000388,Veski Lastehoiuselts,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.38199053349999,26.709959994400833,2024-08-23,POINT (26.709959994400833 58.38199053349999),True
+SLH000360,OÜ Lapserõõm,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,18.0,59.44070763394271,24.59051983644744,2024-08-23,POINT (24.59051983644744 59.44070763394271),True
+SLH000333,Kiigemetsa Kool,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,10.0,58.72669135626717,26.33651812855925,2024-08-23,POINT (26.33651812855925 58.72669135626717),True
+SLH000317,Jalak OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,58.357047791759044,26.711106554936208,2024-08-23,POINT (26.711106554936208 58.357047791759044),True
+SLH000305,Mittetulundusühing EDU VALEM,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,15.0,59.43353238954839,24.796319866923767,2024-08-23,POINT (24.796319866923767 59.43353238954839),True
+SLH000290,Lustila OÜ,Early childhood educational development,Child day-care service,ISCED11_0,ISCED11_01,-,20.0,59.35200945444032,24.6439376215655,2024-08-23,POINT (24.6439376215655 59.35200945444032),True

@@ -11,26 +11,26 @@ from utilities import gisdb_connection, finalise_and_upload, ISCED
 #                                  Flanders                                   #
 ###############################################################################
 
-# flanders_nurseries = pd.read_excel(r"V:\GIS_DATABASE\raw_data\education\childcare\BEL\flanders\Maurizio Salazar_Lozado OECD addresses childcare settings.xlsx")
+flanders_nurseries = pd.read_excel(r"V:\GIS_DATABASE\raw_data\education\childcare\BEL\flanders\Maurizio Salazar_Lozado OECD addresses childcare settings.xlsx")
 flanders_kindergartens = pd.read_csv(r'V:\GIS_DATABASE\raw_data\education\childcare\BEL\flanders\vestigingsplaatsen-van-scholen-kleuteronderwijs (1).csv', delimiter=';')
 
 # ### Flanders Nurseries ###
 
-# flanders_nurseries.rename(columns={
-#     'Dag': 'ref_date',
-#     'Legal Form provider': 'sector',
-#     'Naam locatie': 'name', 
-#     'Straat - huisnummer - busnummer locatie': 'street_address',
-#     'Postcode locatie': 'postal_code', 
-#     'Gemeente locatie': 'region', 
-#     '# of places': 'students'}, inplace=True)
-# flanders_nurseries['address'] = (flanders_nurseries['street_address'].astype(str) + ', ' + flanders_nurseries['postal_code'].astype(str) + ' ' + flanders_nurseries['region'].astype(str))
-# columns_to_keep = ['ref_date', 'sector', 'name', 'address', 'students']
-# flanders_nurseries = flanders_nurseries[columns_to_keep]
+flanders_nurseries.rename(columns={
+    'Dag': 'ref_date',
+    'Legal Form provider': 'sector',
+    'Naam locatie': 'name', 
+    'Straat - huisnummer - busnummer locatie': 'street_address',
+    'Postcode locatie': 'postal_code', 
+    'Gemeente locatie': 'region', 
+    '# of places': 'students'}, inplace=True)
+flanders_nurseries['address'] = (flanders_nurseries['street_address'].astype(str) + ', ' + flanders_nurseries['postal_code'].astype(str) + ' ' + flanders_nurseries['region'].astype(str))
+columns_to_keep = ['ref_date', 'sector', 'name', 'address', 'students']
+flanders_nurseries = flanders_nurseries[columns_to_keep]
 
-# flanders_nurseries['isced'] = 'ISCED11_0'
-# flanders_nurseries['isced_detailed'] = 'ISCED11_01'
-# flanders_nurseries['level_or'] = 'kinderdagverblijven'
+flanders_nurseries['isced'] = 'ISCED11_0'
+flanders_nurseries['isced_detailed'] = 'ISCED11_01'
+flanders_nurseries['level_or'] = 'kinderdagverblijven'
 
 ### Flanders Kindergartens ###
 

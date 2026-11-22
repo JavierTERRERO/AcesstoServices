@@ -1,0 +1,502 @@
+id,name,level_en,level_or,isced,isced_detailed,sector,students,lat,lon,ref_date,geom,latest
+4213900381,Aglona secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,170,56.13466828,26.99790718,2023,POINT (26.99790718 56.13466828),True
+4513903124,Aizkraukle secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,816,56.60040424,25.2611465,2023,POINT (25.2611465 56.60040424),True
+4511900989,Aizkraukle primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,95,56.61617685,25.21912521,2023,POINT (25.21912521 56.61617685),True
+4112901031,Aizpute basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,95,56.71242552,21.55468794,2023,POINT (21.55468794 56.71242552),True
+4113901044,Aizpute secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,495,56.72041518,21.60999163,2023,POINT (21.60999163 56.72041518),True
+4512900847,Aizupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,257,56.65204286,23.6285363,2023,POINT (23.6285363 56.65204286),True
+4513900255,Akniste secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,220,56.16300637,25.73613903,2023,POINT (25.73613903 56.16300637),True
+4412903320,Aleksejs Gravitis Liepna basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,103,57.34476673,27.46756948,2023,POINT (27.46756948 57.34476673),True
+4312901109,Allazi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,214,57.05784228,24.84726305,2023,POINT (24.84726305 57.05784228),True
+4413900157,Aloja Ausekļa secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,253,57.76458626,24.87689271,2023,POINT (24.87689271 57.76458626),True
+4112903485,Alsunga basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,160,56.97825044,21.56849276,2023,POINT (21.56849276 56.97825044),True
+4413902870,Aluksne secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,332,57.41387736,27.05798782,2023,POINT (27.05798782 57.41387736),True
+4411900920,Aluksne city primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,347,57.4208589,27.04302256,2023,POINT (27.04302256 57.4208589),True
+4412900328,Amata basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,169,57.2049751,25.16517031,2023,POINT (25.16517031 57.2049751),True
+4112900052,Ance basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,38,57.5131668,22.02298677,2023,POINT (22.02298677 57.5131668),True
+4412903551,Andrejs Eglitis Laudona basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,124,56.70383119,26.19708167,2023,POINT (26.19708167 56.70383119),True
+3612900689,Andrejs Pumpurs Riga 11.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,692,56.93299592,24.16134137,2023,POINT (24.16134137 56.93299592),True
+4513900975,Andreja Upisa Skriveru secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,418,56.64692815,25.12113386,2023,POINT (25.12113386 56.64692815),True
+4212900568,Andrupene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,40,56.18834163,27.39738052,2023,POINT (27.39738052 56.18834163),True
+4512903043,Anna Brigadere basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,255,56.51870466,23.33320781,2023,POINT (23.33320781 56.51870466),True
+4112903172,Atis Kronvalds basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,164,56.58738524,21.37154529,2023,POINT (21.37154529 56.58738524),True
+4513900885,Auce secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,467,56.45780909,22.8974113,2023,POINT (22.8974113 56.45780909),True
+4512903390,Augstkalne basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,163,56.40487306,23.33389665,2023,POINT (23.33389665 56.40487306),True
+4411903221,Augsligatne New primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,87,57.18849262,25.05485087,2023,POINT (25.05485087 57.18849262),True
+4512900267,Abeli basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,178,56.47736382,25.9182641,2023,POINT (25.9182641 56.47736382),True
+4313901280,Adazi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,2121,57.07872812,24.33951598,2023,POINT (24.33951598 57.07872812),True
+3511900641,Agenskalns primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,502,56.94948649,24.05097205,2023,POINT (24.05097205 56.94948649),True
+4313901118,Babite secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1315,56.94248595,23.91229768,2023,POINT (23.91229768 56.94248595),True
+4311903461,Baldone primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,71,56.74797955,24.40009048,2023,POINT (24.40009048 56.74797955),True
+4313901125,Baldone secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,599,56.74228209,24.3895562,2023,POINT (24.3895562 56.74228209),True
+4313902363,Balozi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,893,56.87710344,24.11682272,2023,POINT (24.11682272 56.87710344),True
+4213900440,Baltinava secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,149,56.9419636,27.64310802,2023,POINT (27.64310802 56.9419636),True
+4211903357,Balvi primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,459,57.13028232,27.26235482,2023,POINT (27.26235482 57.13028232),True
+4412900126,Barkava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,158,56.72645085,26.60689982,2023,POINT (26.60689982 56.72645085),True
+4412900178,Baumanis Karlis Vilkene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,97,57.61473091,24.59774685,2023,POINT (24.59774685 57.61473091),True
+4513901295,Bauska 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,717,56.40976157,24.19490766,2023,POINT (24.19490766 56.40976157),True
+4512901315,Bauska city basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,323,56.41194227,24.19268678,2023,POINT (24.19268678 56.41194227),True
+4519901296,Bauska State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,819,56.40585192,24.1837466,2023,POINT (24.1837466 56.40585192),True
+4213903005,Bebrene professional and general secondary school,Primary and lower secondary education,Secondary school,ISCED11_1_2,ISCED11_1_2,Public,80,56.06899291,26.13132185,2023,POINT (26.13132185 56.06899291),True
+4512900987,Babri basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,120,56.72012271,25.49003521,2023,POINT (25.49003521 56.72012271),True
+4412900909,Beja basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,53,57.39699236,27.21237081,2023,POINT (27.21237081 57.39699236),True
+4312902828,Bergi Music and Art basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,550,56.98220411,24.33568755,2023,POINT (24.33568755 56.98220411),True
+4512903494,Bene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,121,56.48321823,23.07181452,2023,POINT (23.07181452 56.48321823),True
+4412900125,Berzaune basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,107,56.80239868,26.02712819,2023,POINT (26.02712819 56.80239868),True
+4212903463,Berzpils basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,80,56.84770333,27.08373977,2023,POINT (27.08373977 56.84770333),True
+4512900867,Biksti basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,104,56.69411118,22.97134677,2023,POINT (22.97134677 56.69411118),True
+4212900504,Bikernieki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,119,55.97182879,26.82054267,2023,POINT (26.82054267 55.97182879),True
+4412901216,Bilska basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,90,57.48745212,25.98633494,2023,POINT (25.98633494 57.48745212),True
+4412901328,Birzgale basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,132,56.62989986,24.75981849,2023,POINT (24.75981849 56.62989986),True
+4512903237,Birzi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,146,56.41098158,25.774461,2023,POINT (25.774461 56.41098158),True
+4112900414,Blidene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,132,56.64979052,22.79790494,2023,POINT (22.79790494 56.64979052),True
+4412901209,Blome basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,114,57.43733165,25.77695267,2023,POINT (25.77695267 57.43733165),True
+4411900650,Breguli primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,37,57.54703388,25.54714759,2023,POINT (25.54714759 57.54703388),True
+4113901049,Broceni secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,553,56.68262033,22.56236076,2023,POINT (22.56236076 56.68262033),True
+4412903106,Burtnieki Ausekli basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,84,57.67414497,25.2682256,2023,POINT (25.2682256 57.67414497),True
+4312901110,Carnikava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,524,57.12888687,24.2718126,2023,POINT (24.2718126 57.12888687),True
+4413900133,Cesvaine secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,283,56.96629246,26.31652126,2023,POINT (26.31652126 56.96629246),True
+4112900231,Cere basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,79,57.1081444,22.86755864,2023,POINT (22.86755864 57.1081444),True
+4412900314,Cesis 1.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,384,57.31353199,25.27936347,2023,POINT (25.27936347 57.31353199),True
+4412900331,Cesis 2.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,505,57.31353199,25.27936347,2023,POINT (25.27936347 57.31353199),True
+4411901845,Cesis city Pastarins primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,387,57.31353199,25.27936347,2023,POINT (25.27936347 57.31353199),True
+4413903078,Cesis City secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,732,57.31353199,25.27936347,2023,POINT (25.27936347 57.31353199),True
+4213900473,Cibla secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,92,56.54454043,27.8785723,2023,POINT (27.8785723 56.54454043),True
+4112901332,Ciecere basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,169,56.66584785,22.50732794,2023,POINT (22.50732794 56.66584785),True
+4512901308,Code basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,153,56.46822148,24.16744118,2023,POINT (24.16744118 56.46822148),True
+4213900573,Dagda secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,332,56.09770237,27.53314293,2023,POINT (27.53314293 56.09770237),True
+4512900981,Daudzese basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,83,56.48064169,25.21743733,2023,POINT (25.21743733 56.48064169),True
+2712902175,Daugavpils 11.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,222,55.89262945,26.56242133,2023,POINT (26.56242133 55.89262945),True
+2713902243,Daugavpils Center secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1192,55.87486844,26.5167368,2023,POINT (26.5167368 55.87486844),True
+2713903514,Daugavpils Friedly Appeal secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1854,55.904317,26.5302891,2023,POINT (26.5302891 55.904317),True
+2713903512,Daugavpils Opportunities secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1655,55.8835505,26.55492515,2023,POINT (26.55492515 55.8835505),True
+2712901237,Daugavpils Harmony basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,569,55.87091404,26.51159409,2023,POINT (26.51159409 55.87091404),True
+2713901229,Daugavpils Technology secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,717,55.87809843,26.54835962,2023,POINT (26.54835962 55.87809843),True
+2713903515,Daugavpils State City secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1445,55.87127713,26.54677375,2023,POINT (26.54677375 55.87127713),True
+2712902233,Daugavpils Unit basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,530,55.86990504,26.5191215,2023,POINT (26.5191215 55.86990504),True
+2713903513,Daugavpils Science secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1748,55.86996654,26.53171545,2023,POINT (26.53171545 55.86996654),True
+4312901117,Daugmale basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,237,56.81750565,24.42751448,2023,POINT (24.42751448 56.81750565),True
+4412903460,Davis Ozolins basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,132,57.54064602,26.70515743,2023,POINT (26.70515743 57.54064602),True
+4412900124,Degumnieki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,84,56.79727779,26.74751791,2023,POINT (26.74751791 56.79727779),True
+4212901166,Deksari basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,42,56.5720901,26.80194799,2023,POINT (26.80194799 56.5720901),True
+4512900270,Dignaji basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,64,56.32227127,26.15799157,2023,POINT (26.15799157 56.32227127),True
+4513900890,Dobele 1.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,790,56.61968992,23.27412172,2023,POINT (23.27412172 56.61968992),True
+4511903252,Dobele primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,322,56.61400583,23.28794882,2023,POINT (23.28794882 56.61400583),True
+4412903194,Drabesi New basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,173,57.27937626,25.24630823,2023,POINT (25.24630823 57.27937626),True
+3013900932,Friendly Appel Liepaja city 5.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1250,56.52096744,21.01734682,2023,POINT (21.01734682 56.52096744),True
+4213901150,Dricani secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,203,56.64964567,27.19831103,2023,POINT (27.19831103 56.64964567),True
+4113900415,Druva secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,482,56.69715136,22.44416954,2023,POINT (22.44416954 56.69715136),True
+4113900621,Dundaga secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,313,57.50719849,22.34826907,2023,POINT (22.34826907 57.50719849),True
+4412900123,Dzelzava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,77,57.00025147,26.43364099,2023,POINT (26.43364099 57.00025147),True
+4412903241,Dzerbene general and music basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,158,57.18945135,25.67311586,2023,POINT (25.67311586 57.18945135),True
+4112901027,Dzerve basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,69,56.75042574,21.40341788,2023,POINT (21.40341788 56.75042574),True
+4112900235,Dzukste basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,165,56.79423713,23.2462245,2023,POINT (23.2462245 56.79423713),True
+4413901694,Edgars Kaulins Lielvarde secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,489,56.713737,24.81939921,2023,POINT (24.81939921 56.713737),True
+4212900422,Eglaine basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,80,56.92211648,27.07701349,2023,POINT (27.07701349 56.92211648),True
+4513900859,Eleja secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,324,56.40893891,23.68767275,2023,POINT (23.68767275 56.40893891),True
+4113900228,Engure secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,236,57.16275419,23.22229405,2023,POINT (23.22229405 57.16275419),True
+4112903134,Ezere basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,128,56.40395661,22.36150973,2023,POINT (22.36150973 56.40395661),True
+4212903527,Ezernieki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,136,56.18386773,27.64405723,2023,POINT (27.64405723 56.18386773),True
+4112901194,Edole basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,99,57.01820481,21.6817104,2023,POINT (21.6817104 57.01820481),True
+4413900131,Ergli secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,220,56.90210977,25.64570168,2023,POINT (25.64570168 56.90210977),True
+4412901220,Ergeme basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,163,57.80814773,25.82788435,2023,POINT (25.82788435 57.80814773),True
+4212901145,Feimanis basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,74,56.27121773,27.03940589,2023,POINT (27.03940589 56.27121773),True
+3812900716,Fricis Brivzemnieks basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,514,56.93571887,24.07487324,2023,POINT (24.07487324 56.93571887),True
+4212902240,Gaigalava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,64,56.73515016,27.06534274,2023,POINT (27.06534274 56.73515016),True
+4112900078,Gaiki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,102,56.78468931,22.56505079,2023,POINT (22.56505079 56.78468931),True
+4212900364,Galeni basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,104,56.47444581,26.84509242,2023,POINT (26.84509242 56.47444581),True
+4512900874,Gardene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,173,56.64945625,23.22404399,2023,POINT (23.22404399 56.64945625),True
+4312903195,Garkalne Art and general basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,302,57.04686548,24.42386028,2023,POINT (24.42386028 57.04686548),True
+4312900169,Garlibs Merkelis Ledurga basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,112,57.31876071,24.75803332,2023,POINT (24.75803332 57.31876071),True
+4512900860,Garoza basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,127,56.63865172,23.94545043,2023,POINT (23.94545043 56.63865172),True
+4512901306,Griki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,199,56.36929842,24.28817489,2023,POINT (24.28817489 56.36929842),True
+4412901221,Grindzale basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,159,57.45662781,26.26647192,2023,POINT (26.26647192 57.45662781),True
+4413903373,Gulbene secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1120,57.17152604,26.76740274,2023,POINT (26.76740274 57.17152604),True
+4412903166,Gulbitis basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,57,57.07715373,26.63206834,2023,POINT (26.63206834 57.07715373),True
+4512903301,Iecava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,173,56.59826561,24.20386729,2023,POINT (24.20386729 56.59826561),True
+4513901291,Iecava secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,802,56.59946752,24.21352814,2023,POINT (24.21352814 56.59946752),True
+4413900190,Ikskile secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1224,56.83592975,24.49413565,2023,POINT (24.49413565 56.83592975),True
+4513901334,Ilmars Gaiss Koknese secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,405,56.64452853,25.42455001,2023,POINT (25.42455001 56.64452853),True
+4213903225,Ilukste Raina secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,432,55.9834126,26.28743956,2023,POINT (26.28743956 55.9834126),True
+4312901339,Incukalns basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,323,57.1013066,24.68202694,2023,POINT (24.68202694 57.1013066),True
+4212903083,Indra basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,67,55.87805322,27.54068389,2023,POINT (27.54068389 55.87805322),True
+4112903535,Indrikis Zeberins Kuldiga basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,373,56.96280216,21.98367884,2023,POINT (21.98367884 56.96280216),True
+4112903217,Irlava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,166,56.86969374,23.003501,2023,POINT (23.003501 56.86969374),True
+4512903251,islice basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,193,56.34839827,24.10931399,2023,POINT (24.10931399 56.34839827),True
+3013900925,J.Cakste Liepaja city 10.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,887,56.50405546,21.00436031,2023,POINT (21.00436031 56.50405546),True
+4412900640,J.Endzelina Kauguri basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,124,57.49426236,25.44965034,2023,POINT (25.44965034 57.49426236),True
+2712903472,J.Rainis Daugavpils 6.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,329,55.86448088,26.50271454,2023,POINT (26.50271454 55.86448088),True
+3613903047,J.G.Herdera Riga Grizinkalna secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,709,56.95817974,24.15109169,2023,POINT (24.15109169 56.95817974),True
+2713903490,J.Pilsudka Daugavpils state polish gymnasuim,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,464,55.87104038,26.5394258,2023,POINT (26.5394258 55.87104038),True
+3612900249,Janka Kupala Riga Belarusian basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,144,56.93636697,24.19615264,2023,POINT (24.19615264 56.93636697),True
+4412902908,Jaunanna Music and art basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,62,57.28080389,27.06835025,2023,POINT (27.06835025 57.28080389),True
+3912900813,Jaunciems basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,231,57.04194806,24.17584644,2023,POINT (24.17584644 57.04194806),True
+4513901040,Jaunjelgava secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,184,56.61114954,25.08262262,2023,POINT (25.08262262 56.61114954),True
+4312903031,Jaunmarupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,1035,56.87955624,23.94840549,2023,POINT (23.94840549 56.87955624),True
+4413900337,New Leader secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,160,57.23460382,25.03449053,2023,POINT (25.03449053 57.23460382),True
+1713901327,Jaunogre secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,528,56.82457364,24.59407694,2023,POINT (24.59407694 56.82457364),True
+4413900339,Jaunpiebalga secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,375,57.16736671,26.01889432,2023,POINT (26.01889432 57.16736671),True
+4113900207,Jaunpils secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,313,56.73153329,23.00722994,2023,POINT (23.00722994 56.73153329),True
+4212900366,Jaunsilava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,155,56.39022007,26.1592859,2023,POINT (26.1592859 56.39022007),True
+2811902954,Jelgava 4.primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,1025,56.63923676,23.71862909,2023,POINT (23.71862909 56.63923676),True
+2813900137,Jelgava 4.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1265,56.66255748,23.75725343,2023,POINT (23.75725343 56.66255748),True
+2813900138,Jelgava 5.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,759,56.65046171,23.69736203,2023,POINT (23.69736203 56.65046171),True
+2812903293,jelgava Center basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,862,56.65525146,23.72434992,2023,POINT (23.72434992 56.65525146),True
+4515900863,Jelgava Distant learning secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,310,56.65119052,23.72304352,2023,POINT (23.72304352 56.65119052),True
+2812903442,Jelgava Parlielupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,737,56.67041606,23.75007988,2023,POINT (23.75007988 56.67041606),True
+2813902959,Jelgava Technology secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1155,56.65709106,23.70844062,2023,POINT (23.70844062 56.65709106),True
+4212900365,Jersika basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,109,56.25415696,26.20230631,2023,POINT (26.20230631 56.25415696),True
+1013900258,Jekabpils 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1454,56.49391115,25.85848262,2023,POINT (25.85848262 56.49391115),True
+1013900259,Jekabpils 3.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,641,56.50650361,25.88890122,2023,POINT (25.88890122 56.50650361),True
+4412903236,Jumprava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,176,56.67221443,24.97413839,2023,POINT (24.97413839 56.67221443),True
+4412900648,Juris Neikens Diklu basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,181,57.59779096,25.0732705,2023,POINT (25.0732705 57.59779096),True
+2912903439,Jurmala Aspazija basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,410,56.98150715,23.86258473,2023,POINT (23.86258473 56.98150715),True
+2912903509,Jurmala Jaundubulti basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,324,56.96287139,23.76107223,2023,POINT (23.76107223 56.96287139),True
+2913901344,Jurmala Kauguri secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,764,56.96154518,23.61230204,2023,POINT (23.61230204 56.96154518),True
+2912903110,Jurmala Kemeri basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,133,56.94098972,23.49021006,2023,POINT (23.49021006 56.94098972),True
+2913901352,Jurmala Majoru secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,471,56.97010518,23.80472723,2023,POINT (23.80472723 56.97010518),True
+2912903508,Jurmala Mezmali basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,380,56.95743136,23.62156465,2023,POINT (23.62156465 56.95743136),True
+2913901346,Jurmala Pumpuri secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,925,56.96100862,23.73625296,2023,POINT (23.73625296 56.96100862),True
+2912901441,Jurmala Vaivari basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,220,56.95965621,23.66365633,2023,POINT (23.66365633 56.95965621),True
+2919902697,Jurmala State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,984,56.95311094,23.61094251,2023,POINT (23.61094251 56.95311094),True
+4112903259,Kaleti Music and art basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,165,56.36140772,21.47798865,2023,POINT (21.47798865 56.36140772),True
+4512903510,Kalnciems basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,89,56.80110224,23.61147393,2023,POINT (23.61147393 56.80110224),True
+4513900858,Kalnciems secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,329,56.80879376,23.62508589,2023,POINT (23.62508589 56.80879376),True
+4412900122,Kalsnava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,93,56.68839254,25.97100282,2023,POINT (25.97100282 56.68839254),True
+4212900502,Kalupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,77,56.09763528,26.54753287,2023,POINT (26.54753287 56.09763528),True
+4112901020,Kalvene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,72,56.60402637,21.73029786,2023,POINT (21.73029786 56.60402637),True
+4113900205,Kandava Karlis Milenbahs secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,405,57.03639575,22.76805188,2023,POINT (22.76805188 57.03639575),True
+4112903493,Kandava Regional basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,240,57.03865624,22.7719882,2023,POINT (22.7719882 57.03865624),True
+4213901076,Kaunata secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,200,56.33191567,27.5417756,2023,POINT (27.5417756 56.33191567),True
+4213902516,Karsava secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,276,56.78077447,27.69082752,2023,POINT (27.69082752 56.78077447),True
+4412900647,Koceni basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,308,57.52282806,25.33439824,2023,POINT (25.33439824 57.52282806),True
+4112900615,Kolka basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,49,57.74000071,22.58595066,2023,POINT (22.58595066 57.74000071),True
+4212900569,Kraslava Platers Polish gymnasium,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,39,55.9007413,27.1779302,2023,POINT (27.1779302 55.9007413),True
+4213903488,Kraslava gymnasuim,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,596,55.90144441,27.16069491,2023,POINT (27.16069491 55.90144441),True
+4213900576,Kraslava Rainbow secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,363,55.89278617,27.17877503,2023,POINT (27.17877503 55.89278617),True
+4313901119,Krimulda secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,426,57.18224326,24.69772716,2023,POINT (24.69772716 57.18224326),True
+4412900160,Krisjanis Valdemars Ainazi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,102,57.86403182,24.35451087,2023,POINT (24.35451087 57.86403182),True
+4112901033,Krote Kronvalds Atis basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,110,56.54162792,21.54457993,2023,POINT (21.54457993 56.54162792),True
+1012900275,Krustpils basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,258,56.52229034,25.86742323,2023,POINT (25.86742323 56.52229034),True
+4113901192,Kuldiga Center secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,674,56.96635684,21.96524838,2023,POINT (21.96524838 56.96635684),True
+4113901189,Kuldiga Art and Humanities secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,272,56.97091374,21.96504113,2023,POINT (21.96504113 56.97091374),True
+4412900120,Kusa basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,57,56.89785348,26.12874953,2023,POINT (26.12874953 56.89785348),True
+4413900201,Keguma secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,413,56.74707587,24.71405776,2023,POINT (24.71405776 56.74707587),True
+4412900196,Keipene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,109,56.89072486,25.18433514,2023,POINT (25.18433514 56.89072486),True
+4313901079,Kekava secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1632,56.82671703,24.23031947,2023,POINT (24.23031947 56.82671703),True
+4112900208,Lapmezciems basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,270,57.00009861,23.51560562,2023,POINT (23.51560562 57.00009861),True
+4212903120,Laucese basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,134,55.82181984,26.59739656,2023,POINT (26.59739656 55.82181984),True
+4112900594,Lauciene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,125,57.22717567,22.75080249,2023,POINT (22.75080249 57.22717567),True
+4411901211,Launkalne primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,57,57.32890203,25.85757546,2023,POINT (25.85757546 57.32890203),True
+4311902928,Laurenci primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,431,57.1406469,24.81837292,2023,POINT (24.81837292 57.1406469),True
+4412900119,Lazdona basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,59,56.82886,26.23194217,2023,POINT (26.23194217 56.82886),True
+4212900506,Laci basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,148,55.94201746,26.65046415,2023,POINT (26.65046415 55.94201746),True
+4412900167,Ladezers basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,136,57.42151814,24.69988236,2023,POINT (24.69988236 57.42151814),True
+4412903531,Lejaciems basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,124,57.27880084,26.57483282,2023,POINT (26.57483282 57.27880084),True
+4511903050,Lejasstrazdi primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,69,56.66004908,23.30964233,2023,POINT (23.30964233 56.66004908),True
+4412901329,Ledmane basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,155,56.76821602,24.9972923,2023,POINT (24.9972923 56.76821602),True
+4412900195,Lielvards basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,396,56.73208652,24.8035671,2023,POINT (24.8035671 56.73208652),True
+4412900324,Liepa basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,159,57.38666585,25.42112837,2023,POINT (25.42112837 57.38666585),True
+3012900937,Liepaja 3.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,372,56.55050646,21.02456253,2023,POINT (21.02456253 56.55050646),True
+3013900934,Liepaja 7.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,682,56.53446051,21.00818802,2023,POINT (21.00818802 56.53446051),True
+3013900924,Liepaja 8.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,546,56.48081436,21.01818645,2023,POINT (21.01818645 56.48081436),True
+3011902612,Liepaja Center primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,515,56.50969469,20.99985842,2023,POINT (20.99985842 56.50969469),True
+3011900940,Liepaja Ezerkrasti primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,303,56.49368635,21.02218908,2023,POINT (21.02218908 56.49368635),True
+3013903300,Liepaja Seashore secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,887,56.49087036,21.00180096,2023,POINT (21.00180096 56.49087036),True
+3013900933,Liepaja Rainis 6.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,846,56.49734715,21.01599497,2023,POINT (21.01599497 56.49734715),True
+4412903215,Liepupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,127,57.46732733,24.46155917,2023,POINT (24.46155917 57.46732733),True
+4412900117,Lielezers basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,116,56.98129482,26.05063849,2023,POINT (26.05063849 56.98129482),True
+4419903385,Limbazi State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,656,57.50749101,24.71270675,2023,POINT (24.71270675 57.50749101),True
+4413901881,Limbazi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,552,57.50629743,24.71016551,2023,POINT (24.71016551 57.50629743),True
+4412903532,Lizums basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,211,57.19245225,26.37192473,2023,POINT (26.37192473 57.19245225),True
+4111900602,Lībagu primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,93,57.18724872,22.5603718,2023,POINT (22.5603718 57.18724872),True
+4213900374,Livani 1.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,513,56.358144,26.17172285,2023,POINT (26.17172285 56.358144),True
+4212903549,Livani basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,143,56.3599592,26.17235173,2023,POINT (26.17235173 56.3599592),True
+4512903193,Livberze basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,179,56.69001723,23.49009038,2023,POINT (23.49009038 56.69001723),True
+4413900130,Lubana secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,161,56.90328051,26.71814109,2023,POINT (26.71814109 56.90328051),True
+4213900475,Ludza 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,519,56.53855422,27.7177698,2023,POINT (27.7177698 56.53855422),True
+4212900459,Ludza Music basic school,Primary education,Basic school,ISCED11_1,ISCED11_1,Public,83,56.54310179,27.72015597,2023,POINT (27.72015597 56.54310179),True
+4213903466,Ludza city secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,491,56.54121799,27.71686278,2023,POINT (27.71686278 56.54121799),True
+4112900012,Lutrini basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,68,56.73066058,22.39640291,2023,POINT (22.39640291 56.73066058),True
+4213901078,Lucija Rancane Makasani Vocational secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,69,56.58394497,27.31593631,2023,POINT (27.31593631 56.58394497),True
+4413900188,Madliena secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,219,56.84804657,25.1476038,2023,POINT (25.1476038 56.84804657),True
+4413903190,Madona city secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,982,56.85529714,26.21709658,2023,POINT (26.21709658 56.85529714),True
+4412900908,Maliena basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,56,57.36561274,27.16374219,2023,POINT (27.16374219 57.36561274),True
+4213903054,Malta secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,524,56.34730603,27.15699489,2023,POINT (27.15699489 56.34730603),True
+4412900636,Matisi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,72,57.69511226,25.15223562,2023,POINT (25.15223562 57.69511226),True
+4413903126,Mazsalaca secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,243,57.86392102,25.03295224,2023,POINT (25.03295224 57.86392102),True
+4512900978,Mazzalve basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,116,56.36477896,25.01727634,2023,POINT (25.01727634 56.36477896),True
+4313902967,Malpils secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,398,57.00513712,24.95753958,2023,POINT (24.95753958 57.00513712),True
+4311902782,Marupe Skulte primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,133,56.91975619,23.95384947,2023,POINT (23.95384947 56.91975619),True
+4312901121,Marupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,995,56.88503325,24.06427417,2023,POINT (24.06427417 56.88503325),True
+4319903318,Marupe State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,1469,56.91879451,24.03611768,2023,POINT (24.03611768 56.91879451),True
+4112901019,Maters Juris Kazdanga basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,115,56.72445186,21.73165771,2023,POINT (21.73165771 56.72445186),True
+3712900760,Mazciems basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,848,56.96162728,24.23737374,2023,POINT (24.23737374 56.96162728),True
+4512900881,Mezinieks basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,121,56.743285,23.39221001,2023,POINT (23.39221001 56.743285),True
+4212900463,Mazvidi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,62,56.69443957,27.52848494,2023,POINT (27.52848494 56.69443957),True
+4212900452,Merdzene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,112,56.68515723,27.7512923,2023,POINT (27.7512923 56.68515723),True
+4113900624,Mersrags secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,133,57.34468414,23.11087936,2023,POINT (23.11087936 57.34468414),True
+4111900252,Milzkalne primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,87,56.97866249,23.2272965,2023,POINT (23.2272965 56.97866249),True
+4512903359,Misa basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,159,56.58946129,24.39351836,2023,POINT (24.39351836 56.58946129),True
+4312900327,More basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,137,57.08173593,25.08198263,2023,POINT (25.08198263 57.08173593),True
+4212900511,Naujiene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,91,55.9360773,26.75552518,2023,POINT (26.75552518 55.9360773),True
+4413902802,Naukseni secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,202,57.8850491,25.4614815,2023,POINT (25.4614815 57.8850491),True
+4213901152,Nautreni secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,185,56.71068153,27.41803373,2023,POINT (27.41803373 56.71068153),True
+4513900971,Nereta Janis Jaunsudrabins secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,160,56.20033423,25.31165891,2023,POINT (25.31165891 56.20033423),True
+4113900998,Nica secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,392,56.34618337,21.06891139,2023,POINT (21.06891139 56.34618337),True
+4113900416,Nigrande Mountain secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,126,56.44414215,22.12421146,2023,POINT (22.12421146 56.44414215),True
+4112901185,Nikrace basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,91,56.57085371,21.90148519,2023,POINT (21.90148519 56.57085371),True
+4412903441,Nitaure music and art basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,77,57.06854611,25.18630687,2023,POINT (25.18630687 57.06854611),True
+3612900688,O.Kalpaks Riga Community vocational basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,561,56.94498347,24.1316178,2023,POINT (24.1316178 56.94498347),True
+1713900189,Ogre 1.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1271,56.81744772,24.61036545,2023,POINT (24.61036545 56.81744772),True
+1712903520,Ogre Center basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,868,56.82195203,24.60660103,2023,POINT (24.60660103 56.82195203),True
+4412900194,Ogresgals basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,151,56.80558669,24.72977579,2023,POINT (24.72977579 56.80558669),True
+4412903128,Ojars Vacietis Gaujiena basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,123,57.51111506,26.40078294,2023,POINT (26.40078294 57.51111506),True
+4313901122,Olaine 1.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1253,56.78790296,23.94187339,2023,POINT (23.94187339 56.78790296),True
+4313901129,Olaine 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,697,56.78234795,23.93479851,2023,POINT (23.93479851 56.78234795),True
+3013900931,Oskars Kalpaks Liepaja 15.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,954,56.54042058,21.00451747,2023,POINT (21.00451747 56.54042058),True
+4513900856,Ozolnieki secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,762,56.69426875,23.76338182,2023,POINT (23.76338182 56.69426875),True
+4412901218,Palsmane basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,130,57.38861637,26.17844805,2023,POINT (26.17844805 57.38861637),True
+3412900804,"Basic school ""Ridze""",Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,548,56.95361555,24.10722413,2023,POINT (24.10722413 56.95361555),True
+4112900595,Pastende basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,161,57.22390228,22.51956649,2023,POINT (22.51956649 57.22390228),True
+4412900171,Pale basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,85,57.69573095,24.67349702,2023,POINT (24.67349702 57.69573095),True
+4112903363,Pavilosta basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,79,56.88267012,21.20293325,2023,POINT (21.20293325 56.88267012),True
+4212900367,Peleci basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,68,56.14962152,26.71945208,2023,POINT (26.71945208 56.14962152),True
+4512900878,Penkule basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,131,56.48543946,23.19469068,2023,POINT (23.19469068 56.48543946),True
+4511903092,Pērse primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,37,56.79320279,25.59440036,2023,POINT (25.59440036 56.79320279),True
+4212900453,Pilda basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,86,56.40655133,27.74492536,2023,POINT (27.74492536 56.40655133),True
+4513901324,Pilsrundale secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,344,56.41958174,24.01611196,2023,POINT (24.01611196 56.41958174),True
+4112903458,Piltene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,116,57.22518775,21.67496716,2023,POINT (21.67496716 57.22518775),True
+4513903465,Plavini secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,416,56.61865338,25.73853428,2023,POINT (25.73853428 56.61865338),True
+4311901108,Plavniekkalns primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,184,56.87053968,24.18566848,2023,POINT (24.18566848 56.87053968),True
+4112900049,Pope basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,69,57.40534124,21.85747821,2023,POINT (21.85747821 57.40534124),True
+4412900111,Prauliena basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,108,56.82428015,26.30434793,2023,POINT (26.30434793 56.82428015),True
+4212900356,Preili 1.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,512,56.29125308,26.72211409,2023,POINT (26.72211409 56.29125308),True
+4213900386,Preili 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,191,56.28829282,26.72498153,2023,POINT (26.72498153 56.28829282),True
+4211903529,Preili Sala primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,33,56.42018497,26.6750312,2023,POINT (26.6750312 56.42018497),True
+4113901000,Priekule secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,242,56.4391369,21.5812955,2023,POINT (21.5812955 56.4391369),True
+4413900336,Priekuli secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,377,57.31345038,25.36139649,2023,POINT (25.36139649 57.31345038),True
+4212902579,Priezmala basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,57,56.15322289,27.2108103,2023,POINT (27.2108103 56.15322289),True
+3913900821,Puskins lyceum,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,562,56.99878715,24.1247061,2023,POINT (24.1247061 56.99878715),True
+4112900054,Puze basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,91,57.35466131,22.06275424,2023,POINT (22.06275424 57.35466131),True
+4112900612,Puni basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,102,57.34588286,22.49077139,2023,POINT (22.49077139 57.34588286),True
+4112900227,Pure basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,264,57.03333333,22.93835091,2023,POINT (22.93835091 57.03333333),True
+4212900498,Randene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,67,55.85216554,26.46102451,2023,POINT (26.46102451 55.85216554),True
+4412900955,Ranka basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,87,57.20635577,26.18117701,2023,POINT (26.18117701 57.20635577),True
+4412903467,Rauna basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,316,57.3302083,25.61526755,2023,POINT (25.61526755 57.3302083),True
+4412900319,Ramuli basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,76,57.31353199,25.27936347,2023,POINT (25.27936347 57.31353199),True
+4213900437,Rekava secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,172,57.04161855,27.6190035,2023,POINT (27.6190035 57.04161855),True
+4412900645,Renceni basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,155,57.73334286,25.42974609,2023,POINT (25.42974609 57.73334286),True
+3113900062,Rēzeknes 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,519,56.50704358,27.33353887,2023,POINT (27.33353887 56.50704358),True
+3112903518,Rezekne 3.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,347,56.50982442,27.33497586,2023,POINT (27.33497586 56.50982442),True
+3113903386,Rēzeknes 4.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,349,56.5030578,27.32221015,2023,POINT (27.32221015 56.5030578),True
+3112903519,Rezekne 5.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,466,56.52579726,27.34912139,2023,POINT (27.34912139 56.52579726),True
+3112903443,Rezekne 6.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,473,56.52281357,27.34502765,2023,POINT (27.34502765 56.52281357),True
+3111903094,Rezekne primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,463,56.50495178,27.33835978,2023,POINT (27.33835978 56.50495178),True
+3113903491,Rēzeknes state polish gymnasuim,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,617,56.51598206,27.34192249,2023,POINT (27.34192249 56.51598206),True
+4212901165,Rēzne basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,74,56.43528392,27.55218868,2023,POINT (27.55218868 56.43528392),True
+4213900379,Riebini secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,152,56.33370564,26.7890044,2023,POINT (26.7890044 56.33370564),True
+3612903309,Riga 1.Christian basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,176,56.95398888,24.15107817,2023,POINT (24.15107817 56.95398888),True
+3913900824,Riga 10.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,859,56.96161588,24.11091443,2023,POINT (24.11091443 56.96161588),True
+3913900817,Riga 13.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,708,56.96214188,24.10541858,2023,POINT (24.10541858 56.96214188),True
+3613900677,Riga 15.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,562,56.94764073,24.13131498,2023,POINT (24.13131498 56.94764073),True
+3713900750,Riga 21.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,509,56.96757004,24.12838718,2023,POINT (24.12838718 56.96757004),True
+3413900799,Riga 22.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,727,56.95850635,24.12676225,2023,POINT (24.12676225 56.95850635),True
+3613900678,Riga 25.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,806,56.91132169,24.18245517,2023,POINT (24.18245517 56.91132169),True
+3913900826,Riga 31.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,662,57.03180126,24.10276514,2023,POINT (24.10276514 57.03180126),True
+3513900836,Riga 33.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,775,57.03376369,24.0525094,2023,POINT (24.0525094 57.03376369),True
+3513900765,Riga 34.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1271,56.95060783,24.05313795,2023,POINT (24.05313795 56.95060783),True
+3413900797,Riga 40.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,954,56.95427557,24.1219168,2023,POINT (24.1219168 56.95427557),True
+3513900768,Riga 41.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,838,56.95352402,24.06168808,2023,POINT (24.06168808 56.95352402),True
+3713900742,Riga 45.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1237,56.97961186,24.1740713,2023,POINT (24.1740713 56.97961186),True
+3912903541,Riga 46.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,366,57.03527323,24.11150475,2023,POINT (24.11150475 57.03527323),True
+3813900728,Riga 47.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,449,56.91599246,24.10296592,2023,POINT (24.10296592 56.91599246),True
+3713900751,Riga 49.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,868,56.96144453,24.12159571,2023,POINT (24.12159571 56.96144453),True
+3613900685,Riga 51.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,710,56.90793745,24.18051154,2023,POINT (24.18051154 56.90793745),True
+3613900684,Riga 6.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1051,56.95859986,24.14129913,2023,POINT (24.14129913 56.95859986),True
+3712903542,Riga 63.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,502,56.99074957,24.23845994,2023,POINT (24.23845994 56.99074957),True
+3713900756,Riga 64.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1453,56.96109766,24.18483269,2023,POINT (24.18483269 56.96109766),True
+3913903377,Riga 66.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,253,56.96517903,24.09996444,2023,POINT (24.09996444 56.96517903),True
+3512903449,Riga 69.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,483,56.95595557,24.02529447,2023,POINT (24.02529447 56.95595557),True
+3513900772,Riga 71.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,895,56.96267378,24.05239489,2023,POINT (24.05239489 56.96267378),True
+3613900670,Riga 72.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1269,56.90183129,24.20713226,2023,POINT (24.20713226 56.90183129),True
+3712903543,Riga 74.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,524,56.96215511,24.18426658,2023,POINT (24.18426658 56.96215511),True
+3613900682,Riga 75.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,509,56.92685388,24.16345445,2023,POINT (24.16345445 56.92685388),True
+3713900753,Riga 80.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,952,56.95815507,24.20245465,2023,POINT (24.20245465 56.95815507),True
+3713900735,Riga 84.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1235,56.95050461,24.20750051,2023,POINT (24.20750051 56.95050461),True
+3712903544,Riga 85.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,637,56.95446705,24.17292615,2023,POINT (24.17292615 56.95446705),True
+3613900683,Riga 86.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,690,56.93636697,24.19615264,2023,POINT (24.19615264 56.93636697),True
+3613900672,Riga 88.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1152,56.94353971,24.20108754,2023,POINT (24.20108754 56.94353971),True
+3713900752,Riga 89.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,754,56.96271733,24.23761123,2023,POINT (24.23761123 56.96271733),True
+3713903310,Riga 9.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,315,56.98036938,24.19873024,2023,POINT (24.19873024 56.98036938),True
+3613900679,Riga 92.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,970,56.94140947,24.21399015,2023,POINT (24.21399015 56.94140947),True
+3613900669,Riga 93.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,585,56.94481185,24.19162234,2023,POINT (24.19162234 56.94481185),True
+3813900727,Riga 95.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1120,56.90329832,24.08522416,2023,POINT (24.08522416 56.90329832),True
+3513900776,Riga 96.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,972,56.95997052,24.00573344,2023,POINT (24.00573344 56.95997052),True
+3813900699,Riga English secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1183,56.92536327,24.07212675,2023,POINT (24.07212675 56.92536327),True
+3513900767,Riga Anninmuiza secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,726,56.96250404,24.02433508,2023,POINT (24.02433508 56.96250404),True
+3813903445,Riga Arkadija secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,758,56.94163222,24.06955489,2023,POINT (24.06955489 56.94163222),True
+3612903450,Riga East basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,385,56.94165367,24.15223693,2023,POINT (24.15223693 56.94165367),True
+3512903447,Riga Baltmuiza basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,251,56.96968681,24.06417329,2023,POINT (24.06417329 56.96968681),True
+3512903446,Riga Bolderaja New basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,233,57.0362227,24.04625552,2023,POINT (24.04625552 57.0362227),True
+3412900786,Riga Center vocational basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,340,56.94721051,24.11452105,2023,POINT (24.11452105 56.94721051),True
+3413900790,Riga Center humanities secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1143,56.96201404,24.14178645,2023,POINT (24.14178645 56.96201404),True
+3912903313,Riga Ciekurkalns basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,231,56.982895,24.17637465,2023,POINT (24.17637465 56.982895),True
+3512903545,Riga Daugavgriva basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,354,57.0384364,24.02645118,2023,POINT (24.02645118 57.0384364),True
+3713900740,Riga French secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1181,56.96348375,24.12617688,2023,POINT (24.12617688 56.96348375),True
+3713900741,Riga Hanza secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,957,56.9655873,24.12021735,2023,POINT (24.12021735 56.9655873),True
+3812902864,Riga Estonians basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,195,56.91438657,24.08165812,2023,POINT (24.08165812 56.91438657),True
+3512903539,Riga Ilguciems basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,499,56.97114421,24.05704498,2023,POINT (24.05704498 56.97114421),True
+3513900773,Riga Imanta secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1072,56.95664877,23.99861835,2023,POINT (23.99861835 56.95664877),True
+3713900789,Riga Ita Kozakevica Polish secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,338,56.95645864,24.17798688,2023,POINT (24.17798688 56.95645864),True
+3713900757,Riga Jugla secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1668,56.98090707,24.24612489,2023,POINT (24.24612489 56.98090707),True
+3913901617,Riga Culture secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,855,56.97054245,24.1067508,2023,POINT (24.1067508 56.97054245),True
+3613900680,Riga Kengarags secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,680,56.91939962,24.17781111,2023,POINT (24.17781111 56.91939962),True
+3613901263,Riga Lithuanian secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,715,56.90946477,24.19355863,2023,POINT (24.19355863 56.90946477),True
+3413902866,Riga Natalija Draudzina secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,893,56.95698881,24.12902337,2023,POINT (24.12902337 56.95698881),True
+3513900775,Riga Ostvalds secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,975,56.96598986,24.01539981,2023,POINT (24.01539981 56.96598986),True
+3812900704,Riga Pardaugava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,537,56.91232383,24.09715542,2023,POINT (24.09715542 56.91232383),True
+3612902865,Riga Plavnieku basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,865,56.93544134,24.21218574,2023,POINT (24.21218574 56.93544134),True
+3713900749,Riga Purvciems secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1388,56.95151085,24.19320099,2023,POINT (24.19320099 56.95151085),True
+3413903315,Riga Rainis secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,383,56.95800017,24.13453983,2023,POINT (24.13453983 56.95800017),True
+3913900818,Riga Rinuzi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,913,57.03858997,24.09396651,2023,POINT (24.09396651 57.03858997),True
+3912903540,Riga Sarkandaugava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,279,57.00592028,24.12442741,2023,POINT (24.12442741 57.00592028),True
+3411903379,"Riga primary school ""Language""",Primary education,Primary school,ISCED11_1,ISCED11_1,Public,176,56.95313312,24.12412148,2023,POINT (24.12412148 56.95313312),True
+3612903451,Riga Sergejs Zoltoks basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,307,56.94542589,24.16920898,2023,POINT (24.16920898 56.94542589),True
+3713900746,Riga Teika secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1064,56.97643601,24.18487347,2023,POINT (24.18487347 56.97643601),True
+3613900788,Riga Ukrainian secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,390,56.94861174,24.12895426,2023,POINT (24.12895426 56.94861174),True
+3612903378,Riga Valdis Avotins basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,209,56.91860517,24.18124926,2023,POINT (24.18124926 56.91860517),True
+3411900787,Riga Valdis Zalitis primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,511,56.95435439,24.1108398,2023,POINT (24.1108398 56.95435439),True
+3512900779,Riga Waldorf school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,768,56.9681122,24.06536089,2023,POINT (24.06536089 56.9681122),True
+3719903376,Riga State classical gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,1866,56.9536138,24.18158409,2023,POINT (24.18158409 56.9536138),True
+3813903304,Riga Ziepniekkalns secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1071,56.89893963,24.09372589,2023,POINT (24.09372589 56.89893963),True
+3813900724,Riga Zolitude secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1427,56.9464185,24.006989,2023,POINT (24.006989 56.9464185),True
+4212900551,Robeznieki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,59,55.97343507,27.59718378,2023,POINT (27.59718378 55.97343507),True
+4113900619,Roja secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,301,57.50178942,22.80612664,2023,POINT (22.80612664 57.50178942),True
+4313903319,Ropazi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,765,56.97486051,24.63586521,2023,POINT (24.63586521 56.97486051),True
+4212900368,Rozupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,103,56.34023862,26.34523246,2023,POINT (26.34523246 56.34023862),True
+4412900637,Rubene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,176,57.46790423,25.25644404,2023,POINT (25.25644404 57.46790423),True
+4512900281,Rubeni basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,87,56.1311207,25.99188866,2023,POINT (25.99188866 56.1311207),True
+4112902528,Rucava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,76,56.15645711,21.15318275,2023,POINT (21.15318275 56.15645711),True
+4213900378,Rudzati secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,186,56.41689991,26.46284658,2023,POINT (26.46284658 56.41689991),True
+4213902769,Rugaji secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,215,56.99954818,27.12812504,2023,POINT (27.12812504 56.99954818),True
+4212900373,Rusona basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,75,56.21007942,26.87692147,2023,POINT (26.87692147 56.21007942),True
+4413903084,Rujiena secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,402,57.89434964,25.33809518,2023,POINT (25.33809518 57.89434964),True
+4112903179,Sabile basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,123,57.04849633,22.56878424,2023,POINT (22.56878424 57.04849633),True
+4212901167,Sakstagals Janis Klidzejs basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,131,56.54064507,27.14188056,2023,POINT (27.14188056 56.54064507),True
+4413900159,Salacgriva secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,369,57.76662112,24.35414914,2023,POINT (24.35414914 57.76662112),True
+4311902824,Sala primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,120,56.92739098,23.68925794,2023,POINT (23.68925794 56.92739098),True
+4513900261,Sala secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,273,56.50825877,25.76214949,2023,POINT (25.76214949 56.50825877),True
+4313901008,Salaspils 1.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1309,56.85615926,24.3383879,2023,POINT (24.3383879 56.85615926),True
+4312903444,Salaspils basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,873,56.85627642,24.33448042,2023,POINT (24.33448042 56.85627642),True
+4112900014,Saldus basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,395,56.66084991,22.48866218,2023,POINT (22.48866218 56.66084991),True
+4113903122,Saldus secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,755,56.66086303,22.50233247,2023,POINT (22.50233247 56.66086303),True
+4213900512,Saliena secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,130,55.82443992,26.87761909,2023,POINT (26.87761909 55.82443992),True
+4413903454,Saulkrasti secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,743,57.3180065,24.41726726,2023,POINT (24.41726726 57.3180065),True
+4512900983,Seces basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,71,56.55874268,25.40018105,2023,POINT (25.40018105 56.55874268),True
+4512900848,Sesava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,118,56.4252252,23.81935034,2023,POINT (23.81935034 56.4252252),True
+4412901114,Seja basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,128,57.17088239,24.63221153,2023,POINT (24.63221153 57.17088239),True
+4111900233,Seme primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,108,57.04324417,23.13305008,2023,POINT (23.13305008 57.04324417),True
+4312901089,Sigulda 1.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,525,57.15393722,24.8821537,2023,POINT (24.8821537 57.15393722),True
+4313902863,Sigulda city secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1100,57.15972518,24.86599313,2023,POINT (24.86599313 57.15972518),True
+4513901289,Skaistkalne secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,230,56.37844705,24.64942246,2023,POINT (24.64942246 56.37844705),True
+4113901187,Skrunda secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,401,56.6745473,22.0102355,2023,POINT (22.0102355 56.6745473),True
+4412903132,Skujene basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,77,57.07890381,25.57828118,2023,POINT (25.57828118 57.07890381),True
+4112900209,Smarde basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,298,56.95123228,23.33944734,2023,POINT (23.33944734 56.95123228),True
+4413903133,Smiltene secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1055,57.42515844,25.91762459,2023,POINT (25.91762459 57.42515844),True
+4212900426,Stacija basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,66,57.16976495,27.20932487,2023,POINT (27.20932487 57.16976495),True
+4412903245,Staicele basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,138,57.83721299,24.73911347,2023,POINT (24.73911347 57.83721299),True
+4412903329,Stalbe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,161,57.37354461,25.03216551,2023,POINT (25.03216551 57.37354461),True
+4513902755,Stalgene secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,341,56.57157749,23.96103064,2023,POINT (23.96103064 56.57157749),True
+4412900952,Staki basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,122,57.13362265,26.73211759,2023,POINT (26.73211759 57.13362265),True
+4511903526,Stelpe primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,43,56.53277665,24.50616526,2023,POINT (24.50616526 56.53277665),True
+4112900610,Stende basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,177,57.14063341,22.53511939,2023,POINT (22.53511939 57.14063341),True
+4312901128,Stopini basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,314,56.92086067,24.35633576,2023,POINT (24.35633576 56.92086067),True
+4412900315,Straupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,174,57.35433116,24.95161399,2023,POINT (24.95161399 57.35433116),True
+4412900906,Strautini basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,104,57.4056721,26.88946352,2023,POINT (26.88946352 57.4056721),True
+4412903362,Strenci basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,199,57.62651753,25.68309462,2023,POINT (25.68309462 57.62651753),True
+4111903181,Striki primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,105,56.60505605,22.51427949,2023,POINT (22.51427949 56.60505605),True
+4413900187,Suntazi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,321,56.90673536,24.92531796,2023,POINT (24.92531796 56.90673536),True
+4512900284,Sunas basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,283,56.54361227,26.09109243,2023,POINT (26.09109243 56.54361227),True
+4213900519,Svente secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,224,55.90365683,26.38099863,2023,POINT (26.38099863 55.90365683),True
+4512900842,Svete basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,334,56.59218462,23.67821438,2023,POINT (23.67821438 56.59218462),True
+3713900754,S.Dubnova Riga Jewish secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,473,56.96843118,24.13609769,2023,POINT (24.13609769 56.96843118),True
+4512900845,Skibe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,248,56.61874361,23.4411818,2023,POINT (23.4411818 56.61874361),True
+4213900514,Spogi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,320,56.07442512,26.73477989,2023,POINT (26.73477989 56.07442512),True
+4113900617,Talsi 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,749,57.24360934,22.60445431,2023,POINT (22.60445431 57.24360934),True
+4112900593,Talsi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,271,57.25251172,22.58380278,2023,POINT (22.58380278 57.25251172),True
+4119902544,Talsi State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,648,57.24017997,22.59155064,2023,POINT (22.59155064 57.24017997),True
+4412902972,Taurupe basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,141,56.885559,25.34941925,2023,POINT (25.34941925 56.885559),True
+4112900050,Targale basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,217,57.33071557,21.64433675,2023,POINT (21.64433675 57.33071557),True
+4512900841,Tetele basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,202,56.63750802,23.83980705,2023,POINT (23.83980705 56.63750802),True
+4212903537,Tilza basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,153,56.90127805,27.36431911,2023,POINT (27.36431911 56.90127805),True
+4412900959,Tirza basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,160,57.14436849,26.39477804,2023,POINT (26.39477804 57.14436849),True
+4212903517,Tiskade basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,113,56.44037865,27.08585964,2023,POINT (27.08585964 56.44037865),True
+4411903258,Tinuzi primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,205,56.86701637,24.56605786,2023,POINT (24.56605786 56.86701637),True
+4411903171,Trapene primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,56,57.44859323,26.59221321,2023,POINT (26.59221321 57.44859323),True
+4412901204,Trikata basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,137,57.53886949,25.71542592,2023,POINT (25.71542592 57.53886949),True
+4113900224,Tukums 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,911,56.97137157,23.15726084,2023,POINT (23.15726084 56.97137157),True
+4112900238,Tukums 3.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,271,56.96436411,23.14894418,2023,POINT (23.14894418 56.96436411),True
+4112900232,Tukums E.Birznieks-Upitis 1.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,435,56.9642891,23.15159338,2023,POINT (23.15159338 56.9642891),True
+4119903473,Tukums Rainis State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,700,56.9682237,23.14809501,2023,POINT (23.14809501 56.9682237),True
+4112903286,Tume basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,165,56.93613883,23.08596625,2023,POINT (23.08596625 56.93613883),True
+4112901179,Turlava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,141,56.83458549,21.77048381,2023,POINT (21.77048381 56.83458549),True
+4113900055,Ugale secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,210,57.27739936,22.01398426,2023,POINT (22.01398426 57.27739936),True
+4313901107,Ulbroka secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1052,56.92877656,24.32125045,2023,POINT (24.32125045 56.92877656),True
+4412900175,Umurgs basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,197,57.52714228,24.79971758,2023,POINT (24.79971758 57.52714228),True
+4311903380,Upesleja primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,242,56.92416866,24.38536973,2023,POINT (24.38536973 56.92416866),True
+4512903239,Uzvara basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,167,56.31953862,24.26059325,2023,POINT (24.26059325 56.31953862),True
+4112900047,Uzava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,84,57.23088434,21.46016362,2023,POINT (21.46016362 57.23088434),True
+4113903238,V.Pludona Kuldiga secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,698,56.97441704,21.95843418,2023,POINT (21.95843418 56.97441704),True
+4213901322,Vabole secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,91,56.0279749,26.46420213,2023,POINT (26.46420213 56.0279749),True
+4113900999,Vainode secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,232,56.42191258,21.85630244,2023,POINT (21.85630244 56.42191258),True
+4113900616,Valdemarpils secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,225,57.37383114,22.59488878,2023,POINT (22.59488878 57.37383114),True
+4413903137,Valka J.Cimze gymnasium,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,665,57.77466554,26.01473548,2023,POINT (26.01473548 57.77466554),True
+4512903308,Valles basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,78,56.51219033,24.71881966,2023,POINT (24.71881966 56.51219033),True
+2513901058,Valmiera 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,630,57.53898047,25.42666302,2023,POINT (25.42666302 57.53898047),True
+2513901081,Valmiera 5.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,583,57.53898047,25.42666302,2023,POINT (25.42666302 57.53898047),True
+2511902432,Valmiera Pargauja primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,632,57.53898047,25.42666302,2023,POINT (25.42666302 57.53898047),True
+2511902507,Valmiera primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,559,57.53898047,25.42666302,2023,POINT (25.42666302 57.53898047),True
+2513900631,Valmiera Viesturs secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,874,57.53898047,25.42666302,2023,POINT (25.42666302 57.53898047),True
+4313901104,Vangazi secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,454,57.09198075,24.54935605,2023,POINT (24.54935605 57.09198075),True
+4413900128,Varaklani secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,268,56.60773216,26.762577,2023,POINT (26.762577 56.60773216),True
+4412901219,Varini basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,80,57.31870487,26.16835486,2023,POINT (26.16835486 57.31870487),True
+4111903536,Vane primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,66,56.9234959,22.56276963,2023,POINT (22.56276963 56.9234959),True
+4212903530,Varkava basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,108,56.1973331,26.51262231,2023,POINT (26.51262231 56.1973331),True
+4112901178,Vame basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,114,56.87404396,22.23600685,2023,POINT (22.23600685 56.87404396),True
+4413900341,Vecpiebalga secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,279,57.06272557,25.81174805,2023,POINT (25.81174805 57.06272557),True
+4512901302,Vecsaule basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,193,56.4321677,24.35111284,2023,POINT (24.35111284 56.4321677),True
+4513901290,Vecumnieki secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,662,56.60762983,24.51917655,2023,POINT (24.51917655 56.60762983),True
+3212900030,Ventspils 1.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,446,57.38268245,21.56502153,2023,POINT (21.56502153 57.38268245),True
+3212900031,Ventspils 2.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,423,57.3877374,21.55008328,2023,POINT (21.55008328 57.3877374),True
+3213900033,Ventspils 2.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,520,57.38786193,21.56608881,2023,POINT (21.56608881 57.38786193),True
+3212903479,Ventspils 3.basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,315,57.40448496,21.59250281,2023,POINT (21.59250281 57.40448496),True
+3213900035,Ventspils 4.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,614,57.39413167,21.55684043,2023,POINT (21.55684043 57.39413167),True
+3213900037,Ventspils 6.secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,676,57.3932394,21.57171357,2023,POINT (21.57171357 57.3932394),True
+3211902422,Ventspils Center primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,310,57.38806176,21.55836308,2023,POINT (21.55836308 57.38806176),True
+3212903148,Ventspils Parventa basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,324,57.40090051,21.60479755,2023,POINT (21.60479755 57.40090051),True
+4212901168,Verēmi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,190,56.57451083,27.3664499,2023,POINT (27.3664499 56.57451083),True
+4112901023,Vergale basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,140,56.69827018,21.19852571,2023,POINT (21.19852571 56.69827018),True
+4412900176,Vidrizi basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,142,57.3453115,24.66114767,2023,POINT (24.66114767 57.3453115),True
+4212900429,Viduci basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,103,57.13429608,27.64200068,2023,POINT (27.64200068 57.13429608),True
+4513900262,Viesite secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,312,56.34564015,25.55233154,2023,POINT (25.55233154 56.34564015),True
+4512900843,Vilce basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,131,56.41966327,23.54297869,2023,POINT (23.54297869 56.41966327),True
+4111903375,Vilgale primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,155,56.88082788,21.82051304,2023,POINT (21.82051304 56.88082788),True
+4219900075,Vilaka State gymnasium,Primary and secondary education,State Gymnasium,ISCED11_1_2_3,ISCED11_1_2_3,Public,154,57.18291315,27.686832,2023,POINT (27.686832 57.18291315),True
+4213900184,Vilani secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,426,56.55133996,26.92521308,2023,POINT (26.92521308 56.55133996),True
+4111903325,Virbi primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,63,57.12869346,22.64958871,2023,POINT (22.64958871 57.12869346),True
+4512903511,Virca basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,352,56.55818821,23.7743651,2023,POINT (23.7743651 56.55818821),True
+4112902771,Z.A.Meirovica Kabile basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,101,56.95648923,22.39347298,2023,POINT (22.39347298 56.95648923),True
+4513902986,Zelenieki comersial and vocational secondary school,Primary and lower secondary education,Secondary school,ISCED11_1_2,ISCED11_1_2,Public,211,56.53086243,23.5082242,2023,POINT (23.5082242 56.53086243),True
+4112900246,Zante basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,105,56.83604459,22.73194594,2023,POINT (22.73194594 56.83604459),True
+4513900263,Zasa secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,201,56.29313828,25.97878237,2023,POINT (25.97878237 56.29313828),True
+4412900316,Zaube basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,94,56.99908255,25.2664292,2023,POINT (25.2664292 56.99908255),True
+4213900517,Zemgale secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,146,55.71420573,26.46509747,2023,POINT (26.46509747 55.71420573),True
+4113900250,Zemgale secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,425,56.85172534,23.30143978,2023,POINT (23.30143978 56.85172534),True
+4111903361,Zemite primary school,Primary education,Primary school,ISCED11_1,ISCED11_1,Public,47,56.9275776,22.79539337,2023,POINT (22.79539337 56.9275776),True
+4113903297,Zenta Maurina Grobina secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,948,56.53644195,21.16725148,2023,POINT (21.16725148 56.53644195),True
+3813900700,North State gymnasium,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,1041,56.946283,24.02000936,2023,POINT (24.02000936 56.946283),True
+4412900914,Ziemeri basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,119,57.49234134,26.97704627,2023,POINT (26.97704627 57.49234134),True
+4213900476,Zilupe secondary school,Primary and secondary education,Secondary school,ISCED11_1_2_3,ISCED11_1_2_3,Public,224,56.38430542,28.12296817,2023,POINT (28.12296817 56.38430542),True
+4112901264,Zirni basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,83,56.67600934,22.21652158,2023,POINT (22.21652158 56.67600934),True
+4112900046,Zuri basic school,Primary and lower secondary education,Basic school,ISCED11_1_2,ISCED11_1_2,Public,159,57.22534307,21.60701777,2023,POINT (21.60701777 57.22534307),True

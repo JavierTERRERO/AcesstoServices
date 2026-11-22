@@ -1,6 +1,7 @@
 import geopandas as gpd
 import pandas as pd
-from utilities import gisdb_connection, finalise_and_upload, ISCED
+from utilities import gisdb_connection, finalise_and_upload, ISCED, download_from_db
+
 
 df = pd.read_csv(r'V:\GIS_DATABASE\raw_data\education\childcare\USA\Child_Care_Centers.csv')
 
@@ -48,5 +49,3 @@ gdf = gpd.GeoDataFrame(df,
 finalise_and_upload(gdf,
                     service='childcare',
                     iso3='USA')
-
-    

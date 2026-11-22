@@ -1,0 +1,33 @@
+field_name,data_type,description
+unique_id,string,Unique school identifier
+province_code,string,Alphabetic province code
+geocode,int64,Numeric province code
+source_id,int64,Identifier of the data source
+provider,string,Name of the data provider
+authority_id,string,Identifier of the authority (school board)
+authority_name,string,Name of the authority (school board)
+full_address,string,Address of the school as provided in the source
+school_id,string,Original school identifier in the source
+facility_name,string,Name of the facility
+streetAddress,string,Street address (if available)
+postOfficeBoxNumber,string,Post office box number (if available) 
+postalCode,string,Postal code
+addressLocality,string,Location of the school
+min_grade,string,Minimum grade taught at the school
+max_grade,string,Maximum grade taught at the school
+ISCED010,string,ISCED010 classification (1=true 0=false)
+ISCED020,string,ISCED020 classification (1=true 0=false)
+ISCED1,string,ISCED1 classification (1=true 0=false)
+ISCED2,string,ISCED2 classification (1=true 0=false)
+ISCED3,string,ISCED3 classification (1=true 0=false)
+ISCED4Plus,string,ISCED4 or above classification (1=true 0=false)
+is_OLMS,string,Official Language Minority School (1=true 0=false)
+french_immersion,string,French immersion school (1=true 0=false)
+early_immersion,string,Early French immersion school (1=true 0=false)
+middle_immersion,string,Middle French immersion school (1=true 0=false)
+late_immersion,string,Late French immersion school (1=true 0=false)
+facility_type,string,"Description of school type, raw from the source"
+dguid,string,Unique identifier of the Census Sub-Division
+csdname,string,Name of the Census Sub-Division
+geometry,geometry,Point coordinates of the facility
+date_updated,date32[day],Latest source update 

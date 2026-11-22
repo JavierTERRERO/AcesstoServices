@@ -1,0 +1,4 @@
+# Update of November 17, 2025
+
+- The column “facility_type” was dropped by mistake and has been restored. 
+- Wrong information about official minority language schools in Manitoba has been fixed.
